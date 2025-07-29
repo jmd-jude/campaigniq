@@ -1,0 +1,2501 @@
+﻿GENDER,HOME_VALUE,HH_INCOME,NET_WORTH,PRES_KIDS,AGE,HOMEOWNER,CREDIT_RATING,PART_AFFILIATION,CONFIDENCE_LEVEL,BUBBLES,Childrens_Recency_of_Purchase,Fashion_Accessories_and_Beauty_Recency_of_Purchase,Female_and_Male_Apparel_Recency_of_Purchase,High_Ticket_Female_Apparel_Acc_Recency_of_Purchase,High_Ticket_Home_Decor_Recency_of_Purchase,Home_Decor_Recency_of_Purchase,Intimate_Apparel_and_Undergarments_Recency_of_Purchase,Kitchen_and_Bath_Recency_of_Purchase,Male_Apparel_Recency_of_Purchase,Modern_Contemporary_Decor_and_Gifts_Recency_of_Purchase,Other_Recency_of_Purchase,Purchase_Date_Range,TARGET
+F,S,Q,I,,65-74,H,C,D,0,Country Club Set,,4,2,1,2,2,4,3,5,2,2,1,1
+F,L,Q,H,TRUE,55-64,H,C,R,0,Minivans and Malls,,5,5,,2,2,5,5,,3,,2,1
+M,S,S,I,TRUE,45-54,H,C,I,0,Lowkey Luxe,,,,,,,,,,,,5,1
+F,U,D,G,,65-74,H,E,D,0,Urban Mashup,,3,,2,3,,,5,,3,,2,1
+M,U,O,H,,45-54,R,B,D,0,Jet Setters,,,5,,1,5,,3,,1,5,1,1
+M,Q,E,I,TRUE,55-64,H,B,D,0,Melting Pot Medley,4,5,5,1,1,5,1,,,3,,1,1
+F,S,S,I,TRUE,65-74,H,B,D,0,Wealth Whispers,5,1,3,2,2,5,2,,3,2,3,1,1
+M,S,O,G,TRUE,65-74,H,B,U,0,Wealth Whispers,,,5,5,1,1,,,,2,,1,1
+M,S,S,I,TRUE,35-44,H,D,L,0,Glitterati,2,,,2,5,5,,,,5,,1,1
+F,Q,O,G,TRUE,55-64,H,B,,0,Wealth Whispers,,2,,3,3,3,,,,,,2,1
+F,Q,S,I,TRUE,75+,H,C,D,0,Old Money,5,5,,,1,,,4,,1,,1,1
+F,G,N,H,TRUE,65-74,H,B,D,0,Affluent Acres,,,5,,2,5,5,,,4,,2,1
+F,Q,Q,I,,55-64,H,C,D,0,Jet Setters,3,,5,,,,3,,,,5,1,1
+M,Q,S,I,TRUE,65-74,H,C,R,0,Old Money,4,4,4,5,5,,5,5,,5,4,2,1
+F,S,Q,I,TRUE,65-74,H,B,R,0,Urban Elites,,5,,5,2,5,5,,,2,,1,1
+F,O,O,I,,75+,H,B,D,0,Senior Elite,,,,2,,,,,,,,1,1
+F,S,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,,,,,,,,,,,1
+M,R,R,I,TRUE,45-54,H,B,R,0,Jet Setters,5,2,,,3,,,3,,4,,2,1
+M,M,O,H,TRUE,55-64,H,G,R,0,Wealth Whispers,,1,5,,1,,,4,2,1,,1,1
+M,M,J,H,TRUE,65-74,H,C,R,0,Silver Sneakers,,,,,2,2,,,,2,,2,1
+F,Q,R,I,TRUE,65-74,H,B,R,0,Wealth Whispers,,3,5,,1,5,,1,2,3,,1,1
+M,,A,,,65-74,,,U,0,Mid Century Moderns,,,,,1,,,,,1,5,1,1
+F,,,I,TRUE,55-64,H,,D,0,Wealth Whispers,,,3,,2,3,,,1,2,,1,1
+F,R,S,H,TRUE,55-64,H,C,R,0,Single and Thriving,,2,4,,,,,,5,,,1,1
+F,P,N,H,TRUE,55-64,H,C,R,0,Single Sophisticates,,4,,,1,,,,,1,,1,1
+M,Q,R,I,TRUE,45-54,H,C,D,0,Jet Setters,4,2,2,2,2,4,2,,,2,,2,1
+F,S,R,I,TRUE,55-64,H,C,,0,Lowkey Luxe,,5,,,5,5,5,,,5,,2,1
+F,S,R,I,TRUE,65-74,H,A,D,0,Wealth Whispers,,5,2,2,1,,,4,5,1,,1,1
+M,S,R,I,TRUE,65-74,H,D,,0,Old Money,,,,,1,,,,,1,,1,1
+M,R,O,I,TRUE,65-74,H,C,D,0,Old Money,,4,,,5,5,2,5,,5,,2,1
+F,S,O,I,TRUE,65-74,H,B,D,0,Old Money,,5,,,4,,,4,,,,3,1
+M,S,Q,I,TRUE,55-64,H,B,D,0,Single and Thriving,,,,,,,,,5,,,2,1
+M,S,Q,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,,,5,,1,4,,,,1,,1,1
+F,S,S,I,TRUE,65-74,H,C,,0,Old Money,,2,1,1,1,5,5,2,3,1,5,1,1
+M,S,R,I,TRUE,75+,H,C,D,0,Urban Elites,5,,,1,2,,,3,,2,,1,1
+F,S,O,I,,65-74,H,B,I,0,Urban Elites,,,5,5,,,5,,,,,5,1
+M,S,P,I,TRUE,45-54,H,A,D,0,Jet Setters,,,,2,,,,,,,,2,1
+M,S,P,I,TRUE,45-54,H,A,D,0,Jet Setters,,,,2,,,,,,,,2,1
+M,S,S,I,,75+,H,C,D,0,Urban Elites,,,,5,2,5,,,,2,,1,1
+M,S,Q,I,,65-74,H,B,I,0,Urban Elites,,,,,,,,,,,,2,1
+M,S,Q,I,,65-74,H,B,I,0,Urban Elites,,,,,,,,,,,,2,1
+M,S,O,I,TRUE,65-74,H,E,R,0,Urban Elites,1,,1,1,1,2,2,,,1,,1,1
+M,S,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,4,,,1,,,5,,1,,1,1
+F,S,S,I,TRUE,75+,H,B,R,0,Urban Elites,,,,,,,,,,,,3,1
+F,U,Q,I,,65-74,H,C,D,0,Old Money,2,,,,1,5,,5,,5,,1,1
+M,R,S,I,,45-54,H,C,,0,Lowkey Luxe,5,5,,4,1,3,4,2,1,1,3,1,1
+F,S,Q,I,TRUE,35-44,H,E,R,0,Life in the Fast Lane,4,,3,3,,,1,,,1,,1,1
+M,S,O,I,,55-64,H,B,D,0,Single and Thriving,,,,,,,,,,,,,1
+F,S,N,I,TRUE,75+,H,B,,0,Affluent Acres,,,,5,,,5,,,,,2,1
+F,S,R,I,TRUE,65-74,H,B,D,0,Hometown Heroes,,5,2,4,4,5,5,5,,4,5,1,1
+F,S,R,I,,65-74,H,C,,0,Old Money,5,5,2,2,1,1,,,4,1,,1,1
+F,S,R,I,TRUE,65-74,H,D,I,0,Old Money,,5,1,1,1,,5,,,1,,1,1
+F,R,S,I,TRUE,25-34,H,B,D,0,Life in the Fast Lane,5,4,,3,2,2,5,2,,2,5,1,1
+F,,O,I,,65-74,H,,,0,Wealth Whispers,,3,,,3,,,5,4,3,,1,1
+M,U,R,I,,65-74,H,A,R,0,Urban Elites,,5,4,,,,,,,,,3,1
+F,S,S,I,TRUE,55-64,H,B,,0,Wealth Whispers,5,5,5,,3,3,,5,5,4,,2,1
+F,S,S,I,TRUE,75+,H,C,D,0,Senior Elite,,,,,,,,,,,,5,1
+F,S,L,I,,75+,H,A,D,0,Silver Sneakers,,5,2,,1,,,3,,1,4,1,1
+F,S,S,I,,75+,H,B,D,0,Senior Elite,,4,3,1,2,,4,5,1,2,5,1,1
+M,S,N,E,TRUE,55-64,H,,D,0,Working for the Weekend,,,5,,1,,,,1,1,,1,1
+F,S,O,I,TRUE,45-54,H,D,D,0,Lowkey Luxe,,,,,,,,,,,,,1
+M,Q,,I,TRUE,55-64,H,C,R,0,Single and Thriving,2,,,,5,,,,,5,,2,1
+F,S,S,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,,,,,,,,,,,,5,1
+F,N,O,H,TRUE,55-64,H,D,R,0,Single and Thriving,5,,,,2,,,,,2,,1,1
+M,R,N,G,,75+,H,C,R,0,Silver Sneakers,,,,,2,2,,,1,,,1,1
+M,Q,N,H,,45-54,H,B,,0,Successful Singles,,,4,,1,1,,2,4,1,,1,1
+F,F,N,G,,65-74,H,C,,0,Smart Singles,,,,,,,,,,,,1,1
+M,S,M,I,,65-74,H,C,I,0,Home for the Holidays,,,4,1,1,3,5,2,2,1,,1,1
+F,S,O,I,TRUE,45-54,H,B,R,0,Minivans and Malls,4,4,5,,4,4,2,,3,5,,2,1
+M,R,O,I,FALSE,65-74,H,C,,0,Single and Thriving,,,,,2,,,,,4,,2,1
+F,,M,I,TRUE,45-54,,,D,0,Working for the Weekend,5,4,4,4,4,5,3,,4,4,5,1,1
+F,,S,G,TRUE,65-74,H,,D,0,Old Money,5,1,2,2,1,1,5,5,5,5,5,1,1
+F,S,R,I,TRUE,35-44,H,B,,0,Jet Setters,4,,,,2,5,,3,,2,,2,1
+M,,,,,35-44,,,,1,Date Nights City Lights,1,,,,1,,,,,1,,1,1
+M,,,,,35-44,,,,1,Date Nights City Lights,1,,,,1,,,,,1,,1,1
+F,S,S,I,TRUE,35-44,H,B,D,0,Life in the Fast Lane,,5,2,5,5,,5,5,,5,,2,1
+F,S,S,I,TRUE,35-44,H,B,D,0,Life in the Fast Lane,,5,2,5,5,,5,5,,5,,2,1
+F,S,S,I,TRUE,35-44,H,B,D,0,Life in the Fast Lane,,5,2,5,5,,5,5,,5,,2,1
+M,S,Q,I,,65-74,H,C,,0,Urban Elites,,,2,,,,,,,,,1,1
+F,R,R,I,,65-74,H,B,,0,Wealth Whispers,,2,2,,1,3,,2,2,5,,1,1
+F,U,N,I,,35-44,R,C,D,0,Date Nights City Lights,,3,1,1,3,4,5,,,3,,1,1
+F,U,N,I,,35-44,R,C,D,0,Date Nights City Lights,,3,1,1,3,4,5,,,3,,1,1
+M,U,H,A,TRUE,35-44,R,E,,0,Single and Surviving,,,5,,2,5,,2,5,3,,2,1
+M,R,Q,I,TRUE,35-44,H,D,D,0,Life in the Fast Lane,4,,,,,,,,,,,4,1
+M,R,Q,I,TRUE,35-44,H,D,D,0,Life in the Fast Lane,4,,,,,,,,,,,4,1
+F,,,I,,75+,H,,,0,Old Money,5,,2,4,1,,,,,1,,1,1
+F,S,R,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,1,1,2,3,,3,3,1,3,,1,1
+F,S,S,I,FALSE,35-44,H,B,D,0,Glitterati,5,4,1,1,4,5,3,5,4,4,,1,1
+M,R,O,I,TRUE,45-54,H,D,I,0,Jet Setters,,,,,3,3,,,,5,,3,1
+F,R,S,I,TRUE,45-54,H,B,R,0,Jet Setters,,5,5,,2,,5,2,,2,,2,1
+F,S,N,I,FALSE,45-54,H,B,R,0,Working for the Weekend,5,,,,3,,,3,1,,,1,1
+F,S,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,,,,,,,,,,,1
+F,S,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,,,,,,,,,,,1
+F,Q,N,I,,35-44,H,E,L,0,Downtown Dreamers,,,3,2,1,5,2,,,1,,1,1
+F,S,R,H,TRUE,45-54,H,,D,0,Lowkey Luxe,,,5,,2,,,2,,5,5,1,1
+F,S,Q,I,TRUE,75+,H,B,R,0,Old Money,,,2,,2,,,5,,2,,1,1
+F,S,S,I,TRUE,55-64,H,C,,0,Wealth Whispers,2,3,5,1,1,3,5,,5,1,5,1,1
+F,S,R,H,TRUE,55-64,H,,D,0,Wealth Whispers,,5,1,2,4,,4,,2,4,3,1,1
+F,U,N,H,TRUE,35-44,R,D,R,0,Movin On Up,5,3,4,5,1,,5,5,,5,,1,1
+F,Q,O,H,TRUE,25-34,H,C,I,0,Glitterati,,,,,,,,,,,,,1
+F,N,S,I,TRUE,35-44,H,C,D,0,Life in the Fast Lane,,4,,5,2,4,,2,,2,,2,1
+M,,H,G,,65-74,H,,,2,Mid Century Moderns,,,,,,,,,,,,2,1
+M,K,O,G,,55-64,H,B,D,0,Jet Setters,,,,,2,5,,5,5,2,,2,1
+F,O,M,I,TRUE,45-54,H,D,D,0,Working for the Weekend,,,,,,,,,,,,,1
+F,O,M,I,TRUE,45-54,H,D,D,0,Working for the Weekend,,,,,,,,,,,,,1
+F,O,M,I,TRUE,45-54,H,D,D,0,Working for the Weekend,,,,,,,,,,,,,1
+F,O,M,I,TRUE,45-54,H,D,D,0,Working for the Weekend,,,,,,,,,,,,,1
+F,O,M,I,TRUE,45-54,H,D,D,0,Working for the Weekend,,,,,,,,,,,,,1
+F,S,S,I,TRUE,55-64,H,,L,0,Wealth Whispers,,1,5,4,1,3,1,2,5,1,,1,1
+F,U,J,I,,25-34,H,,,0,Date Nights City Lights,,1,2,3,5,5,,5,,5,5,1,1
+F,,H,,FALSE,18-24,R,,,2,Tik Tok and Tie Dye,,,,,,,,,,,,,1
+F,S,O,I,TRUE,45-54,H,B,D,0,Jet Setters,,,,,,,,,,,,5,1
+F,S,O,I,TRUE,45-54,H,B,D,0,Jet Setters,,,,,,,,,,,,5,1
+M,S,N,G,TRUE,35-44,H,B,L,0,Movin On Up,5,4,,,2,5,,3,5,2,,1,1
+M,S,N,G,TRUE,35-44,H,B,L,0,Movin On Up,5,4,,,2,5,,3,5,2,,1,1
+M,U,R,I,TRUE,55-64,H,B,,0,Jet Setters,,,,,,,,,,,,5,1
+F,M,J,F,,65-74,H,C,I,0,Silver Sneakers,,,,,,,,,,,,,1
+M,S,J,F,TRUE,45-54,H,,,0,Movin On Up,5,,,,,,,,,,,1,1
+F,S,J,D,,55-64,H,A,D,0,Single Sophisticates,,5,5,2,1,1,4,,5,1,2,1,1
+F,S,R,I,TRUE,55-64,H,,,0,Wealth Whispers,,,,,,,,,,,,,1
+F,S,R,I,TRUE,55-64,H,,,0,Wealth Whispers,,,,,,,,,,,,,1
+F,S,S,I,TRUE,45-54,H,C,D,0,Lowkey Luxe,,5,3,1,2,2,5,5,1,4,5,1,1
+F,N,I,I,TRUE,45-54,H,D,D,0,American Dreamers,,,,,1,1,,,,,,1,1
+M,S,D,I,TRUE,45-54,H,C,R,0,Single and Surviving,,3,5,,2,,,5,,5,,2,1
+F,S,O,H,TRUE,45-54,H,A,D,0,Lowkey Luxe,,,,,,,,,,,,,1
+F,G,N,E,TRUE,45-54,H,C,R,0,Working for the Weekend,,,,,,,,,,,,5,1
+M,Q,P,G,,45-54,H,,,0,Patriotic and Proud,,4,,5,4,,,,,5,,3,1
+M,Q,P,G,,45-54,H,,,0,Patriotic and Proud,,4,,5,4,,,,,5,,3,1
+F,S,S,I,TRUE,65-74,H,B,D,0,Urban Elites,,1,,,3,,,5,,3,,1,1
+M,S,S,I,TRUE,45-54,H,C,,0,Jet Setters,,1,1,1,1,1,5,2,,1,5,1,1
+M,,L,H,,65-74,R,,,0,Single Sophisticates,,,,,,,,,,,,2,1
+M,,L,H,,65-74,R,,,0,Single Sophisticates,,,,,,,,,,,,2,1
+M,,L,H,,65-74,R,,,0,Single Sophisticates,,,,,,,,,,,,2,1
+F,S,S,I,TRUE,35-44,H,B,,0,Glitterati,,4,1,,1,4,5,2,,1,5,1,1
+F,S,N,I,TRUE,35-44,H,D,,0,Date Nights City Lights,4,,5,,1,4,,,,1,,1,1
+F,S,N,I,TRUE,35-44,H,D,,0,Date Nights City Lights,4,,5,,1,4,,,,1,,1,1
+F,S,Q,I,,65-74,H,,R,0,Wealth Whispers,,,1,,1,1,,,,,,1,1
+F,Q,P,I,,55-64,H,B,R,0,Single and Thriving,2,,,1,1,5,,,,1,,1,1
+M,R,O,G,FALSE,35-44,H,D,D,0,Life in the Fast Lane,5,5,,1,5,,,,5,5,,1,1
+F,U,Q,I,FALSE,45-54,H,C,,0,Jet Setters,,3,2,1,2,2,,,,1,5,1,1
+M,S,S,I,,75+,H,B,,0,Senior Elite,,,,,2,,,,,2,,2,1
+F,U,S,I,TRUE,25-34,H,C,,0,Life in the Fast Lane,,5,,5,2,5,,4,,2,,1,1
+F,U,S,I,TRUE,35-44,H,C,,0,Life in the Fast Lane,5,,,,,,,,3,,,1,1
+M,A,N,A,TRUE,35-44,H,,D,0,Single in the Suburbs,,,,,4,5,,,,4,,4,1
+F,O,N,H,TRUE,25-34,H,B,D,0,Date Nights City Lights,,,3,2,1,5,3,4,,1,5,1,1
+M,U,S,I,TRUE,55-64,R,,,0,Wealth Whispers,,5,,,,5,,,,,5,1,1
+M,,O,I,TRUE,65-74,H,,D,0,Country Club Set,3,,1,,1,1,,,,5,,1,1
+M,J,O,I,,55-64,H,D,D,0,Single and Thriving,,,1,,,,,,1,,,1,1
+M,P,R,H,TRUE,35-44,H,C,,0,Life in the Fast Lane,,5,2,,3,4,,3,,3,2,2,1
+M,S,R,I,,55-64,H,B,R,0,Single and Thriving,,,,,,,,,,,,,1
+M,S,R,I,,55-64,H,B,R,0,Single and Thriving,,,,,,,,,,,,,1
+M,U,S,I,TRUE,35-44,,,R,0,Life in the Fast Lane,,4,5,,2,,,5,1,2,3,1,1
+M,U,S,I,TRUE,35-44,,,R,0,Life in the Fast Lane,,4,5,,2,,,5,1,2,3,1,1
+M,S,S,I,TRUE,45-54,H,C,I,0,Jet Setters,,5,4,,3,,,,,3,,2,1
+F,U,Q,I,,75+,H,C,D,0,Country Club Set,5,5,2,,5,,5,,,5,5,2,1
+F,U,Q,I,,75+,H,C,D,0,Country Club Set,5,5,2,,5,,5,,,5,5,2,1
+F,N,P,H,TRUE,55-64,H,C,L,0,Jet Setters,5,,2,2,2,2,,,5,2,,2,1
+M,R,J,F,TRUE,55-64,H,,D,0,Working for the Weekend,1,3,3,2,2,3,5,5,1,2,,1,1
+M,S,Q,I,TRUE,45-54,H,,D,0,Jet Setters,,2,2,,2,5,,3,2,2,,2,1
+M,S,Q,I,TRUE,45-54,H,,D,0,Jet Setters,,2,2,,2,5,,3,2,2,,2,1
+F,U,Q,I,TRUE,35-44,H,C,L,0,Glitterati,3,4,3,,5,,,5,,5,,2,1
+F,S,S,I,TRUE,55-64,H,B,R,0,Jet Setters,,2,1,1,2,4,2,2,1,4,5,1,1
+F,U,S,I,,45-54,R,D,D,0,Lowkey Luxe,5,5,5,5,1,5,2,1,,,,1,1
+F,S,S,I,TRUE,25-34,H,B,I,0,Life in the Fast Lane,,,,,,,,,5,,,1,1
+M,S,S,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,,,,,,,,,,,,1
+M,U,K,H,,25-34,R,D,D,0,Date Nights City Lights,,5,,,1,5,,,5,1,,1,1
+M,U,K,H,,25-34,R,D,D,0,Date Nights City Lights,,5,,,1,5,,,5,1,,1,1
+M,,H,H,,35-44,R,,D,0,Subway Surfers,,5,,,3,3,,5,,3,,3,1
+F,S,S,I,TRUE,45-54,H,B,R,0,Jet Setters,5,,1,2,1,1,,3,5,,5,1,1
+F,S,O,H,TRUE,25-34,H,G,D,0,Life in the Fast Lane,5,,5,1,2,5,,,3,2,,1,1
+F,,Q,I,TRUE,35-44,R,,,0,Life in the Fast Lane,,,5,,,,,5,,,,5,1
+F,S,O,I,,55-64,H,B,,0,Jet Setters,2,,,,5,,,,,,,2,1
+F,S,O,I,,55-64,H,B,,0,Jet Setters,2,,,,5,,,,,,,2,1
+M,U,S,I,TRUE,35-44,R,C,D,0,Lowkey Luxe,4,3,1,2,2,5,4,5,2,2,,1,1
+F,U,F,A,TRUE,35-44,R,C,L,0,Subway Surfers,,5,5,2,2,,3,4,,3,1,1,1
+M,U,H,A,FALSE,35-44,R,D,R,0,Subway Surfers,,,,5,1,4,,,3,1,4,1,1
+F,U,O,I,FALSE,45-54,H,D,,0,Jet Setters,,5,4,2,4,4,4,,,4,1,1,1
+F,R,N,A,TRUE,35-44,H,,,0,Downtown Dreamers,,5,2,,2,,2,5,5,2,,1,1
+F,P,S,A,TRUE,35-44,H,C,L,0,Glitterati,,,,,,,,,,,,,1
+F,S,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,4,1,4,1,1,,5,,1,,1,1
+M,R,S,I,,65-74,H,E,,0,Single and Thriving,,,,4,,,4,,1,,,1,1
+M,R,S,I,,65-74,H,E,,0,Single and Thriving,,,,4,,,4,,1,,,1,1
+M,R,S,I,,65-74,H,E,,0,Single and Thriving,,,,4,,,4,,1,,,1,1
+F,Q,S,I,,55-64,H,C,I,0,Wealth Whispers,,5,3,3,1,3,4,,,1,3,1,1
+F,U,S,I,,75+,R,C,R,0,Urban Elites,4,5,,1,2,5,4,2,,3,,1,1
+M,Q,O,I,TRUE,35-44,H,B,I,0,Jet Setters,,,5,2,1,1,,,,5,,1,1
+M,Q,O,I,TRUE,35-44,H,B,I,0,Jet Setters,,,5,2,1,1,,,,5,,1,1
+M,S,S,I,TRUE,35-44,H,B,R,0,Life in the Fast Lane,3,5,,5,1,3,5,2,5,1,2,1,1
+F,,O,I,TRUE,55-64,H,,,0,Single and Thriving,,3,1,2,5,5,3,5,,5,,1,1
+M,K,J,H,,75+,H,B,D,0,Silver Sneakers,,,,,2,,,,,2,,2,1
+M,Q,R,I,TRUE,25-34,H,C,D,0,Life in the Fast Lane,,,,,,,,,,,,,1
+F,S,R,I,FALSE,55-64,H,B,,0,Single and Thriving,,5,1,1,1,1,4,5,,1,,1,1
+M,,H,F,,55-64,H,,D,0,Urban Mashup,,,,,4,,,,,4,,4,1
+F,S,R,I,TRUE,35-44,H,B,D,0,Lowkey Luxe,5,5,1,1,1,1,5,,4,2,,1,1
+F,S,P,I,TRUE,55-64,H,B,I,0,Single and Thriving,,,,5,5,5,3,,,5,5,1,1
+F,R,R,I,,65-74,H,B,L,0,Urban Elites,,,5,,5,,5,,,5,,2,1
+M,S,R,I,,55-64,H,C,D,0,Single and Thriving,5,1,,,2,,,,4,2,,1,1
+F,O,O,H,TRUE,45-54,H,D,R,0,Jet Setters,,,,,,,,,,,,,1
+F,O,O,H,TRUE,45-54,H,D,R,0,Jet Setters,,,,,,,,,,,,,1
+F,,,,FALSE,35-44,,,D,0,Life in the Fast Lane,,,,,1,,,,,1,,1,1
+M,E,L,G,TRUE,45-54,H,D,,0,Working for the Weekend,,3,,4,1,1,5,5,,,,1,1
+F,U,O,I,,75+,H,B,I,0,Urban Elites,,,,,5,,,,2,5,,2,1
+M,S,R,I,,75+,H,B,D,0,Urban Elites,,,,,,,,,,,,3,1
+F,M,J,F,,75+,H,B,,0,Silver Sneakers,,4,,,4,5,,4,,,,1,1
+F,,N,H,,65-74,H,,,0,Country Clout,,,3,,,,,,5,5,,2,1
+F,K,M,G,TRUE,75+,H,B,,0,Golden Era,5,2,2,1,1,2,5,1,1,1,,1,1
+F,N,N,I,TRUE,35-44,H,B,D,0,Movin On Up,,2,2,,1,1,,,,1,5,1,1
+M,J,O,H,TRUE,45-54,H,,,0,Jet Setters,5,4,,5,5,,,,,5,,4,1
+F,Q,N,I,TRUE,55-64,H,C,,0,Dynamic Duos,,,,,1,1,,,,1,4,1,1
+F,,Q,I,,55-64,9,,,2,Jet Setters,,,4,,2,,5,,,2,,2,1
+M,,A,I,FALSE,35-44,H,,D,0,Penny Pinching Couples,,,,,,,2,,1,,2,1,1
+F,G,O,F,TRUE,45-54,H,D,R,0,Jet Setters,,,3,5,4,,,4,,,,3,1
+F,G,O,F,TRUE,45-54,H,D,R,0,Jet Setters,,,3,5,4,,,4,,,,3,1
+F,G,O,F,TRUE,45-54,H,D,R,0,Jet Setters,,,3,5,4,,,4,,,,3,1
+M,O,N,C,TRUE,45-54,H,C,D,0,Successful Singles,,,1,,1,5,,,,1,,1,1
+F,U,O,I,TRUE,55-64,H,B,,0,Single and Thriving,,3,5,2,3,,5,5,5,,1,1,1
+M,,A,A,TRUE,35-44,8,,D,0,Subway Surfers,,5,,,1,,,,2,1,,1,1
+M,,A,A,TRUE,35-44,8,,D,0,Subway Surfers,,5,,,1,,,,2,1,,1,1
+F,Q,O,H,TRUE,25-34,H,C,,0,Life in the Fast Lane,,,5,,,,,,,,,5,1
+M,S,O,I,TRUE,25-34,H,,R,0,Glitterati,5,5,2,4,1,5,5,5,5,1,,1,1
+M,Q,J,H,TRUE,35-44,H,D,R,0,Movin On Up,,,,,,,,,,,,,1
+F,,J,H,TRUE,65-74,R,,D,0,Smart Singles,3,4,,3,1,,5,2,,2,,1,1
+F,U,L,A,TRUE,35-44,R,,I,0,Date Nights City Lights,,,,,,,,,,,,,1
+F,S,S,I,TRUE,65-74,H,D,U,0,Urban Elites,,5,3,1,2,3,5,4,4,2,,1,1
+F,,,I,FALSE,45-54,,,,0,Jet Setters,,,,2,,,2,,,,,2,1
+F,U,O,H,FALSE,35-44,R,B,,0,Life in the Fast Lane,,1,,,1,1,4,5,3,1,5,1,1
+F,U,O,H,FALSE,35-44,R,B,,0,Life in the Fast Lane,,1,,,1,1,4,5,3,1,5,1,1
+M,O,K,F,FALSE,55-64,H,E,R,0,Single Sophisticates,,,,,2,,,,4,2,,2,1
+F,G,J,B,FALSE,35-44,H,F,,0,Working for the Weekend,,,,,,,,,,,,,1
+F,S,S,I,TRUE,35-44,H,D,R,0,Jet Setters,4,,1,1,2,,,,,2,,1,1
+F,U,H,G,TRUE,35-44,R,C,D,0,Subway Surfers,,,,,,,,,,,,4,1
+M,,O,I,,75+,R,,D,0,Old Money,,5,,,,5,5,,5,,,3,1
+F,O,R,I,,45-54,H,B,R,0,Jet Setters,,,3,1,1,5,1,1,,2,5,1,1
+F,U,O,I,FALSE,,,,,0,Jet Setters,,,,,,,,,,,,,1
+F,U,O,I,FALSE,,,,,0,Jet Setters,,,,,,,,,,,,,1
+F,U,O,I,FALSE,,,,,0,Jet Setters,,,,,,,,,,,,,1
+F,U,O,I,FALSE,,,,,0,Jet Setters,,,,,,,,,,,,,1
+M,R,R,I,TRUE,75+,H,C,R,0,Old Money,,5,5,,,,5,,5,,,2,1
+M,U,R,H,,55-64,H,B,D,0,Wealth Whispers,,,,,,,,,,,,,1
+F,,O,I,TRUE,55-64,H,,R,0,Lowkey Luxe,,,2,1,4,,5,,,4,,1,1
+F,,,,,65-74,,,D,1,Urban Elites,,2,,,,,,4,,,,2,1
+F,,,,,65-74,,,D,1,Urban Elites,,2,,,,,,4,,,,2,1
+F,S,S,I,TRUE,25-34,H,,D,0,Life in the Fast Lane,,4,,,5,5,,,,,,2,1
+M,O,N,F,TRUE,55-64,H,D,D,0,Movin On Up,,,,,2,2,,3,,,,2,1
+F,M,N,G,FALSE,35-44,H,C,D,0,Date Nights City Lights,,5,,5,,,5,5,,,,5,1
+F,M,N,G,FALSE,35-44,H,C,D,0,Date Nights City Lights,,5,,5,,,5,5,,,,5,1
+F,Q,P,I,FALSE,55-64,H,B,D,0,Suburban Socialites,,,,5,1,4,5,,,1,2,1,1
+F,U,S,I,TRUE,45-54,R,B,,0,Jet Setters,4,4,1,2,5,5,5,,,,,1,1
+F,Q,N,I,TRUE,35-44,H,C,,0,Movin On Up,,,,,,,,,,,,,1
+F,,L,,FALSE,,,,,2,Smart Singles,,,,,,,,,,,,,1
+F,U,S,I,TRUE,45-54,H,C,D,0,Jet Setters,,,,,,,,,,,,4,1
+F,S,Q,I,TRUE,45-54,H,B,R,0,Lowkey Luxe,5,5,1,1,2,2,5,3,2,4,2,1,1
+F,S,Q,I,TRUE,45-54,H,B,R,0,Lowkey Luxe,5,5,1,1,2,2,5,3,2,4,2,1,1
+M,Q,N,E,TRUE,35-44,H,E,D,0,Downtown Dreamers,5,5,1,5,2,4,3,5,,4,,1,1
+M,H,F,F,TRUE,75+,H,E,R,0,Blue Collar Boomers,5,5,5,,1,,,,,5,,1,1
+F,R,O,I,TRUE,65-74,R,A,R,0,Single and Thriving,,,,1,5,,,5,,,,1,1
+F,R,O,I,TRUE,65-74,R,A,R,0,Single and Thriving,,,,1,5,,,5,,,,1,1
+F,O,L,H,TRUE,45-54,H,C,R,0,Successful Singles,,1,2,1,1,,,3,,2,,1,1
+F,G,N,H,,75+,H,C,R,0,Smart Singles,,1,4,,2,,,,2,2,2,1,1
+F,U,L,E,TRUE,65-74,H,D,,0,Smart Singles,5,3,3,4,2,,4,2,3,4,,1,1
+F,,,,FALSE,45-54,,,,2,Jet Setters,,3,,5,2,,,5,,3,,2,1
+M,,H,A,,55-64,8,,,0,Urban Mashup,,,,5,,,5,,,,,2,1
+F,,O,H,TRUE,55-64,H,,,1,Suburban Socialites,,5,5,1,1,,,5,2,1,5,1,1
+M,,F,F,TRUE,55-64,H,,,0,Urban Mashup,,4,,,3,4,3,,,3,4,3,1
+F,S,S,I,TRUE,45-54,H,C,I,0,Lowkey Luxe,,4,4,1,,,,,5,,4,1,1
+M,S,N,I,FALSE,45-54,H,E,,0,Working for the Weekend,,,,,,,,,,,,,1
+M,Q,O,H,TRUE,35-44,H,D,,0,Glitterati,,,,,,,,,,,,5,1
+M,R,F,,FALSE,35-44,H,E,D,0,Subway Surfers,,4,3,,5,,,3,,5,,3,1
+M,R,F,,FALSE,35-44,H,E,D,0,Subway Surfers,,4,3,,5,,,3,,5,,3,1
+M,R,F,,FALSE,35-44,H,E,D,0,Subway Surfers,,4,3,,5,,,3,,5,,3,1
+F,U,Q,H,TRUE,45-54,,,D,0,Jet Setters,5,,,,2,2,,,,1,5,1,1
+F,Q,E,G,TRUE,25-34,H,C,R,0,Subway Surfers,,4,,2,1,5,,,,1,5,1,1
+F,Q,E,G,TRUE,25-34,H,C,R,0,Subway Surfers,,4,,2,1,5,,,,1,5,1,1
+F,O,L,F,TRUE,35-44,H,C,,0,Working for the Weekend,,5,,,1,5,3,4,,1,,1,1
+F,,H,I,TRUE,75+,H,,D,0,Back at the Ranch,,,,,,,,,,,,3,1
+F,,H,I,TRUE,75+,H,,D,0,Back at the Ranch,,,,,,,,,,,,3,1
+F,,H,I,TRUE,75+,H,,D,0,Back at the Ranch,,,,,,,,,,,,3,1
+F,S,I,F,,65-74,H,B,R,0,Blue Collar Boomers,4,2,4,1,2,5,5,2,,2,4,1,1
+F,S,Q,I,TRUE,55-64,H,A,R,0,Single and Thriving,5,,3,,5,5,4,5,,5,,3,1
+M,S,S,I,,65-74,H,B,D,0,Urban Elites,,,,,2,2,,,2,1,,1,1
+M,S,S,I,,65-74,H,B,D,0,Urban Elites,,,,,2,2,,,2,1,,1,1
+M,S,S,I,,65-74,H,B,D,0,Urban Elites,,,,,2,2,,,2,1,,1,1
+F,,K,G,FALSE,45-54,,,,0,Working for the Weekend,,,,,,,,,,,,,1
+F,S,N,H,,45-54,H,,,0,Working for the Weekend,5,5,,,1,,,4,,1,,1,1
+M,U,O,I,TRUE,45-54,H,D,,0,Lowkey Luxe,,,5,5,1,1,,5,,1,,1,1
+F,,,,TRUE,45-54,R,,,2,Jet Setters,,,,3,2,,5,5,,2,4,2,1
+M,,L,H,FALSE,35-44,H,,D,0,Date Nights City Lights,,,5,,4,4,,,,4,,4,1
+F,U,S,I,TRUE,45-54,H,B,R,0,Jet Setters,,1,,4,5,5,2,,,4,,1,1
+F,U,J,,,35-44,,D,,0,Date Nights City Lights,,,5,2,1,,,4,,1,,1,1
+F,U,J,,,35-44,,D,,0,Date Nights City Lights,,,5,2,1,,,4,,1,,1,1
+F,U,J,,,35-44,,D,,0,Date Nights City Lights,,,5,2,1,,,4,,1,,1,1
+M,S,S,H,TRUE,55-64,H,B,,0,Wealth Whispers,,5,5,,2,,,5,,2,,2,1
+F,S,S,H,TRUE,65-74,H,B,L,0,Wealth Whispers,5,3,1,1,1,4,3,5,2,1,,1,1
+M,,L,I,TRUE,55-64,H,,,0,Single Sophisticates,,,,4,1,1,4,5,,,5,1,1
+F,,,,TRUE,45-54,H,,,0,Minivans and Malls,5,2,2,1,4,,,5,,4,2,1,1
+F,,,,,35-44,,,,2,Life in the Fast Lane,,5,,5,2,,5,,,2,,1,1
+M,,G,A,FALSE,35-44,8,,,2,Subway Surfers,5,,5,4,5,,,5,,,,4,1
+M,S,S,I,TRUE,25-34,H,C,D,0,Life in the Fast Lane,5,3,1,1,1,4,2,1,5,4,5,1,1
+F,U,O,I,FALSE,55-64,H,D,D,0,Single and Thriving,,,,,4,4,,4,,,,2,1
+F,,N,I,,55-64,H,,,0,Single Sophisticates,,,,,,,,,,,,,1
+F,M,O,F,TRUE,65-74,H,C,R,0,Wealth Whispers,,5,,,1,5,,,,1,,1,1
+F,U,N,G,FALSE,25-34,R,C,,0,Date Nights City Lights,,,,,,,,,,,,,1
+F,U,N,G,FALSE,25-34,R,C,,0,Date Nights City Lights,,,,,,,,,,,,,1
+M,,O,H,TRUE,65-74,H,,,0,Old Money,,,,,5,,,,,5,,1,1
+F,R,M,H,FALSE,25-34,H,C,,0,Date Nights City Lights,,5,5,,5,5,5,5,,,5,2,1
+F,M,O,H,TRUE,55-64,H,C,,0,Single and Thriving,1,2,5,3,1,5,3,3,,1,5,1,1
+F,M,O,I,,65-74,H,C,,0,Urban Elites,,,5,,3,3,5,,,5,2,1,1
+F,S,Q,I,,75+,H,B,R,0,Senior Elite,,,,,,,,,,,,,1
+F,,H,F,FALSE,35-44,R,,D,0,Subway Surfers,5,5,,,,,5,,,,,5,1
+F,S,S,I,TRUE,55-64,H,,,0,Hometown Heroes,3,2,1,1,5,,5,5,1,5,,1,1
+F,S,S,I,TRUE,55-64,H,,,0,Hometown Heroes,3,2,1,1,5,,5,5,1,5,,1,1
+F,S,S,I,TRUE,55-64,H,,,0,Hometown Heroes,3,2,1,1,5,,5,5,1,5,,1,1
+F,S,S,I,TRUE,55-64,H,,,0,Hometown Heroes,3,2,1,1,5,,5,5,1,5,,1,1
+F,U,O,G,,75+,8,,,0,Senior Elite,,3,,,2,,,,,2,,2,1
+F,U,O,G,,75+,8,,,0,Senior Elite,,3,,,2,,,,,2,,2,1
+F,U,O,G,,75+,8,,,0,Senior Elite,,3,,,2,,,,,2,,2,1
+F,U,O,G,,75+,8,,,0,Senior Elite,,3,,,2,,,,,2,,2,1
+F,U,O,G,,75+,8,,,0,Senior Elite,,3,,,2,,,,,2,,2,1
+F,S,O,H,TRUE,35-44,H,C,,0,Glitterati,5,,4,,2,,5,,5,2,,1,1
+F,S,O,H,TRUE,35-44,H,C,,0,Glitterati,5,,4,,2,,5,,5,2,,1,1
+F,U,N,G,TRUE,45-54,H,C,R,0,Working for the Weekend,5,1,4,3,1,5,,3,,1,,1,1
+M,S,P,I,,65-74,H,B,D,0,Old Money,,,,,3,4,,,,3,,2,1
+M,S,S,I,TRUE,25-34,H,B,,0,Life in the Fast Lane,5,4,3,1,4,,5,5,5,4,,1,1
+M,N,O,I,TRUE,35-44,H,B,D,0,Glitterati,,,,,4,,,,,4,2,2,1
+F,,Q,I,TRUE,35-44,H,,,0,Life in the Fast Lane,,,,,,,,,,,,,1
+M,,A,F,FALSE,35-44,,,,2,Subway Surfers,,,,,,,,,,,,,1
+F,U,,I,,65-74,H,E,D,0,Urban Elites,,5,,,5,,,5,,,,2,1
+F,R,N,I,TRUE,35-44,H,C,,0,Downtown Dreamers,,1,5,1,2,,4,4,,2,,1,1
+F,R,N,I,TRUE,35-44,H,C,,0,Downtown Dreamers,,1,5,1,2,,4,4,,2,,1,1
+F,R,N,I,TRUE,35-44,H,C,,0,Downtown Dreamers,,1,5,1,2,,4,4,,2,,1,1
+M,,O,H,FALSE,35-44,H,,,0,Life in the Fast Lane,,,,,,,,,,,,,1
+F,S,R,I,,65-74,H,C,D,0,Single and Thriving,,2,,,,,,,,,,1,1
+F,,O,H,TRUE,25-34,H,,,0,Life in the Fast Lane,,5,,,5,,,5,,,,2,1
+M,M,N,G,TRUE,25-34,H,D,R,0,Date Nights City Lights,,,,,2,,,2,,3,,2,1
+M,S,S,I,TRUE,55-64,H,C,D,0,Patriotic and Proud,,3,,,1,4,,,1,1,,1,1
+F,,O,I,TRUE,25-34,R,,D,0,Life in the Fast Lane,,,,,,,,,5,,,5,1
+F,,O,I,TRUE,25-34,R,,D,0,Life in the Fast Lane,,,,,,,,,5,,,5,1
+M,S,Q,I,FALSE,55-64,H,B,I,0,Single and Thriving,,,5,,5,,,,,5,,3,1
+F,Q,R,I,TRUE,65-74,H,A,D,0,Urban Elites,,5,1,1,5,,4,5,4,5,,1,1
+F,Q,Q,I,TRUE,65-74,H,C,,0,Old Money,,,5,5,3,,,,,3,,3,1
+F,U,N,A,FALSE,35-44,R,,,0,Working for the Weekend,,,,,2,,,,,2,,2,1
+F,U,N,A,FALSE,35-44,R,,,0,Working for the Weekend,,,,,2,,,,,2,,2,1
+F,U,N,A,FALSE,35-44,R,,,0,Working for the Weekend,,,,,2,,,,,2,,2,1
+F,R,O,,FALSE,35-44,H,,,0,Glitterati,,4,,,5,,,,,5,,2,1
+M,P,P,I,TRUE,35-44,H,C,D,0,Glitterati,,5,5,,1,5,,2,5,1,,1,1
+M,P,P,I,TRUE,35-44,H,C,D,0,Glitterati,,5,5,,1,5,,2,5,1,,1,1
+F,,O,I,TRUE,45-54,H,,,2,Lowkey Luxe,,,,,,,,,,,,,1
+F,,S,I,TRUE,75+,H,,,0,Senior Elite,4,5,4,5,1,5,,,5,1,,1,1
+F,U,Q,I,,55-64,R,,,0,Single and Thriving,,,,,,,,,,,,,1
+F,U,Q,I,,55-64,R,,,0,Single and Thriving,,,,,,,,,,,,,1
+F,U,Q,I,,55-64,R,,,0,Single and Thriving,,,,,,,,,,,,,1
+F,,N,I,TRUE,25-34,H,,,0,Downtown Dreamers,,,,,,,,,,,,,1
+F,,N,I,TRUE,25-34,H,,,0,Downtown Dreamers,,,,,,,,,,,,,1
+M,S,,I,TRUE,75+,H,C,R,0,Senior Elite,,,,,,,,,,,,,1
+M,U,O,G,TRUE,35-44,8,D,,0,Glitterati,,4,1,,1,,,,,2,,1,1
+F,S,O,I,TRUE,65-74,H,A,,0,Wealth Whispers,2,5,1,2,1,,5,1,5,3,,1,1
+M,S,O,I,FALSE,45-54,H,B,,0,Patriotic and Proud,4,3,5,4,2,4,,,,2,,2,1
+F,U,S,I,,75+,H,,D,0,Senior Society,,,1,,1,,,1,,1,,1,1
+M,S,R,I,,75+,H,C,D,0,Senior Elite,,5,,,3,,,,3,3,,3,1
+F,,,I,FALSE,35-44,H,,D,2,Glitterati,5,2,2,1,2,3,5,4,,3,,1,1
+M,,D,A,,35-44,8,,,2,Subway Surfers,,5,,,3,,,3,1,3,,1,1
+F,Q,O,H,TRUE,25-34,H,D,,0,Single and Strategic,,,,,5,,,,,5,,2,1
+M,S,O,I,FALSE,35-44,H,B,R,0,Jet Setters,,,5,2,5,5,,5,,5,2,2,1
+F,Q,R,H,TRUE,55-64,H,F,,0,Single and Thriving,,5,,5,1,1,5,4,5,1,5,1,1
+M,K,O,H,TRUE,45-54,H,C,R,0,Jet Setters,,,,,1,2,,2,5,1,,1,1
+F,,L,I,TRUE,55-64,H,,D,0,Country Clout,5,,5,1,5,,,,,5,,1,1
+M,U,O,H,TRUE,65-74,H,B,,0,Urban Elites,5,,,5,5,,,,,5,2,2,1
+F,,,,,25-34,,,D,2,Date Nights City Lights,,,,,5,5,,,,,,5,1
+F,,,,FALSE,35-44,H,,,2,Life in the Fast Lane,,,1,5,1,5,,,,1,,1,1
+M,S,R,I,TRUE,45-54,H,B,,0,Jet Setters,1,,,,5,5,4,,,5,,1,1
+F,U,G,G,TRUE,55-64,H,D,,0,Melting Pot Medley,2,,5,,1,,,,,1,,1,1
+F,,N,,TRUE,45-54,,,,1,Working for the Weekend,,,5,,5,5,,,,,5,2,1
+F,,N,H,FALSE,55-64,H,,,0,Single Sophisticates,,,,,1,,,,,1,,1,1
+F,,N,H,FALSE,55-64,H,,,0,Single Sophisticates,,,,,1,,,,,1,,1,1
+M,Q,J,C,FALSE,55-64,H,,,0,Dynamic Duos,,4,5,3,5,5,5,5,3,5,,3,1
+F,,D,F,,45-54,,,,0,Single and Surviving,4,,,,2,,,2,,2,,2,1
+F,S,O,I,TRUE,55-64,H,C,D,0,Lowkey Luxe,,,,,,,,,,,,,1
+F,S,O,I,,25-34,H,C,,0,Single and Strategic,,2,,5,2,5,,2,2,2,,2,1
+M,,I,A,FALSE,25-34,8,,,0,Subway Surfers,,2,,4,3,,4,5,,5,,1,1
+F,U,H,I,TRUE,35-44,H,C,D,0,American Dreamers,5,5,,5,2,2,3,2,,2,,2,1
+F,,S,I,FALSE,,H,,,2,Jet Setters,2,4,1,2,1,1,5,3,,4,5,1,1
+F,U,J,G,TRUE,35-44,H,C,,0,Date Nights City Lights,,,1,,1,,,,,1,,1,1
+M,U,H,G,TRUE,55-64,H,E,R,0,Pickup Trucks and Politics,,5,5,,4,5,,,2,4,,1,1
+F,N,L,F,TRUE,25-34,H,B,D,0,Downtown Dreamers,,4,,5,3,,,,4,3,,3,1
+F,U,O,I,TRUE,25-34,8,B,,0,Life in the Fast Lane,,5,,2,4,,4,,,4,,2,1
+F,U,O,I,TRUE,25-34,8,B,,0,Life in the Fast Lane,,5,,2,4,,4,,,4,,2,1
+M,R,O,H,TRUE,25-34,H,C,,0,Social Climbers,,,,,2,,,,,2,,2,1
+M,R,O,H,TRUE,25-34,H,C,,0,Social Climbers,,,,,2,,,,,2,,2,1
+M,U,O,A,TRUE,45-54,,,,0,Jet Setters,5,,,5,4,,,,,4,,4,1
+F,,I,H,FALSE,,8,,,2,Single and Surviving,,3,4,1,2,,,4,,4,,1,1
+F,B,H,G,,25-34,H,C,,0,Subway Surfers,5,5,,3,4,,5,4,,5,,3,1
+F,B,H,G,,25-34,H,C,,0,Subway Surfers,5,5,,3,4,,5,4,,5,,3,1
+F,,,I,TRUE,,H,,,2,Senior Elite,5,1,1,2,1,5,3,4,5,1,,1,1
+M,P,,,TRUE,35-44,H,,,0,Life in the Fast Lane,,,5,,2,5,,5,,2,5,2,1
+M,,N,E,,25-34,R,,,0,Downtown Dreamers,2,2,1,3,1,5,,5,1,1,,1,1
+M,M,N,F,TRUE,35-44,H,C,D,0,Downtown Dreamers,5,4,2,4,1,3,2,,,1,4,1,1
+F,,,,,65-74,,,,2,Urban Elites,5,,5,1,1,5,,1,,5,,1,1
+M,,N,,FALSE,35-44,,,,0,Date Nights City Lights,,,,,5,,,5,3,,,3,1
+F,,R,I,TRUE,35-44,H,,,0,Life in the Fast Lane,,,,,2,,,,,2,,2,1
+M,S,Q,I,TRUE,45-54,H,C,D,0,Jet Setters,,,,,1,5,5,,,1,,1,1
+F,Q,O,G,TRUE,25-34,H,C,L,0,Life in the Fast Lane,,,5,4,5,5,4,,,,5,2,1
+F,Q,O,G,TRUE,25-34,H,C,L,0,Life in the Fast Lane,,,5,4,5,5,4,,,,5,2,1
+F,S,N,I,TRUE,35-44,H,C,R,0,Downtown Dreamers,2,,2,5,4,5,5,4,,,,2,1
+F,Q,R,I,,55-64,H,D,U,0,Jet Setters,,1,1,1,3,5,2,4,2,5,5,1,1
+F,,O,I,,65-74,H,,,0,Urban Elites,,,,5,,,,,,,,5,1
+F,,O,I,,65-74,H,,,0,Urban Elites,,,,5,,,,,,,,5,1
+M,Q,O,I,TRUE,45-54,H,C,D,0,Jet Setters,,,,,,,,,,,,1,1
+M,R,S,I,FALSE,55-64,H,C,R,0,Lowkey Luxe,,5,1,1,1,5,,2,,1,,1,1
+M,,,,,55-64,,,,0,Single Sophisticates,,,1,,1,,,,1,1,,1,1
+M,U,F,A,,35-44,H,E,I,0,Subway Surfers,,,2,,1,,,,,1,,1,1
+M,U,F,A,,35-44,H,E,I,0,Subway Surfers,,,2,,1,,,,,1,,1,1
+M,,,,FALSE,55-64,,,,2,Working for the Weekend,,,,,,,,,,,,,1
+M,,,,FALSE,55-64,,,,2,Working for the Weekend,,,,,,,,,,,,,1
+F,U,B,E,,65-74,H,D,R,0,Mid Century Moderns,3,5,,5,1,,,,,,,1,1
+F,U,B,E,,65-74,H,D,R,0,Mid Century Moderns,3,5,,5,1,,,,,,,1,1
+M,J,O,I,,35-44,H,B,D,0,Life in the Fast Lane,4,,5,4,1,,,,4,1,,1,1
+M,J,O,I,,35-44,H,B,D,0,Life in the Fast Lane,4,,5,4,1,,,,4,1,,1,1
+M,U,B,A,TRUE,25-34,H,B,D,0,Friday Night Lights,,2,1,,5,5,5,5,4,5,,1,1
+F,Q,N,I,TRUE,55-64,H,E,D,0,Dynamic Duos,,,,,,,,,5,,,2,1
+F,,L,I,FALSE,55-64,H,,,0,Single Sophisticates,,,,2,1,1,,,,2,,1,1
+F,,L,I,FALSE,55-64,H,,,0,Single Sophisticates,,,,2,1,1,,,,2,,1,1
+M,U,G,I,TRUE,35-44,H,E,D,0,Subway Surfers,,,,,,,,,,,,,1
+F,S,S,I,TRUE,45-54,H,A,D,0,Lowkey Luxe,4,1,1,4,1,1,,3,4,1,4,1,1
+F,,O,H,FALSE,55-64,H,,,0,Single and Thriving,5,2,,1,1,2,2,5,,1,,1,1
+F,U,O,H,TRUE,35-44,H,D,D,0,Life in the Fast Lane,,,,,,,,,,,,1,1
+M,S,O,I,TRUE,35-44,H,B,R,0,Life in the Fast Lane,2,1,1,,1,1,1,2,2,1,,1,1
+F,,R,I,TRUE,75+,H,,,0,Senior Elite,,3,5,5,2,,,2,5,2,,1,1
+F,,R,I,TRUE,75+,H,,,0,Senior Elite,,,,,,,,,,,,,1
+F,S,O,H,FALSE,18-24,H,B,,0,Single and Strategic,,,,5,5,,,,,5,,1,1
+,Q,S,I,TRUE,25-34,H,C,,0,Single and Strategic,,,5,,3,,5,,,3,,2,1
+F,U,L,H,FALSE,35-44,9,C,D,0,Working for the Weekend,,,5,,,,,,5,,,5,1
+F,,L,H,FALSE,55-64,,,,2,Single Sophisticates,,,,,,,,,,,,4,1
+F,,L,H,FALSE,55-64,,,,2,Single Sophisticates,,,,,,,,,,,,4,1
+F,,L,H,FALSE,55-64,,,,2,Single Sophisticates,,,,,,,,,,,,4,1
+F,,L,H,FALSE,55-64,,,,2,Single Sophisticates,,,,,,,,,,,,4,1
+F,,L,H,FALSE,55-64,,,,2,Single Sophisticates,,,,,,,,,,,,4,1
+M,R,S,I,TRUE,55-64,H,,D,0,Hometown Heroes,,,,,3,,,3,5,,,3,1
+M,R,S,I,TRUE,55-64,H,,D,0,Hometown Heroes,,,,,3,,,3,5,,,3,1
+F,Q,I,I,TRUE,45-54,H,B,,0,Single and Surviving,,,4,,,,,,,,,3,1
+F,N,P,I,TRUE,65-74,H,C,,0,Single and Thriving,,,,,,,,,,,,,1
+F,U,N,A,,35-44,R,E,D,0,Date Nights City Lights,,5,5,3,1,2,4,3,,1,4,1,1
+F,U,N,F,TRUE,35-44,H,B,,0,Date Nights City Lights,4,5,2,5,5,,,5,4,,,2,1
+F,,N,H,,65-74,H,,D,0,Smart Singles,,,,1,1,,,,,1,,1,1
+F,S,,I,TRUE,55-64,H,C,,0,Single and Thriving,,,,,,,,,,,,,1
+F,,,I,TRUE,55-64,H,,,0,Suburban Socialites,,,,,2,3,,,5,,,2,1
+F,S,H,I,,45-54,H,C,,0,Single and Surviving,,5,,5,4,,,5,,4,,4,1
+F,Q,R,I,TRUE,45-54,H,B,,0,Jet Setters,,,5,,5,,,,,5,,4,1
+F,,G,H,,75+,,,,0,Mid Century Moderns,,5,5,,1,,3,4,,1,,1,1
+F,,G,H,,75+,,,,0,Mid Century Moderns,,5,5,,1,,3,4,,1,,1,1
+F,U,S,I,TRUE,45-54,H,,D,0,Lowkey Luxe,5,5,1,1,2,5,,,3,4,2,1,1
+F,M,R,H,TRUE,45-54,H,C,R,0,Lowkey Luxe,5,,5,5,1,1,5,5,5,1,5,1,1
+F,U,S,I,TRUE,25-34,H,C,,0,Glitterati,,,5,3,2,,,,,2,5,2,1
+M,R,O,G,TRUE,45-54,H,B,,0,Lowkey Luxe,2,2,5,5,1,,5,5,,1,1,1,1
+M,,Q,I,FALSE,25-34,R,,D,0,Life in the Fast Lane,,5,5,,2,,,,,2,,2,1
+M,U,N,G,,25-34,H,B,I,0,Date Nights City Lights,,,,,,,,,,,,,1
+F,S,O,I,,65-74,H,B,D,0,Urban Elites,,,,,4,,,,,4,,4,1
+F,S,O,I,,65-74,H,B,D,0,Urban Elites,,,,,4,,,,,4,,4,1
+F,S,O,I,,65-74,H,B,D,0,Urban Elites,,,,,4,,,,,4,,4,1
+M,S,Q,I,,75+,H,A,I,0,Urban Elites,,4,2,,,,,,3,,5,1,1
+F,,O,H,TRUE,35-44,H,,,2,Life in the Fast Lane,3,5,1,5,2,5,5,3,5,2,2,1,1
+F,,O,H,TRUE,35-44,H,,,2,Life in the Fast Lane,3,5,1,5,2,5,5,3,5,2,2,1,1
+M,R,R,I,FALSE,35-44,H,,,0,Glitterati,2,,4,2,1,3,5,3,,1,,1,1
+M,U,F,A,TRUE,45-54,,E,,0,Single and Surviving,,,,,2,,,,5,2,,2,1
+F,,N,A,FALSE,,R,,,2,Date Nights City Lights,,,,,,,,,,,,,1
+F,S,,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,2,5,5,3,,3,3,,5,,1,1
+F,U,S,I,TRUE,25-34,H,C,,0,Life in the Fast Lane,,,5,4,2,3,4,,5,2,,2,1
+F,U,S,I,TRUE,25-34,H,C,,0,Life in the Fast Lane,,,5,4,2,3,4,,5,2,,2,1
+F,U,R,I,TRUE,45-54,H,C,,0,Patriotic and Proud,,5,2,2,2,2,,2,3,2,,1,1
+F,S,O,I,TRUE,18-24,H,A,,0,Social Climbers,,1,5,5,4,4,,5,,5,5,1,1
+F,,J,I,FALSE,55-64,,,D,2,Country Clout,,,,,4,4,,,5,,,3,1
+M,U,S,I,,65-74,H,,D,0,Urban Elites,,,,,,,,,1,,,1,1
+M,U,S,I,,65-74,H,,D,0,Urban Elites,,,,,,,,,1,,,1,1
+M,I,R,I,,55-64,H,B,D,0,Hometown Heroes,,,,,,,,,,,,,1
+F,,E,A,FALSE,25-34,R,,U,0,Subway Surfers,5,5,,5,5,5,5,,,5,,5,1
+F,,,H,TRUE,25-34,H,,,0,Social Climbers,3,5,1,1,2,3,5,2,5,3,4,1,1
+F,,,H,TRUE,25-34,H,,,0,Social Climbers,3,5,1,1,2,3,5,2,5,3,4,1,1
+F,,,H,TRUE,25-34,H,,,0,Social Climbers,3,5,1,1,2,3,5,2,5,3,4,1,1
+F,,,H,TRUE,25-34,H,,,0,Social Climbers,3,5,1,1,2,3,5,2,5,3,4,1,1
+F,S,S,I,TRUE,18-24,H,A,,0,Social Climbers,5,2,1,1,2,3,5,5,2,2,5,1,1
+F,U,O,,FALSE,18-24,,C,,0,Single and Strategic,,,,,,,,,,,,,1
+F,U,O,,FALSE,18-24,,C,,0,Single and Strategic,,,,,,,,,,,,,1
+F,R,O,I,TRUE,45-54,H,B,,0,Lowkey Luxe,5,3,5,,1,5,5,,4,1,5,1,1
+F,U,J,H,,65-74,H,B,,0,Single Sophisticates,5,3,3,,3,,,3,,5,,3,1
+F,Q,N,I,TRUE,25-34,H,C,,0,Date Nights City Lights,3,,,,5,5,,,,5,,3,1
+F,U,R,H,TRUE,35-44,,,,0,Keeping Up With The Joneses,3,,2,3,1,,5,,,1,,1,1
+F,S,S,I,TRUE,55-64,H,B,,0,Lowkey Luxe,,,,,1,4,,,2,5,,1,1
+M,,J,H,FALSE,35-44,R,,,1,Date Nights City Lights,,,,,,,,,,,,,1
+F,R,N,I,,65-74,H,B,R,0,Silver Sneakers,,,5,,5,,5,,,5,,1,1
+F,R,N,I,,65-74,H,B,R,0,Silver Sneakers,,,5,,5,,5,,,5,,1,1
+F,N,N,I,TRUE,25-34,H,B,,0,Date Nights City Lights,,2,,,2,5,,2,,5,,1,1
+F,S,Q,I,TRUE,45-54,H,B,,0,Lowkey Luxe,,,,,5,5,,,,,,1,1
+F,,L,G,TRUE,65-74,H,,,0,Silver Sneakers,3,5,1,1,1,3,2,1,,3,,1,1
+F,U,O,F,,65-74,R,D,D,0,Single and Thriving,,,,,3,,,3,,,,3,1
+F,U,O,F,,65-74,R,D,D,0,Single and Thriving,,,,,3,,,3,,,,3,1
+F,,,,FALSE,,R,,,2,Jet Setters,,,,,,,,,,,,2,1
+M,S,J,I,FALSE,55-64,H,B,D,0,Single Sophisticates,,,3,5,4,5,,5,5,4,1,1,1
+M,,,,FALSE,,H,,,2,Life in the Fast Lane,,,,,,,,,,,,,1
+M,O,H,G,TRUE,45-54,H,B,D,0,Average Joes,2,4,2,,1,1,5,4,3,1,,1,1
+M,,G,I,TRUE,45-54,R,,R,0,Single and Surviving,,4,2,2,1,2,,,2,1,,1,1
+F,L,L,G,TRUE,45-54,H,B,R,0,Movin On Up,5,2,2,,3,,2,,,3,5,2,1
+F,S,H,I,TRUE,35-44,H,,,0,Subway Surfers,,4,4,4,1,,,5,,1,,1,1
+F,M,H,G,TRUE,55-64,H,B,,0,Urban Mashup,,,1,1,1,1,,,1,1,1,1,1
+F,U,Q,F,,25-34,8,,,0,Life in the Fast Lane,,2,2,1,2,4,1,,,2,2,1,1
+F,,G,G,FALSE,45-54,9,,L,0,Single and Surviving,3,3,,2,2,,,2,,2,,2,1
+M,M,F,I,TRUE,45-54,H,E,,0,Single and Surviving,,5,,,2,,,5,,2,,2,1
+M,M,F,I,TRUE,45-54,H,E,,0,Single and Surviving,,5,,,2,,,5,,2,,2,1
+M,S,S,I,TRUE,55-64,H,C,N,0,Jet Setters,5,,,,2,5,,,,2,,2,1
+M,U,L,G,TRUE,25-34,H,D,,0,Date Nights City Lights,,,,,,,,,,,,,1
+M,U,L,G,TRUE,25-34,H,D,,0,Date Nights City Lights,,,,,,,,,,,,,1
+F,Q,N,G,TRUE,55-64,H,B,,0,Single Sophisticates,,4,1,2,1,2,5,,5,1,,1,1
+M,Q,L,H,FALSE,55-64,H,C,I,0,Single Sophisticates,,,,,,,,,,,,,1
+M,Q,L,H,FALSE,55-64,H,C,I,0,Single Sophisticates,,,,,,,,,,,,,1
+M,S,H,H,FALSE,45-54,H,B,D,0,Single and Surviving,,5,4,,1,5,,5,5,1,,1,1
+F,S,S,I,,75+,H,B,R,0,Senior Elite,,,5,,3,5,3,,5,4,,2,1
+F,S,P,I,,75+,H,B,D,0,Old Money,,5,5,1,2,5,5,5,5,2,,1,1
+M,L,F,F,FALSE,25-34,H,G,,0,Subway Surfers,2,2,1,,1,4,,3,2,1,5,1,1
+F,S,O,I,TRUE,65-74,H,B,D,0,Urban Elites,3,5,1,2,5,,,,2,,,1,1
+,,,I,,,,,,2,Urban Elites,3,4,3,1,2,2,3,5,,2,3,1,1
+M,R,R,H,TRUE,25-34,H,B,,0,Life in the Fast Lane,,4,1,,2,3,,5,5,2,,1,1
+M,,N,I,FALSE,25-34,R,,,2,Date Nights City Lights,,,,5,1,,5,5,,1,,1,1
+F,O,O,A,FALSE,35-44,H,,R,0,Life in the Fast Lane,,2,,1,1,,,,,1,,1,1
+M,,,,FALSE,,,,,2,Single and Thriving,,,,,,,,,,,,3,1
+F,P,F,H,FALSE,35-44,H,G,,0,Penny Pinching Couples,,5,,,4,,,4,,,5,4,1
+F,P,F,H,FALSE,35-44,H,G,,0,Penny Pinching Couples,,5,,,4,,,4,,,5,4,1
+M,S,L,I,,75+,H,D,R,0,Retired and Relaxed,,,5,,,,,,,,,2,1
+M,L,F,A,FALSE,35-44,H,C,,0,Subway Surfers,,2,5,,1,4,,5,5,1,,1,1
+M,P,L,G,TRUE,35-44,H,B,D,0,Date Nights City Lights,,,2,,5,5,,5,,5,,1,1
+F,U,N,A,,35-44,8,C,I,0,Date Nights City Lights,3,,,,2,,,4,,5,,2,1
+F,U,S,H,TRUE,35-44,R,,,0,Glitterati,3,4,1,5,2,5,5,5,5,3,,1,1
+F,U,A,H,FALSE,25-34,R,,,0,Tik Tok and Tie Dye,5,2,1,3,2,,1,2,,2,,1,1
+F,S,S,I,,65-74,H,B,L,0,Old Money,,,1,1,1,,2,1,5,,,1,1
+F,U,O,G,TRUE,45-54,R,A,D,0,Lowkey Luxe,5,,,,1,5,,4,,1,,1,1
+F,R,L,A,,45-54,H,,,0,Working for the Weekend,,,4,,3,,3,,,3,,3,1
+M,Q,B,I,,75+,H,G,D,0,Blue Collar Boomers,,5,2,5,1,1,,,,1,5,1,1
+M,S,S,I,FALSE,55-64,H,C,D,0,Jet Setters,,,5,,2,2,,,,5,,2,1
+F,,H,I,FALSE,45-54,,,,0,Single and Surviving,,,1,,5,,,,,5,,1,1
+F,U,S,I,TRUE,65-74,H,A,,0,Old Money,4,5,,2,5,,5,5,5,,,2,1
+M,N,N,I,FALSE,55-64,H,,R,0,Single Sophisticates,1,3,2,1,1,,,1,5,2,5,1,1
+M,,,,,65-74,,,,0,Single and Thriving,,,,,,,5,,,,,5,1
+F,S,,I,TRUE,65-74,H,,,0,Wealth Whispers,,,,1,1,5,,,,1,,1,1
+M,P,O,I,,65-74,H,B,R,0,Urban Elites,5,,,,1,3,,,,1,5,1,1
+F,S,O,I,TRUE,55-64,H,B,R,0,Single and Thriving,,3,2,3,1,,5,2,,1,5,1,1
+F,S,S,I,TRUE,55-64,H,C,,0,Wealth Whispers,3,2,,1,1,2,,2,5,1,,1,1
+M,,F,,FALSE,,,,,2,Subway Surfers,,,4,4,2,,,5,5,2,,2,1
+M,,D,I,TRUE,35-44,H,,,0,Penny Pinching Couples,1,5,,,2,3,,4,,,5,1,1
+F,U,A,A,FALSE,45-54,R,,D,0,Single and Surviving,5,,4,1,,,4,,,,,1,1
+M,,N,,FALSE,,,,,2,Golden Era,,5,1,,1,,,3,3,1,,1,1
+F,U,A,A,FALSE,25-34,R,E,,0,Subway Surfers,,5,,,5,5,,,,,,5,1
+F,S,N,G,FALSE,45-54,H,,,0,Working for the Weekend,,,,5,1,,,5,,1,,1,1
+M,S,S,I,TRUE,25-34,H,B,,0,Social Climbers,,4,1,,3,3,5,5,1,3,5,1,1
+M,S,S,I,TRUE,25-34,H,B,,0,Social Climbers,,4,1,,3,3,5,5,1,3,5,1,1
+F,Q,N,I,TRUE,65-74,H,A,,0,Dynamic Duos,,5,2,2,1,1,,,,,,1,1
+F,Q,N,I,TRUE,65-74,H,A,,0,Dynamic Duos,,5,2,2,1,1,,,,,,1,1
+F,Q,N,I,TRUE,65-74,H,A,,0,Dynamic Duos,,5,2,2,1,1,,,,,,1,1
+M,S,O,G,,65-74,H,C,R,0,Wealth Whispers,,,,,,,,,,,,5,1
+M,S,O,G,,65-74,H,C,R,0,Wealth Whispers,,,,,,,,,,,,5,1
+F,U,N,G,TRUE,35-44,8,C,,0,Date Nights City Lights,1,2,2,2,1,1,2,2,,1,1,1,1
+F,U,J,H,TRUE,35-44,R,,I,0,Date Nights City Lights,5,,,,1,,,5,,,,1,1
+M,S,R,G,,45-54,H,B,,0,Jet Setters,,3,2,,1,2,5,3,,1,,1,1
+F,Q,L,G,TRUE,45-54,H,B,D,0,Working for the Weekend,4,2,1,1,1,5,1,1,3,1,4,1,1
+,,,,,45-54,,,,2,Jet Setters,1,5,2,2,4,5,4,4,4,5,5,1,1
+,,,,,45-54,,,,2,Jet Setters,1,5,2,2,4,5,4,4,4,5,5,1,1
+F,S,S,H,TRUE,35-44,H,,,0,Lowkey Luxe,5,1,1,1,2,5,3,5,,2,,1,1
+M,K,L,A,TRUE,25-34,H,B,,0,Date Nights City Lights,,4,4,,1,,,,2,1,,1,1
+M,,S,I,FALSE,35-44,R,,,0,Glitterati,,,,,1,3,,5,,1,,1,1
+F,R,F,I,,35-44,H,B,,0,Subway Surfers,,,,1,2,2,5,5,,2,,1,1
+F,,R,I,FALSE,35-44,H,,,0,Glitterati,,4,,,3,3,,5,,4,,3,1
+F,S,S,I,,18-24,H,C,,1,Single and Strategic,,,,,,,,,,,,,1
+F,U,D,A,TRUE,45-54,H,,D,0,Average Joes,,,,,1,1,5,,,3,,1,1
+M,U,Q,I,TRUE,55-64,H,B,R,0,Single and Thriving,,,,,3,3,4,5,,5,,1,1
+M,S,Q,I,,75+,H,,,0,Senior Elite,,1,1,,1,,,,1,1,,1,1
+F,Q,I,G,TRUE,35-44,H,D,,0,Penny Pinching Couples,,3,3,1,1,1,5,5,3,,3,1,1
+F,S,R,I,TRUE,25-34,H,,,0,High Tech Rednecks,,4,3,3,2,,3,5,,2,,1,1
+M,,H,F,FALSE,,8,,,2,Single and Surviving,,5,1,,1,1,,2,1,1,,1,1
+M,,,I,TRUE,18-24,,,,2,Single and Strategic,,5,,,2,4,,3,3,2,4,2,1
+M,,,,,35-44,,,,2,Jet Setters,,5,5,1,,,,,,,,1,1
+M,,,,,35-44,,,,2,Jet Setters,,5,5,1,,,,,,,,1,1
+M,,,,,35-44,,,,2,Jet Setters,,5,5,1,,,,,,,,1,1
+F,,O,H,FALSE,,8,,,2,Single and Thriving,,,,,,,,,,,,,1
+F,,O,H,FALSE,,8,,,2,Single and Thriving,,,,,,,,,,,,,1
+M,S,O,I,FALSE,,H,C,,0,Life in the Fast Lane,,2,2,1,2,,,2,1,2,,1,1
+F,U,L,E,FALSE,35-44,8,,,0,Date Nights City Lights,2,2,,,5,,5,5,5,,,2,1
+F,U,L,E,FALSE,35-44,8,,,0,Date Nights City Lights,2,2,,,5,,5,5,5,,,2,1
+F,,,,,35-44,,,,2,Life in the Fast Lane,,,,,,,,,,,,,1
+F,S,H,I,,35-44,H,E,I,0,Subway Surfers,5,4,,1,2,3,2,3,4,5,,1,1
+M,Q,N,I,FALSE,35-44,H,B,,0,Date Nights City Lights,,,,,,,,,,,,5,1
+M,N,D,G,FALSE,,H,G,,0,Single and Surviving,,5,1,,4,,1,,,4,,1,1
+M,N,D,G,FALSE,,H,G,,0,Single and Surviving,,5,1,,4,,1,,,4,,1,1
+F,U,P,H,FALSE,45-54,H,B,D,0,Jet Setters,,5,,5,1,4,5,2,,1,,1,1
+F,U,P,H,FALSE,45-54,H,B,D,0,Jet Setters,,5,,5,1,4,5,2,,1,,1,1
+F,,,,,55-64,,,,2,Single and Thriving,,,,,,,,,,,,,1
+F,,,,,55-64,,,,2,Single and Thriving,,,,,,,,,,,,,1
+M,,,,FALSE,,,,,2,Life in the Fast Lane,,,,,1,1,,,,,,1,1
+M,,,,FALSE,,,,,2,Life in the Fast Lane,,,,,1,1,,,,,,1,1
+M,U,O,I,TRUE,25-34,R,B,D,0,Life in the Fast Lane,,,,,5,,,5,5,5,,2,1
+M,U,L,I,TRUE,35-44,H,D,D,0,Comfortable Couples,,2,3,5,2,2,3,,2,,,1,1
+F,S,O,I,,75+,H,,D,0,Urban Elites,,5,,5,3,,,,4,3,,3,1
+M,S,O,I,TRUE,55-64,H,B,R,0,Wealth Whispers,5,2,1,,2,2,,3,,2,,1,1
+M,S,Q,H,TRUE,35-44,H,C,D,0,Life in the Fast Lane,,,5,,,,,,3,,,3,1
+M,S,S,I,,55-64,H,B,,0,Single and Thriving,,,,,,,,,,,,3,1
+M,S,S,I,,55-64,H,B,,0,Single and Thriving,,,,,,,,,,,,3,1
+M,S,S,I,,55-64,H,B,,0,Single and Thriving,,,,,,,,,,,,3,1
+M,M,Q,I,,55-64,H,B,D,0,Single and Thriving,,,,,4,5,,5,2,4,,2,1
+M,S,L,I,TRUE,35-44,H,B,,0,Downtown Dreamers,2,4,,,2,2,5,,5,5,,2,1
+F,O,O,G,TRUE,25-34,H,B,D,0,Life in the Fast Lane,,2,1,2,1,,5,3,,1,,1,1
+F,,I,F,TRUE,45-54,R,,,0,Single and Surviving,,,,,1,2,,5,5,1,,1,1
+F,U,N,I,TRUE,55-64,R,,,0,Single Sophisticates,,,,5,5,5,,,,5,,5,1
+M,,,,TRUE,,,,,2,Single and Thriving,,,,,,,,,,,,,1
+M,O,S,I,TRUE,75+,H,C,D,0,Old Money,,,,,5,5,,,,,,5,1
+M,U,I,I,,65-74,,C,D,0,Back at the Ranch,,,,,,,,,,,,,1
+M,,O,I,TRUE,45-54,H,,,0,Lowkey Luxe,,,,,4,,,4,,,,4,1
+F,Q,S,I,,65-74,H,C,D,0,Old Money,,,,,,,,,,,,4,1
+F,Q,S,I,,65-74,H,C,D,0,Old Money,,,,,,,,,,,,4,1
+M,L,F,H,TRUE,35-44,H,,D,0,Penny Pinching Couples,,,1,,4,4,,,,,,1,1
+F,Q,R,I,TRUE,55-64,H,C,D,0,Suburban Socialites,5,2,1,,1,1,5,4,3,5,5,1,1
+F,,E,G,FALSE,35-44,8,,,0,Subway Surfers,5,3,2,1,1,5,,5,,1,,1,1
+F,F,R,F,FALSE,45-54,H,C,D,0,Jet Setters,,,3,,,,,,,,,1,1
+F,,S,I,TRUE,65-74,H,,,2,Urban Elites,,,,,,,,,,,,,1
+F,,D,,,65-74,,,,2,Mid Century Moderns,,2,,,,,,,,,,2,1
+F,,Q,I,FALSE,45-54,H,,,2,Jet Setters,,,,3,1,,3,3,,1,,1,1
+M,I,H,B,TRUE,45-54,H,C,,0,American Dreamers,,2,1,,,,,,2,,,1,1
+M,I,H,B,TRUE,45-54,H,C,,0,American Dreamers,,2,1,,,,,,2,,,1,1
+F,S,N,A,TRUE,65-74,H,C,R,0,Dynamic Duos,,,,,3,,,,,3,,3,1
+M,S,S,I,FALSE,55-64,H,C,D,0,Wealth Whispers,,,5,3,,,,,,,,3,1
+M,S,S,I,FALSE,55-64,H,C,D,0,Wealth Whispers,,,5,3,,,,,,,,3,1
+F,S,Q,I,TRUE,65-74,H,B,D,0,Old Money,3,2,1,,1,,,,,1,,1,1
+F,,H,H,TRUE,35-44,H,,,2,Penny Pinching Couples,,2,1,4,2,5,,5,1,5,,1,1
+F,U,Q,H,TRUE,35-44,R,B,R,0,Life in the Fast Lane,,5,3,3,1,5,5,,5,1,2,1,1
+F,U,N,H,TRUE,35-44,,C,,0,Working for the Weekend,,,,,,,,,,,,,1
+F,U,L,I,,75+,R,,,0,Smart Singles,,,,,,,,,,,,,1
+F,U,L,I,,75+,R,,,0,Smart Singles,,,,,,,,,,,,,1
+F,U,L,I,,75+,R,,,0,Smart Singles,,,,,,,,,,,,,1
+M,,N,H,TRUE,35-44,H,,,0,Comfortable Couples,,3,2,,4,,,4,4,,5,2,1
+F,,O,I,TRUE,65-74,H,,,0,Old Money,,5,5,5,5,,5,5,,5,2,1,1
+M,,,,,,,,,2,Golden Era,,,,,,,,,5,,5,2,1
+F,U,N,H,TRUE,35-44,H,B,R,0,Movin On Up,,3,,,3,,5,,,3,5,1,1
+F,U,N,H,TRUE,35-44,H,B,R,0,Movin On Up,,3,,,3,,5,,,3,5,1,1
+F,S,S,I,TRUE,55-64,H,C,D,0,Lowkey Luxe,,4,2,1,2,,2,,1,2,,1,1
+F,Q,O,G,TRUE,35-44,H,E,,0,Life in the Fast Lane,,,,,5,,,5,,,5,1,1
+F,S,K,G,FALSE,25-34,H,B,,0,Date Nights City Lights,,,,,,,,,,,,1,1
+M,U,O,H,TRUE,45-54,H,B,D,0,Lowkey Luxe,5,1,3,,1,,,5,,1,4,1,1
+F,S,C,I,TRUE,45-54,H,B,D,0,Single and Surviving,5,4,,2,2,5,2,3,,2,,2,1
+F,Q,O,H,FALSE,55-64,H,B,,0,Single and Thriving,,,,,,,,,,,,,1
+M,U,O,G,FALSE,45-54,H,C,D,0,Jet Setters,5,,,,3,,,,,2,5,2,1
+M,U,O,G,FALSE,45-54,H,C,D,0,Jet Setters,5,,,,3,,,,,2,5,2,1
+M,U,O,G,FALSE,45-54,H,C,D,0,Jet Setters,5,,,,3,,,,,2,5,2,1
+F,Q,Q,H,TRUE,35-44,H,B,D,0,Life in the Fast Lane,3,4,1,3,3,5,5,5,,3,5,1,1
+F,Q,J,G,,65-74,H,,R,0,Smart Singles,,,,,4,5,,,,4,,4,1
+F,U,J,I,TRUE,55-64,H,,D,0,Dynamic Duos,,4,2,2,1,1,4,1,5,1,3,1,1
+F,,N,,FALSE,45-54,H,,,2,Working for the Weekend,,,,2,2,,,,5,2,,2,1
+F,S,O,I,FALSE,,H,C,,0,Jet Setters,,,,,,,,,,,,,1
+F,U,L,A,,35-44,8,,,0,Date Nights City Lights,,4,4,2,1,1,2,4,,5,5,1,1
+M,Q,O,I,FALSE,45-54,H,C,,0,Jet Setters,,,5,,,,,,,,,5,1
+M,R,S,I,TRUE,55-64,H,B,D,0,Lowkey Luxe,,,,,,,,,,,,,1
+F,S,O,I,FALSE,45-54,H,C,,0,Jet Setters,,,,,2,3,,3,,2,,2,1
+F,S,Q,I,FALSE,25-34,H,B,,0,Life in the Fast Lane,4,,1,5,2,,,2,,2,,1,1
+M,Q,N,H,TRUE,35-44,H,B,U,0,Date Nights City Lights,,,,5,5,,5,5,4,5,,3,1
+M,S,O,,TRUE,65-74,H,B,,0,Old Money,3,5,4,1,3,3,,,1,,,1,1
+F,,I,G,FALSE,25-34,8,,,2,Subway Surfers,,3,,2,1,2,,,,1,,1,1
+F,U,F,A,TRUE,55-64,8,B,R,0,Single and Surviving,,,,,5,5,,,,,1,1,1
+F,S,O,F,FALSE,35-44,H,C,D,0,Jet Setters,1,2,2,2,1,1,5,2,2,2,,1,1
+M,R,S,I,,65-74,H,,D,0,Old Money,5,3,,,1,5,,,,2,,1,1
+F,,H,,FALSE,,,,,2,Young Middle Managers,,,,,,,,,,,,,1
+F,,H,,FALSE,,,,,2,Young Middle Managers,,,,,,,,,,,,,1
+F,,A,A,FALSE,35-44,8,,,0,Single and Surviving,4,,,5,1,,,2,,1,,1,1
+F,U,O,I,,75+,9,,,0,Old Money,,,,,4,5,,,,3,,3,1
+M,S,N,I,TRUE,35-44,H,D,,0,Downtown Dreamers,,,,,1,2,,4,1,1,,1,1
+M,,F,H,TRUE,35-44,H,,,0,Penny Pinching Couples,,,,,,,,,,,,5,1
+M,,F,H,TRUE,35-44,H,,,0,Penny Pinching Couples,,,,,,,,,,,,5,1
+F,,L,H,TRUE,55-64,,,,0,Working for the Weekend,,5,5,,5,,,,,5,,5,1
+F,S,P,G,FALSE,25-34,H,C,D,0,Life in the Fast Lane,2,5,,,4,5,,5,,4,,2,1
+F,,N,I,TRUE,45-54,R,,R,0,Working for the Weekend,5,5,,,5,5,,5,,5,,5,1
+M,,,,FALSE,,,,,2,Life in the Fast Lane,3,,,4,2,,,5,,2,,2,1
+M,U,O,I,,65-74,H,B,D,0,Senior Society,,,5,,5,,,,,5,,2,1
+F,U,S,I,TRUE,65-74,H,A,D,0,Wealth Whispers,,5,2,,1,5,,,5,1,,1,1
+M,S,O,I,FALSE,,H,B,,0,Lowkey Luxe,,,,,1,1,,,,1,,1,1
+M,S,O,I,FALSE,,H,B,,0,Lowkey Luxe,,,,,1,1,,,,1,,1,1
+F,U,N,G,FALSE,45-54,,C,,0,Movin On Up,3,,3,3,1,5,,5,4,1,,1,1
+F,S,S,I,TRUE,35-44,H,B,,0,Life in the Fast Lane,1,2,5,3,2,5,,3,,2,,1,1
+,,,,FALSE,,,,,2,Smart Singles,,,,,1,,,3,,,,1,1
+F,U,O,I,,65-74,9,,D,0,Single and Thriving,,,1,,1,4,,,5,1,,1,1
+M,,N,I,,65-74,H,,,0,Retired and Relaxed,,,,,,,,,,,,,1
+M,,N,I,,65-74,H,,,0,Retired and Relaxed,,,,,,,,,,,,,1
+M,,N,I,,65-74,H,,,0,Retired and Relaxed,,,,,,,,,,,,,1
+M,,N,I,,65-74,H,,,0,Retired and Relaxed,,,,,,,,,,,,,1
+M,S,S,I,TRUE,65-74,H,B,D,0,Old Money,,2,,2,4,,2,4,,5,,2,1
+M,,S,I,TRUE,45-54,H,,,2,Jet Setters,,,,4,4,,,,,4,,4,1
+M,N,J,I,FALSE,35-44,H,D,,0,Date Nights City Lights,,4,4,,1,5,,,,1,,1,1
+F,,I,G,FALSE,,H,,,2,American Dreamers,,,,,1,2,,3,,1,,1,1
+F,,,I,FALSE,35-44,H,,,0,Glitterati,2,5,1,,1,2,5,4,5,1,,1,1
+M,U,R,I,,35-44,R,B,D,0,Glitterati,5,3,2,4,4,4,,,,4,,2,1
+F,,M,I,TRUE,55-64,H,,,0,Working for the Weekend,,5,1,5,1,4,,4,,1,2,1,1
+F,S,R,I,FALSE,35-44,H,A,R,0,Life in the Fast Lane,,,,,1,,,,,,,1,1
+M,,,,FALSE,35-44,,,,2,Life in the Fast Lane,,3,,,3,,5,3,5,3,,3,1
+M,O,N,H,TRUE,35-44,H,A,D,0,Working for the Weekend,5,,,,2,5,,,,5,5,1,1
+M,,F,,FALSE,35-44,,,,0,Penny Pinching Couples,,2,4,1,1,4,4,5,3,2,2,1,1
+M,S,R,A,TRUE,45-54,H,,,0,Jet Setters,,,3,5,3,,5,5,2,3,4,2,1
+M,U,D,A,TRUE,45-54,,,,0,Single and Surviving,,5,,,4,,,4,,4,2,2,1
+F,,,I,TRUE,65-74,,,,0,Senior Society,,,1,5,2,2,3,3,5,3,,1,1
+M,S,O,I,FALSE,25-34,H,,,0,Glitterati,,,,2,,,,,,,,2,1
+M,,N,E,FALSE,,,,,1,Date Nights City Lights,,5,,,3,3,,5,5,5,5,3,1
+M,,,,FALSE,,,,,2,Life in the Fast Lane,,,,,2,,,,,2,,2,1
+F,S,,,FALSE,,H,,,0,Life in the Fast Lane,2,,2,1,1,5,2,2,,1,,1,1
+M,Q,N,I,,55-64,H,,,0,Single Sophisticates,,5,5,,3,5,,4,2,3,,2,1
+F,U,,,FALSE,25-34,,C,,0,Single and Strategic,,,,,,,,,,,,,1
+M,U,R,I,,75+,,,,0,Old Money,,5,,,1,,,3,1,1,,1,1
+F,U,N,H,TRUE,65-74,,B,,0,Silver Sneakers,,4,1,5,5,,1,5,,5,,1,1
+F,,,,TRUE,25-34,H,,,2,Life in the Fast Lane,,,4,,1,,,,,1,,1,1
+M,,H,G,,65-74,H,,,0,American Classics,,,,,,,,,,,,1,1
+F,O,P,G,TRUE,55-64,H,B,D,0,Wealth Whispers,5,5,5,,,,,,,,,2,0
+F,N,Q,G,TRUE,55-64,H,B,D,0,Lowkey Luxe,,4,3,,,,5,,,,,1,0
+M,U,B,G,,65-74,R,,R,0,Mid Century Moderns,,,,,,,,,,,,1,0
+M,Q,Q,I,TRUE,65-74,H,A,I,0,Wealth Whispers,,,5,,,,5,,,,,2,0
+F,N,O,H,TRUE,65-74,H,C,I,0,Country Club Set,,,,,5,,,5,,,,5,0
+F,R,O,G,TRUE,45-54,H,B,D,0,Lowkey Luxe,,,,,5,5,5,,,,,2,0
+M,O,O,H,TRUE,65-74,H,F,D,0,Country Club Set,,,,,,,,,,,,,0
+F,M,O,H,TRUE,45-54,H,E,D,0,Lowkey Luxe,,5,,,,,,,,,,1,0
+M,R,O,I,TRUE,75+,H,C,D,0,Country Club Set,,2,2,,,,,,,,5,2,0
+M,R,O,I,TRUE,75+,H,C,D,0,Country Club Set,,2,2,,,,,,,,5,2,0
+F,O,O,G,TRUE,45-54,H,D,L,0,Minivans and Malls,5,5,,,,,5,,,,,2,0
+F,O,Q,I,TRUE,55-64,H,B,L,0,Single and Thriving,,5,,,2,,5,5,4,2,,2,0
+F,L,O,H,,65-74,H,B,R,0,Old Money,3,,,,,,,,,,,2,0
+F,K,N,G,TRUE,75+,H,C,D,0,Golden Era,,,,,,,,,,,5,1,0
+F,Q,L,I,,65-74,H,B,I,0,Silver Sneakers,,,,,,,,,5,,,1,0
+F,,,I,,75+,H,,R,0,Greatest Generation,,5,,,,,,,,,,4,0
+F,,,I,,75+,H,,R,0,Greatest Generation,,5,,,,,,,,,,4,0
+F,,,I,,75+,H,,R,0,Greatest Generation,,5,,,,,,,,,,4,0
+F,O,J,G,TRUE,55-64,H,A,I,0,Country Clout,,,,,,,,,,,,1,0
+F,J,N,G,TRUE,45-54,H,F,,0,Movin On Up,,5,,,,,,,,,,5,0
+M,N,N,G,TRUE,55-64,H,B,R,0,Dynamic Duos,,5,,,,,,,,,,1,0
+M,Q,R,I,TRUE,55-64,H,B,R,0,Single and Thriving,,5,2,,1,1,,3,2,5,3,1,0
+F,Q,N,I,TRUE,65-74,H,B,D,0,Silver Sneakers,,5,,,3,5,,3,,4,,2,0
+F,M,L,G,TRUE,55-64,H,E,L,0,Single Sophisticates,,3,2,,,,,,,,,2,0
+M,N,P,H,,65-74,H,B,D,0,Old Money,,,2,,4,5,,4,5,,,1,0
+F,K,L,B,TRUE,55-64,H,D,D,0,Dynamic Duos,,5,5,,,,,,,,,1,0
+M,O,N,H,,65-74,H,G,R,0,Smart Singles,,,,,,,,,5,,,3,0
+M,Q,Q,G,,55-64,H,,I,0,Lowkey Luxe,,,,,,,,,,,,5,0
+F,Q,N,I,TRUE,45-54,H,B,D,0,Pleasantville,,,,,,,,,,,4,1,0
+F,S,S,I,TRUE,65-74,H,B,D,0,Suburban Socialites,,3,1,5,2,,5,,2,5,,1,0
+M,L,N,G,,75+,H,D,D,0,Retired and Relaxed,,,5,,,,5,,,,,1,0
+M,L,N,G,,75+,H,D,D,0,Retired and Relaxed,,,5,,,,5,,,,,1,0
+M,L,N,G,,75+,H,D,D,0,Retired and Relaxed,,,5,,,,5,,,,,1,0
+F,R,Q,I,TRUE,45-54,H,C,I,0,Minivans and Malls,,,5,5,5,5,,,,,,1,0
+M,M,N,G,TRUE,65-74,H,B,I,0,Single Sophisticates,,,,,,,,,,,,4,0
+F,Q,N,I,,75+,H,B,D,0,Silver Sneakers,,4,5,5,4,,,5,,4,,1,0
+F,M,L,G,TRUE,55-64,H,A,D,0,Single Sophisticates,,5,,,,,,,,,,1,0
+M,Q,R,I,,65-74,H,C,D,0,Country Club Set,,5,,,1,1,5,,5,,,1,0
+M,Q,R,I,,65-74,H,C,D,0,Country Club Set,,5,,,1,1,5,,5,,,1,0
+F,N,N,E,TRUE,65-74,H,G,R,0,Dynamic Duos,,5,1,1,,,,,,,,1,0
+M,N,F,G,TRUE,75+,H,A,,0,Senior Discount,,,,,,,,,,,,4,0
+F,L,N,H,,65-74,H,C,,0,Smart Singles,,,,,,,,,,,,2,0
+M,Q,L,G,TRUE,65-74,H,B,D,0,Retired and Relaxed,3,,,,,,,,,,2,2,0
+F,Q,J,G,TRUE,45-54,H,F,D,0,Successful Singles,,2,,,,,,,,,,2,0
+F,Q,J,G,TRUE,45-54,H,F,D,0,Successful Singles,,2,,,,,,,,,,2,0
+F,Q,J,G,TRUE,45-54,H,F,D,0,Successful Singles,,2,,,,,,,,,,2,0
+M,L,O,F,TRUE,65-74,H,B,I,0,Country Club Set,,,,,5,5,,,,,,4,0
+F,R,Q,I,TRUE,55-64,H,D,R,0,Suburban Socialites,2,4,,,4,5,,,5,,5,2,0
+M,N,Q,I,TRUE,75+,H,C,D,0,Country Club Set,5,5,,,,,,,,,,5,0
+M,G,N,H,TRUE,55-64,H,B,,0,Country Clout,,,5,,4,4,,,,,,4,0
+F,R,S,I,TRUE,55-64,H,C,D,0,Wealth Whispers,5,5,5,,1,,,,,1,,1,0
+F,,,,,55-64,,,R,0,Single and Thriving,,,,,1,1,,,3,,,1,0
+F,Q,O,H,TRUE,65-74,H,C,D,0,Country Club Set,,,,,5,5,,,,,,2,0
+F,,S,I,,65-74,H,,D,0,Old Money,5,5,,,,,,,,,,1,0
+M,S,O,I,TRUE,65-74,H,B,I,0,Country Club Set,,,,,,,,,5,,,5,0
+F,R,P,H,TRUE,55-64,H,C,D,0,Minivans and Malls,,1,1,3,1,,1,,2,1,,1,0
+M,N,L,G,TRUE,45-54,H,C,I,0,Movin On Up,,,,,,,,,,,,1,0
+F,,Q,H,TRUE,55-64,H,,D,0,Suburban Socialites,,2,5,,3,3,5,4,,5,,2,0
+F,Q,O,F,TRUE,45-54,H,,D,0,Lowkey Luxe,,,,,5,,,,2,5,,1,0
+F,Q,O,I,,75+,H,C,I,0,Urban Elites,,,,,,,,,,,,2,0
+F,Q,O,I,,75+,H,C,I,0,Urban Elites,,,,,,,,,,,,2,0
+M,U,H,I,,75+,H,,D,0,Senior Discount,,,,,,,,,,,,4,0
+M,U,H,I,,75+,H,,D,0,Senior Discount,,,,,,,,,,,,4,0
+F,Q,N,G,TRUE,45-54,H,B,D,0,Working for the Weekend,,,,,,,,,,,,4,0
+F,M,N,F,FALSE,45-54,H,E,I,0,Working for the Weekend,,,,5,,,5,,,,,1,0
+M,R,O,I,TRUE,65-74,H,B,D,0,Old Money,,,,,,,,,,,,3,0
+M,R,O,I,TRUE,65-74,H,B,D,0,Old Money,,,,,,,,,,,,3,0
+F,R,F,B,,65-74,H,B,D,0,American Classics,,5,,,,,,,,,,2,0
+F,Q,Q,I,TRUE,55-64,H,G,D,0,Single and Thriving,,5,4,,,,,,,,,1,0
+F,M,O,H,,55-64,H,F,D,0,Hometown Heroes,,,,,4,,,,,4,,2,0
+F,R,S,I,TRUE,55-64,H,C,L,0,Wealth Whispers,,3,1,3,1,,,,,1,,1,0
+F,,S,I,TRUE,35-44,H,,D,0,Jet Setters,5,,2,,2,3,,,,2,,1,0
+F,,S,I,TRUE,35-44,H,,D,0,Jet Setters,5,,2,,2,3,,,,2,,1,0
+F,,S,I,TRUE,35-44,H,,D,0,Jet Setters,5,,2,,2,3,,,,2,,1,0
+F,R,S,I,,75+,H,C,D,0,Old Money,,,,,,,,,,,,2,0
+F,Q,R,I,TRUE,65-74,H,C,D,0,Suburban Socialites,,,,,1,,,,5,1,4,1,0
+F,Q,R,I,TRUE,65-74,H,C,D,0,Suburban Socialites,,,,,1,,,,5,1,4,1,0
+M,U,Q,I,TRUE,65-74,H,,D,0,Old Money,5,,,,,,,,,,,4,0
+M,R,Q,I,,65-74,H,A,D,0,Country Club Set,,,,,,,,,,,,,0
+F,S,R,I,,75+,H,C,D,0,Senior Society,,,,,2,1,,,,2,1,1,0
+F,S,S,I,TRUE,55-64,H,B,L,0,Wealth Whispers,,5,,,5,5,,,5,5,,2,0
+M,Q,O,H,TRUE,55-64,H,G,D,0,Hometown Heroes,,,,,,,,,,,,2,0
+M,S,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,5,5,5,5,5,,,,,1,0
+M,S,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,5,5,5,5,5,,,,,1,0
+F,Q,R,I,TRUE,45-54,H,A,D,0,Minivans and Malls,,3,,,5,,,,,5,,1,0
+F,Q,R,I,TRUE,45-54,H,A,D,0,Minivans and Malls,,3,,,5,,,,,5,,1,0
+F,Q,R,H,TRUE,55-64,H,E,R,0,Suburban Socialites,2,5,,,1,,,,,1,,1,0
+F,Q,R,H,TRUE,55-64,H,B,D,0,Wealth Whispers,5,,4,,3,,3,,,3,,1,0
+F,R,R,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,5,3,,,2,,,,3,2,,1,0
+F,R,R,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,5,3,,,2,,,,3,2,,1,0
+F,R,S,I,TRUE,55-64,H,C,D,0,Lowkey Luxe,,4,1,4,,,,,,,,1,0
+M,R,O,I,TRUE,75+,H,B,L,0,Old Money,5,5,1,3,4,,,4,1,,,1,0
+F,M,N,G,,65-74,H,D,D,0,Smart Singles,,,,,,,,,,,,,0
+F,Q,O,I,TRUE,55-64,H,B,D,0,Hometown Heroes,,,,,,,,,,,,2,0
+F,,R,I,,65-74,H,,D,0,Old Money,,1,,,,,,,,,5,1,0
+F,S,S,I,TRUE,75+,H,B,D,0,Country Club Set,1,5,2,,,,,,5,,,1,0
+F,R,R,I,,65-74,H,C,D,0,Senior Society,,,,,,,,,,,,2,0
+F,Q,O,H,TRUE,55-64,H,B,D,0,Hometown Heroes,,,1,,,,,,,,,1,0
+F,Q,Q,G,TRUE,45-54,H,B,I,0,Lowkey Luxe,,1,,,5,,,5,,,,1,0
+F,R,O,I,,75+,H,B,I,0,Senior Elite,,,,,,,,,,,,1,0
+F,R,S,I,TRUE,65-74,H,C,D,0,Country Club Set,4,3,1,,4,4,,4,,,,1,0
+F,S,S,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,5,1,2,1,1,,4,2,2,1,1,1,0
+F,Q,O,H,TRUE,55-64,H,B,I,0,Wealth Whispers,,,,,,,,,,,,2,0
+F,R,S,I,TRUE,65-74,H,C,I,0,Country Club Set,,5,1,2,3,5,,5,,3,,1,0
+M,S,S,I,TRUE,75+,H,B,L,0,Urban Elites,5,5,,,,,,5,3,,,1,0
+F,L,L,H,,75+,H,B,D,0,Golden Era,,5,5,,,,,,,,,1,0
+F,Q,N,I,TRUE,65-74,H,B,D,0,Smart Singles,,,,,3,,,3,,,,1,0
+F,S,S,I,TRUE,35-44,H,C,I,0,High Tech Rednecks,,,,,,,,,,,,,0
+F,S,S,I,TRUE,35-44,H,C,I,0,High Tech Rednecks,,,,,,,,,,,,,0
+F,Q,A,I,,75+,H,B,R,0,Senior Discount,,,,,,,,,,,,,0
+F,Q,S,I,TRUE,55-64,H,B,D,0,Hometown Heroes,2,4,4,5,4,5,,4,,5,,1,0
+F,O,N,G,TRUE,45-54,H,B,D,0,Working for the Weekend,,,,,5,,,5,,5,,4,0
+F,U,O,I,TRUE,55-64,H,,R,0,Suburban Socialites,,,,,5,,,4,,5,,2,0
+F,S,S,I,TRUE,55-64,H,B,I,0,Minivans and Malls,,3,1,1,1,2,5,2,4,1,,1,0
+F,,O,I,TRUE,45-54,H,,D,0,Lowkey Luxe,,,,,,,,,,,5,1,0
+M,S,Q,I,TRUE,55-64,H,C,I,0,Lowkey Luxe,,,1,,,,,,,,,1,0
+M,R,O,H,TRUE,35-44,H,B,L,0,Glitterati,,,,,,,,,,,,4,0
+M,R,O,H,TRUE,35-44,H,B,L,0,Glitterati,,,,,,,,,,,,4,0
+M,R,O,H,TRUE,35-44,H,B,L,0,Glitterati,,,,,,,,,,,,4,0
+F,,N,I,TRUE,65-74,H,,D,0,Silver Sneakers,5,,,,3,,,,,3,,3,0
+F,Q,J,E,,75+,H,,D,0,Silver Sneakers,,3,1,,3,,3,5,3,3,,1,0
+M,S,S,I,TRUE,45-54,H,B,R,0,Minivans and Malls,5,5,2,1,2,,5,5,4,2,2,1,0
+M,S,S,I,TRUE,45-54,H,B,R,0,Minivans and Malls,5,5,2,1,2,,5,5,4,2,2,1,0
+F,P,O,I,,75+,H,B,D,0,Senior Society,,,,,,,,,1,,,1,0
+F,R,O,H,TRUE,55-64,H,C,D,0,Lowkey Luxe,5,5,5,,4,5,5,,5,5,,1,0
+F,S,R,I,TRUE,55-64,H,A,I,0,Wealth Whispers,,,,,,,,,2,,,1,0
+F,S,R,I,TRUE,55-64,H,A,I,0,Wealth Whispers,,,,,,,,,2,,,1,0
+F,S,Q,I,TRUE,,H,D,R,0,Wealth Whispers,3,,5,,5,,,4,,5,,2,0
+M,O,L,G,,65-74,H,B,I,0,Smart Singles,,,,,,,,,,,,2,0
+F,R,O,I,,55-64,H,A,D,0,Hometown Heroes,,,,,,,,,,,,4,0
+F,Q,R,I,,55-64,H,B,,0,Suburban Socialites,,,,,,,,,,,,5,0
+F,S,S,I,TRUE,55-64,H,C,R,0,Wealth Whispers,,5,,,4,4,5,,,,,1,0
+M,,Q,I,,65-74,H,,R,0,Urban Elites,,,,,5,5,,,,,,2,0
+M,,Q,I,,65-74,H,,R,0,Urban Elites,,,,,5,5,,,,,,2,0
+F,R,Q,I,TRUE,65-74,H,D,R,0,Wealth Whispers,,5,1,,,,,,,,,1,0
+M,S,G,I,,55-64,H,C,D,0,Melting Pot Medley,,,,,,,,,,,,4,0
+M,Q,O,G,,55-64,H,B,I,0,Wealth Whispers,,,,,,,,,,,,3,0
+F,U,B,A,TRUE,45-54,R,E,L,0,Single and Surviving,,2,,,,,,,,,,2,0
+F,P,O,I,TRUE,65-74,H,B,I,0,Wealth Whispers,,,,,,2,,,5,,2,1,0
+F,S,N,I,,75+,H,B,D,0,Silver Sneakers,,,5,,4,,,4,,5,,2,0
+F,S,S,I,TRUE,55-64,H,A,D,0,Lowkey Luxe,,,3,5,,,,,,,,1,0
+F,R,S,I,TRUE,55-64,H,C,R,0,Wealth Whispers,,4,,5,3,,3,5,1,3,2,1,0
+F,S,S,I,,55-64,H,B,D,0,Wealth Whispers,,5,,1,,,,,5,,,1,0
+F,S,S,I,TRUE,65-74,H,A,D,0,Old Money,4,5,2,2,5,5,,5,4,5,,2,0
+F,Q,Q,I,TRUE,55-64,H,D,R,0,Suburban Socialites,3,,,,2,,,,,2,,2,0
+F,S,S,I,TRUE,55-64,H,C,R,0,Wealth Whispers,,2,2,1,3,5,5,3,5,5,2,1,0
+F,S,S,I,TRUE,75+,H,B,D,0,Urban Elites,3,4,1,1,1,3,5,,5,,,1,0
+F,R,R,I,TRUE,45-54,H,C,D,0,Minivans and Malls,4,4,5,5,1,,,,,1,,1,0
+F,S,S,I,,55-64,H,B,L,0,Wealth Whispers,4,5,5,5,1,1,,5,1,1,5,1,0
+F,Q,O,F,TRUE,45-54,H,A,D,0,Lowkey Luxe,,5,3,4,4,4,3,,2,,4,1,0
+F,Q,O,F,TRUE,45-54,H,A,D,0,Lowkey Luxe,,5,3,4,4,4,3,,2,,4,1,0
+M,R,R,I,TRUE,45-54,H,A,D,0,Lowkey Luxe,,,,,,,,,5,,,5,0
+F,Q,O,I,TRUE,65-74,H,B,L,0,Old Money,,,,,,,,,,,,5,0
+F,Q,O,I,TRUE,75+,H,C,D,0,Senior Elite,,,,1,5,,,,,5,,1,0
+M,R,J,A,TRUE,55-64,H,A,I,0,Home for the Holidays,,,,,,,,,,,,5,0
+M,H,N,G,,75+,H,C,I,0,Silver Sneakers,,,,,,,,,,,,4,0
+M,H,N,G,,75+,H,C,I,0,Silver Sneakers,,,,,,,,,,,,4,0
+M,U,O,G,TRUE,55-64,H,F,R,0,Patriotic and Proud,,,,,,,,,3,,,1,0
+F,R,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,5,3,,1,,,,4,1,,1,0
+M,S,S,I,TRUE,55-64,H,B,I,0,Suburban Socialites,4,4,2,,,,,,,,5,2,0
+F,Q,S,I,TRUE,55-64,H,B,I,0,Suburban Socialites,,5,,,,,,,,,,1,0
+M,S,N,I,,75+,H,,,0,Golden Era,,,,,,4,,,,,4,4,0
+M,S,N,I,,75+,H,,,0,Golden Era,,,,,,4,,,,,4,4,0
+F,S,S,I,,65-74,H,C,D,0,Old Money,1,5,1,2,1,2,3,,,1,,1,0
+F,S,S,I,TRUE,75+,H,B,L,0,Country Club Set,,4,1,,3,,2,3,1,,,1,0
+M,Q,N,I,TRUE,75+,H,A,D,0,Golden Era,,,5,,,,5,,,,,2,0
+F,U,N,G,,65-74,R,A,D,0,Silver Sneakers,,,,,,,,,,,,,0
+F,Q,O,I,TRUE,65-74,H,C,R,0,Old Money,5,5,,,3,,5,3,,,,1,0
+F,Q,Q,I,TRUE,75+,H,C,I,0,Urban Elites,,5,,,,,,,,,,1,0
+M,Q,R,I,TRUE,65-74,H,D,L,0,Wealth Whispers,,5,,,,,,,,,,4,0
+F,,S,I,TRUE,65-74,H,,D,0,Wealth Whispers,,2,,5,2,,5,2,,2,,1,0
+M,S,Q,I,,75+,H,D,,0,Urban Elites,,,,,,,,,,,,,0
+F,S,R,I,TRUE,65-74,H,B,D,0,Senior Society,,1,5,3,5,5,3,,,5,4,1,0
+F,S,O,H,TRUE,65-74,H,B,D,0,Old Money,,5,,,,,,,2,,,2,0
+F,S,O,H,TRUE,65-74,H,B,D,0,Old Money,,5,,,,,,,2,,,2,0
+F,R,S,I,TRUE,55-64,H,A,L,0,Suburban Socialites,,,,,1,1,,,,,,1,0
+F,S,S,I,TRUE,65-74,H,B,D,0,Suburban Socialites,4,5,2,1,2,5,2,,2,2,4,1,0
+F,S,R,I,TRUE,65-74,H,C,I,0,Suburban Socialites,5,3,5,,,,,,,,,1,0
+M,R,R,I,TRUE,45-54,H,C,L,0,Lowkey Luxe,,5,1,,2,,,2,5,3,,1,0
+M,Q,S,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,4,5,3,5,5,,,3,,,2,0
+F,R,R,I,TRUE,45-54,H,B,D,0,Minivans and Malls,4,,1,5,5,,,,,,1,1,0
+F,R,R,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,,,,2,,,,,,,,1,0
+F,U,D,I,,55-64,H,A,I,0,Modern Family,,,,,,,,,2,,,2,0
+F,Q,S,I,TRUE,55-64,H,,I,0,Minivans and Malls,,,,,,,,,5,,,2,0
+F,S,S,I,TRUE,55-64,H,F,D,0,Wealth Whispers,,,,,,,,,,,,,0
+F,Q,S,I,TRUE,45-54,H,B,,0,Minivans and Malls,,5,4,,,,,,,,4,4,0
+F,R,O,H,,75+,H,D,R,0,Country Club Set,,5,3,5,,,,,1,,,1,0
+F,R,Q,I,TRUE,65-74,H,B,D,0,Old Money,,5,,,2,2,,,,,,2,0
+F,Q,R,I,TRUE,55-64,H,H,R,0,Wealth Whispers,5,3,4,2,3,,3,3,2,4,,1,0
+M,,,I,TRUE,45-54,H,,D,0,Minivans and Malls,,,,,5,5,5,,,,,5,0
+M,Q,P,I,,65-74,H,B,I,0,Urban Elites,,,,,,,,,,,,5,0
+M,Q,P,I,,65-74,H,B,I,0,Urban Elites,,,,,,,,,,,,5,0
+F,R,O,I,TRUE,55-64,H,B,D,0,Single and Thriving,,,,5,,,5,,3,,3,1,0
+F,Q,O,I,TRUE,55-64,H,B,D,0,Lowkey Luxe,,,,,,,,,,,,,0
+M,R,S,I,TRUE,55-64,H,B,R,0,Suburban Socialites,,,3,,5,5,,,1,5,,1,0
+F,R,S,I,TRUE,55-64,H,C,D,0,Suburban Socialites,,1,,,5,,,5,,,2,1,0
+M,S,S,I,TRUE,65-74,H,C,I,0,Old Money,3,,1,2,5,,,,1,5,,1,0
+F,S,S,I,TRUE,55-64,H,,D,0,Wealth Whispers,,3,1,,1,1,5,,3,1,1,1,0
+M,R,P,I,TRUE,65-74,H,B,D,0,Wealth Whispers,,4,,,,,,,,,,2,0
+M,R,P,I,TRUE,65-74,H,B,D,0,Wealth Whispers,,4,,,,,,,,,,2,0
+M,R,P,I,TRUE,65-74,H,B,D,0,Wealth Whispers,,4,,,,,,,,,,2,0
+M,S,R,I,,65-74,H,B,D,0,Old Money,,4,,,4,4,,,2,,,2,0
+F,Q,Q,H,TRUE,45-54,H,C,L,0,Lowkey Luxe,5,,1,1,5,,,5,,5,5,1,0
+F,Q,Q,H,TRUE,45-54,H,C,L,0,Lowkey Luxe,5,,1,1,5,,,5,,5,5,1,0
+F,Q,R,I,TRUE,55-64,H,B,L,0,Lowkey Luxe,3,,,,,,,,,,,3,0
+M,S,R,I,,65-74,H,B,D,0,Old Money,,,,,,,,,,,,1,0
+M,S,R,I,,65-74,H,B,D,0,Old Money,,,,,,,,,,,,1,0
+M,S,R,I,,65-74,H,B,D,0,Old Money,,,,,,,,,,,,1,0
+F,S,Q,I,TRUE,75+,H,D,,0,Old Money,,5,2,,,,2,,,,,1,0
+F,Q,C,I,TRUE,45-54,H,C,L,0,Family Values,,5,,,,,,,,,,1,0
+F,Q,R,I,TRUE,65-74,H,B,D,0,Country Club Set,5,,,,5,,,5,,,,4,0
+F,R,S,I,TRUE,55-64,H,C,D,0,Suburban Socialites,5,2,3,5,5,5,5,,5,5,,1,0
+F,R,S,I,TRUE,55-64,H,A,I,0,Suburban Socialites,,,3,4,5,,5,,,,,3,0
+F,,,,,65-74,R,,D,0,Old Money,5,2,5,,1,1,5,3,,,1,1,0
+F,U,N,H,TRUE,35-44,R,E,D,0,Date Nights City Lights,3,,,1,1,5,,3,,5,,1,0
+M,R,S,I,,55-64,H,A,D,0,Wealth Whispers,,2,5,,5,,4,,1,5,1,1,0
+F,S,S,I,TRUE,75+,H,B,D,0,Old Money,,,5,2,1,,,,2,1,,1,0
+M,Q,N,H,TRUE,65-74,H,D,D,0,Home for the Holidays,,,,,,,,,,,,,0
+F,R,Q,I,TRUE,65-74,H,B,D,0,Old Money,,,,,,5,,,,,,5,0
+F,Q,N,H,,65-74,H,C,I,0,Single Sophisticates,,,1,1,5,,,,5,5,,1,0
+F,Q,N,H,,65-74,H,C,I,0,Single Sophisticates,,,1,1,5,,,,5,5,,1,0
+F,Q,N,H,,65-74,H,C,I,0,Single Sophisticates,,,1,1,5,,,,5,5,,1,0
+F,N,O,G,,65-74,H,E,I,0,Senior Society,,5,,,,,,,,,,5,0
+F,N,O,G,,65-74,H,E,I,0,Senior Society,,5,,,,,,,,,,5,0
+M,S,O,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,5,,,,,,,5,,,1,0
+M,S,S,I,TRUE,75+,H,B,L,0,Senior Elite,,,2,,5,5,,3,2,5,,1,0
+F,S,S,I,TRUE,55-64,H,B,I,0,Wealth Whispers,,2,2,2,5,5,5,,4,,,2,0
+M,P,K,G,,75+,H,C,,0,Silver Sneakers,,,,,,,5,,,,,2,0
+F,U,F,F,,75+,H,C,D,0,Mid Century Moderns,,,,,2,,,2,,4,,1,0
+F,Q,O,I,,65-74,H,B,I,0,Old Money,4,,,,2,,,2,,,,2,0
+F,Q,O,I,,65-74,H,B,I,0,Old Money,4,,,,2,,,2,,,,2,0
+F,Q,O,I,,65-74,H,B,I,0,Old Money,4,,,,2,,,2,,,,2,0
+F,U,R,H,FALSE,45-54,R,B,D,0,Jet Setters,,,,,,,,,,,,,0
+M,S,S,I,TRUE,45-54,H,B,R,0,Jet Setters,,,3,,,,,,,,,3,0
+M,S,S,I,TRUE,45-54,H,B,R,0,Jet Setters,,,3,,,,,,,,,3,0
+M,Q,N,G,,55-64,H,B,D,0,Single Sophisticates,,,,,4,,,5,,4,,2,0
+M,N,D,G,,65-74,H,C,D,0,Mid Century Moderns,,,5,,,1,,,2,,1,1,0
+F,N,L,I,,75+,H,B,D,0,Silver Sneakers,,5,,,,,,,,,,1,0
+F,N,N,H,TRUE,55-64,H,C,R,0,Country Clout,2,5,,,4,,,4,,,,1,0
+F,R,L,H,,55-64,H,B,R,0,Single Sophisticates,,4,,,,,,,,,,4,0
+M,S,P,I,,75+,H,D,D,0,Urban Elites,,,,,,,,,,,,5,0
+F,R,O,I,TRUE,75+,H,C,D,0,Urban Elites,,,,,5,5,,,,5,,1,0
+F,,,,FALSE,55-64,H,,,0,Minivans and Malls,,,,,,,,,,,,5,0
+F,,,,FALSE,55-64,H,,,0,Minivans and Malls,,,,,,,,,,,,5,0
+M,P,O,G,TRUE,55-64,H,C,D,0,Suburban Socialites,,,,,,,,,,,,,0
+M,Q,O,I,TRUE,65-74,H,C,D,0,Old Money,,,,,,,,5,,,,1,0
+F,Q,P,I,,65-74,H,D,D,0,Old Money,,,,,,,,,,,,2,0
+F,S,R,I,TRUE,65-74,H,E,D,0,Wealth Whispers,,,,,,,,,,,,,0
+F,S,R,I,TRUE,65-74,H,E,D,0,Wealth Whispers,,,,,,,,,,,,,0
+F,U,Q,I,TRUE,55-64,R,,,0,Hometown Heroes,,5,3,,5,,,5,,5,5,3,0
+M,R,E,I,TRUE,45-54,H,B,D,0,American Dreamers,,,,2,,,,,,,,1,0
+M,R,E,I,TRUE,45-54,H,B,D,0,American Dreamers,,,,2,,,,,,,,1,0
+F,R,,H,TRUE,45-54,H,C,R,0,Lowkey Luxe,5,3,1,2,4,4,3,,,5,,1,0
+F,Q,N,H,TRUE,45-54,H,C,D,0,Working for the Weekend,,,,,2,3,,,,2,,2,0
+F,Q,N,H,TRUE,45-54,H,C,D,0,Working for the Weekend,,,,,2,3,,,,2,,2,0
+F,Q,R,I,,65-74,H,B,D,0,Old Money,4,5,1,3,,,,,,,,1,0
+F,R,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,4,,,,5,5,,,,5,,1,0
+F,Q,J,I,TRUE,75+,H,D,,0,Silver Sneakers,5,,,5,4,4,,4,,,,1,0
+F,U,O,I,TRUE,75+,H,B,R,0,Senior Elite,,,,,,,,,,,,,0
+F,U,O,I,TRUE,75+,H,B,R,0,Senior Elite,,,,,,,,,,,,,0
+F,S,O,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,,,,,,,,,,5,0
+F,N,O,I,TRUE,45-54,H,C,,0,Jet Setters,5,5,1,,,,1,,,,,1,0
+F,N,O,I,TRUE,45-54,H,C,,0,Jet Setters,5,5,1,,,,1,,,,,1,0
+F,Q,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,5,,,,,,5,,,2,0
+F,Q,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,5,,,,,,5,,,2,0
+F,Q,P,I,TRUE,65-74,H,B,L,0,Old Money,,,,,,,,,,,,,0
+F,Q,O,I,,75+,H,A,D,0,Senior Elite,,,,,,,,,,,,1,0
+M,Q,P,I,TRUE,55-64,H,C,R,0,Single and Thriving,,,,,,,,,,,,1,0
+M,U,Q,I,,75+,H,C,R,0,Senior Elite,,5,5,,,,5,,,,,5,0
+M,U,M,I,TRUE,55-64,H,B,D,0,Working for the Weekend,,,1,,4,,,4,,,,1,0
+F,,O,H,,65-74,H,,D,0,Single and Thriving,,,,,,,,,,,,1,0
+F,R,Q,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,3,5,,1,1,,,,,,1,0
+F,O,O,I,,75+,H,A,R,0,Senior Elite,,,,,,,,,,,,5,0
+M,R,N,I,TRUE,75+,H,B,D,0,Retired and Relaxed,,,,,,,,,,,,2,0
+F,S,O,H,,65-74,H,B,I,0,Urban Elites,,,2,1,4,,5,5,4,4,,1,0
+F,Q,J,G,,65-74,H,C,D,0,Smart Singles,,,,3,3,3,3,,,,5,1,0
+F,I,H,A,TRUE,45-54,H,G,I,0,Single and Surviving,5,,5,,,,,,,,,4,0
+F,I,H,A,TRUE,45-54,H,G,I,0,Single and Surviving,5,,5,,,,,,,,,4,0
+F,Q,P,I,TRUE,55-64,H,B,I,0,Jet Setters,,,,,5,5,,,,,,4,0
+F,Q,L,I,,75+,H,B,D,0,Smart Singles,,,,,,,,,,,,2,0
+F,S,O,I,TRUE,75+,H,D,D,0,Senior Elite,,3,5,,1,1,5,,3,4,,1,0
+F,R,S,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,,,4,,,,,,,,2,0
+M,R,R,H,TRUE,65-74,H,C,R,0,Country Club Set,,5,2,,,,5,,,,,2,0
+F,R,O,I,TRUE,65-74,H,E,D,0,Old Money,,4,1,,,,1,,5,,,1,0
+M,U,J,H,,65-74,H,C,D,0,Smart Singles,,5,5,,5,,5,,5,5,,1,0
+M,U,J,H,,65-74,H,C,D,0,Smart Singles,,5,5,,5,,5,,5,5,,1,0
+M,Q,O,H,TRUE,65-74,H,C,D,0,Wealth Whispers,,,2,,,,3,,,,,2,0
+F,Q,L,H,TRUE,45-54,H,C,D,0,Working for the Weekend,,,2,,,,,,5,,,2,0
+F,S,L,H,TRUE,55-64,H,G,D,0,Dynamic Duos,,5,5,,,,,,5,,5,1,0
+M,,R,I,,65-74,H,,,0,Urban Elites,,,,,,,,,,,,2,0
+F,U,L,G,TRUE,35-44,H,C,R,0,Single in the Suburbs,,,2,4,2,4,3,5,,2,,1,0
+F,I,L,G,TRUE,45-54,H,C,D,0,Pleasantville,5,,,,,,,,,,,5,0
+F,E,L,I,,75+,H,B,,0,Smart Singles,,,,,1,1,,,,,,1,0
+F,E,L,I,,75+,H,B,,0,Smart Singles,,,,,1,1,,,,,,1,0
+M,P,N,H,TRUE,45-54,H,C,D,0,Working for the Weekend,,5,2,,5,5,,,,,,2,0
+M,P,N,H,TRUE,45-54,H,C,D,0,Working for the Weekend,,5,2,,5,5,,,,,,2,0
+M,U,J,I,,65-74,H,,I,0,Smart Singles,,1,,,,,,,,,,1,0
+M,Q,O,H,TRUE,55-64,H,C,D,0,Wealth Whispers,,,,,,,,,,,,1,0
+F,R,P,I,,75+,H,A,D,0,Old Money,,,,,5,5,,,,,5,1,0
+F,R,R,H,TRUE,65-74,H,C,D,0,Suburban Socialites,5,4,1,2,4,,4,4,5,,,1,0
+F,S,R,I,TRUE,45-54,H,B,L,0,Lowkey Luxe,5,,,,2,2,,,,2,,2,0
+F,Q,L,I,TRUE,65-74,H,E,D,0,Smart Singles,,,,,,,,5,,,,5,0
+F,S,O,I,TRUE,45-54,H,D,,0,Lowkey Luxe,,5,,,4,4,3,,5,,,3,0
+M,Q,D,A,,65-74,H,D,L,0,Mid Century Moderns,,,,,,,,,,,,1,0
+F,U,Q,I,,75+,H,B,D,0,Senior Elite,,,,,,3,,,,,3,3,0
+F,U,Q,I,,75+,H,B,D,0,Senior Elite,,,,,,3,,,,,3,3,0
+M,,L,G,TRUE,65-74,H,,,0,Retired and Relaxed,,,,,5,5,,,,,4,2,0
+M,,L,G,TRUE,65-74,H,,,0,Retired and Relaxed,,,,,5,5,,,,,4,2,0
+M,Q,O,H,TRUE,65-74,H,D,I,0,Old Money,5,,,5,,,,,,,,2,0
+M,S,S,I,,65-74,H,B,R,0,Old Money,,5,1,,,,2,,1,,,1,0
+F,Q,O,G,TRUE,65-74,H,E,I,0,Wealth Whispers,,1,1,,,,1,,,,,1,0
+M,Q,O,H,TRUE,75+,H,E,D,0,Old Money,,5,,,,,,,,,,5,0
+M,Q,S,I,,65-74,H,E,D,0,Urban Elites,,,,,,,,,,,,5,0
+F,R,S,I,TRUE,65-74,H,B,R,0,Old Money,,,,,,,,,,,,,0
+F,S,Q,I,,75+,H,B,D,0,Senior Elite,,,,,,,,,,,,,0
+F,S,S,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,,2,4,,2,2,5,,,,,2,0
+F,S,S,I,TRUE,65-74,H,B,D,0,Old Money,,4,3,1,2,5,5,2,,2,5,1,0
+F,S,S,I,TRUE,55-64,H,D,D,0,Wealth Whispers,5,2,5,2,5,5,,,,5,,1,0
+F,S,Q,I,TRUE,65-74,H,D,D,0,Old Money,,5,3,,5,5,,,,5,,3,0
+F,S,S,I,TRUE,65-74,H,A,R,0,Wealth Whispers,,,2,,5,,,,,5,,1,0
+F,U,Q,I,,65-74,H,,I,0,Old Money,,4,1,,1,1,,1,1,5,,1,0
+F,S,P,I,TRUE,55-64,H,C,D,0,Single and Thriving,,5,,5,,,5,,,,,2,0
+M,Q,R,I,TRUE,55-64,H,A,R,0,Single and Thriving,,,,,,,,,,,,5,0
+M,Q,R,I,TRUE,55-64,H,A,R,0,Single and Thriving,,,,,,,,,,,,5,0
+M,Q,R,I,TRUE,55-64,H,A,R,0,Single and Thriving,,,,,,,,,,,,5,0
+F,S,S,I,TRUE,55-64,H,C,I,0,Wealth Whispers,5,,,5,3,3,5,4,,5,,1,0
+F,S,S,I,TRUE,55-64,H,C,I,0,Wealth Whispers,5,,,5,3,3,5,4,,5,,1,0
+M,S,S,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,5,5,1,,5,5,,,2,,,1,0
+M,S,S,I,TRUE,65-74,H,B,I,0,Single and Thriving,,,5,,4,4,,5,,,,2,0
+M,S,R,I,TRUE,65-74,H,B,D,0,Old Money,,,,,1,1,,5,3,3,,1,0
+F,S,S,I,,75+,H,B,D,0,Senior Elite,,4,,,2,2,,,,,,1,0
+M,S,S,I,,75+,H,A,I,0,Old Money,5,,,,5,,,,5,5,,1,0
+F,Q,P,I,TRUE,55-64,H,B,R,0,Single and Thriving,,5,,,4,,,5,,4,,1,0
+F,S,R,I,TRUE,75+,H,B,D,0,Old Money,,5,,1,,5,,5,5,,5,1,0
+M,S,S,I,TRUE,65-74,H,A,D,0,Wealth Whispers,,,,,3,4,,,,,4,2,0
+F,Q,Q,I,TRUE,65-74,H,C,L,0,Urban Elites,,,,,,,,,,,4,3,0
+F,R,O,I,,75+,H,B,I,0,Urban Elites,5,,,,,,,,,,,3,0
+M,P,O,I,TRUE,65-74,H,D,D,0,Urban Elites,,,5,,,,5,,,,,2,0
+M,S,O,H,TRUE,55-64,H,D,,0,Single and Thriving,,2,5,,,,,,4,,,2,0
+F,S,O,I,,75+,H,C,R,0,Senior Elite,,,,,,,,,,,,3,0
+F,S,O,I,,75+,H,C,R,0,Senior Elite,,,,,,,,,,,,3,0
+M,,O,I,TRUE,55-64,H,,,0,Single and Thriving,,4,,,5,,,5,,,,4,0
+M,,O,I,TRUE,55-64,H,,,0,Single and Thriving,,4,,,5,,,5,,,,4,0
+F,S,S,I,TRUE,55-64,H,B,L,0,Wealth Whispers,,5,2,,4,5,2,4,,,,2,0
+F,S,S,I,TRUE,65-74,H,B,D,0,Old Money,,,5,2,5,,5,,5,,,1,0
+F,,S,I,,55-64,H,,D,0,Single and Thriving,,2,2,,,,,,,,,2,0
+F,S,L,I,TRUE,55-64,H,C,D,0,Dynamic Duos,,,,,,,,,,,,2,0
+F,S,S,I,TRUE,55-64,H,C,D,0,Single and Thriving,,,2,,3,3,2,,,,,2,0
+F,O,P,I,TRUE,55-64,H,C,R,0,Single and Thriving,,5,,,,,5,,,,,1,0
+F,O,P,I,TRUE,55-64,H,C,R,0,Single and Thriving,,5,,,,,5,,,,,1,0
+F,O,P,I,TRUE,55-64,H,C,R,0,Single and Thriving,,5,,,,,5,,,,,1,0
+F,S,S,I,TRUE,55-64,H,C,L,0,Wealth Whispers,,4,1,4,4,5,,4,4,,2,1,0
+F,S,S,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,,5,,,,,,,,,1,0
+F,U,Q,I,,65-74,H,C,D,0,Urban Elites,,,,,4,,,,,4,,2,0
+F,U,Q,I,,65-74,H,C,D,0,Urban Elites,,,,,4,,,,,4,,2,0
+M,R,R,I,TRUE,45-54,H,B,R,0,Lowkey Luxe,1,4,,,2,4,,5,5,2,,1,0
+F,S,S,I,TRUE,55-64,H,D,R,0,Wealth Whispers,,,2,,5,5,,,,,,2,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Single and Thriving,,,,,,,,,,,3,2,0
+F,S,S,I,,75+,H,B,D,0,Old Money,5,5,5,,,,,5,5,,,1,0
+M,U,S,I,TRUE,55-64,H,,D,0,Suburban Socialites,5,4,1,4,1,1,,3,,1,,1,0
+F,Q,P,H,TRUE,65-74,H,B,L,0,Old Money,,,,,,,,,,,,,0
+F,Q,P,H,TRUE,65-74,H,B,L,0,Old Money,,,,,,,,,,,,,0
+F,Q,P,H,TRUE,65-74,H,B,L,0,Old Money,,,,,,,,,,,,,0
+F,S,S,I,TRUE,75+,H,B,R,0,Senior Elite,,,,,5,5,,,,,,1,0
+M,O,S,I,,75+,H,B,I,0,Old Money,,,,,,,,,5,,,3,0
+F,S,R,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,,,2,,,,,2,,2,0
+M,S,S,I,TRUE,65-74,H,B,D,0,Old Money,,,,,4,3,,5,,4,3,1,0
+F,,O,I,TRUE,55-64,H,,R,0,Single and Thriving,,3,,2,1,1,,,,3,,1,0
+F,R,S,I,TRUE,45-54,H,B,D,0,Patriotic and Proud,5,5,,,,,,,5,,,1,0
+M,S,R,I,,65-74,H,F,D,0,Senior Society,4,4,5,,3,5,5,4,5,3,,1,0
+F,S,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,4,4,2,3,2,2,,4,5,3,4,2,0
+F,S,N,I,,75+,H,A,R,0,Greatest Generation,,,,,,,,,,,,5,0
+F,S,S,I,TRUE,65-74,H,B,I,0,Urban Elites,,,2,1,2,,2,2,4,,1,1,0
+F,S,S,I,TRUE,65-74,H,C,I,0,Old Money,,,4,1,2,,4,,1,5,,1,0
+F,R,Q,I,TRUE,45-54,H,D,D,0,Lowkey Luxe,,,5,,,,,,1,,,1,0
+F,U,B,A,TRUE,55-64,R,C,I,0,Pickup Trucks and Politics,,5,,,,,,,,,,1,0
+F,Q,O,I,TRUE,65-74,H,B,D,0,Suburban Socialites,,,,5,4,,5,,,5,,4,0
+F,R,S,I,TRUE,55-64,H,C,D,0,Suburban Socialites,,5,1,5,1,3,1,4,1,1,,1,0
+F,U,P,I,TRUE,45-54,H,A,,0,Lowkey Luxe,,5,1,3,2,5,5,3,4,2,4,1,0
+F,,J,I,,65-74,H,,L,0,Silver Sneakers,,,,,,,,,,,,1,0
+F,R,Q,I,,65-74,H,B,D,0,Single and Thriving,,,5,,4,4,5,,,,,4,0
+F,R,Q,I,,65-74,H,B,D,0,Single and Thriving,,,5,,4,4,5,,,,,4,0
+M,Q,R,I,,55-64,H,D,D,0,Suburban Socialites,,,5,,,,,,,,,5,0
+M,R,L,I,,75+,H,C,I,0,Smart Singles,5,,,,3,,5,5,3,3,,3,0
+M,R,L,I,,75+,H,C,I,0,Smart Singles,5,,,,3,,5,5,3,3,,3,0
+F,S,,I,TRUE,75+,H,B,,0,Urban Elites,5,,,,,,,,,,,4,0
+F,S,N,I,TRUE,75+,H,B,,0,Silver Sneakers,,1,1,2,2,,4,2,4,,2,1,0
+M,Q,O,H,,65-74,H,C,R,0,Country Club Set,,,,,,,,,,,,5,0
+F,Q,D,I,,55-64,H,B,I,0,Pickup Trucks and Politics,,3,1,1,5,5,5,,,,,1,0
+F,S,O,I,TRUE,65-74,H,C,R,0,Old Money,1,5,5,1,2,3,,2,5,,,1,0
+M,Q,N,I,,75+,H,A,D,0,Greatest Generation,5,,,,1,,,,,1,,1,0
+F,N,L,H,,75+,H,B,D,0,Golden Era,,5,,,,,,,,,,2,0
+F,Q,R,I,TRUE,55-64,H,B,L,0,Suburban Socialites,2,5,1,,2,5,,,,2,,1,0
+F,O,Q,H,TRUE,55-64,H,F,I,0,Lowkey Luxe,4,,5,,5,,,5,,5,,2,0
+F,M,N,I,TRUE,55-64,H,B,R,0,Country Clout,,,1,,,,,,3,,4,1,0
+F,M,N,I,TRUE,55-64,H,B,R,0,Country Clout,,,1,,,,,,3,,4,1,0
+F,M,N,I,TRUE,55-64,H,B,R,0,Country Clout,,,1,,,,,,3,,4,1,0
+F,Q,O,I,,55-64,H,B,R,0,Wealth Whispers,,4,,,,,,,,,,2,0
+F,Q,O,I,TRUE,65-74,H,B,D,0,Old Money,,,5,,4,,5,4,,,,4,0
+F,Q,L,I,TRUE,65-74,H,C,D,0,Affluent Acres,5,5,,,,,,,,,,4,0
+F,O,N,H,TRUE,65-74,H,B,L,0,Dynamic Duos,5,,,,,,,,,,5,1,0
+F,S,O,I,,75+,H,A,D,0,Country Club Set,,5,,,,1,,,,,1,1,0
+F,P,H,E,TRUE,35-44,H,F,R,0,Penny Pinching Couples,,,,,,,,,,,,,0
+F,S,O,I,,55-64,H,A,D,0,Hometown Heroes,,4,2,1,5,,2,5,,5,,1,0
+M,N,H,H,,55-64,H,B,I,0,Modern Family,3,2,,5,,,,,,,,1,0
+M,O,N,F,,65-74,H,C,I,0,Retired and Relaxed,,,,,,,5,,5,,,3,0
+M,O,N,F,,65-74,H,C,I,0,Retired and Relaxed,,,,,,,5,,5,,,3,0
+M,O,N,F,,65-74,H,C,I,0,Retired and Relaxed,,,,,,,5,,5,,,3,0
+F,P,N,H,TRUE,35-44,H,F,U,0,Comfortable Couples,,,,,,,,,,,,5,0
+F,N,O,I,TRUE,65-74,H,D,D,0,Suburban Socialites,,4,,,,,,,,,,1,0
+F,H,L,G,TRUE,75+,H,C,,0,Smart Singles,,,5,,,,5,,,,,2,0
+F,P,O,I,,75+,H,C,R,0,Old Money,4,,5,,4,,5,,,4,,1,0
+M,Q,R,I,,75+,H,B,R,0,Country Club Set,5,,5,,1,,5,,,1,,1,0
+F,U,O,H,TRUE,65-74,H,D,D,0,Suburban Socialites,5,,,,,,,,,,,5,0
+F,U,O,H,TRUE,65-74,H,D,D,0,Suburban Socialites,5,,,,,,,,,,,5,0
+F,Q,J,G,TRUE,65-74,H,B,I,0,Home for the Holidays,,2,5,5,5,,5,5,5,5,5,1,0
+F,Q,Q,I,TRUE,55-64,H,D,D,0,Wealth Whispers,5,,,,5,,,,,5,,2,0
+F,Q,O,I,TRUE,55-64,H,C,D,0,Jet Setters,5,3,,,,,4,,,,,3,0
+M,R,N,I,,75+,H,B,R,0,Smart Singles,5,,,,,,,,,,,2,0
+M,S,Q,I,TRUE,55-64,H,C,D,0,Wealth Whispers,5,,1,5,,,5,,5,,,1,0
+F,U,O,A,TRUE,75+,H,C,D,0,Local Legends,,,,,,5,,,,,5,2,0
+F,Q,R,I,,65-74,H,A,D,0,Country Club Set,5,,,,4,,,4,,,,1,0
+F,Q,R,I,,65-74,H,A,D,0,Country Club Set,5,,,,4,,,4,,,,1,0
+F,O,O,H,,65-74,H,C,D,0,Urban Elites,,,,,,,,,,,,,0
+M,Q,R,I,TRUE,75+,H,B,,0,Country Club Set,4,,,,5,,,,5,5,,1,0
+F,N,F,F,TRUE,35-44,H,D,R,0,Single and Surviving,,,,,,,,,,,,,0
+F,Q,Q,H,TRUE,55-64,H,C,D,0,Suburban Socialites,3,1,5,5,5,5,5,,,5,,1,0
+F,Q,Q,H,TRUE,55-64,H,C,D,0,Suburban Socialites,3,1,5,5,5,5,5,,,5,,1,0
+F,Q,P,I,TRUE,55-64,H,C,R,0,Suburban Socialites,,2,5,,,,5,,,,,1,0
+F,R,O,I,TRUE,65-74,H,B,D,0,Urban Elites,,5,,,5,5,,5,,,,1,0
+M,R,O,I,,75+,H,B,D,0,Urban Elites,,,,,2,,,2,,,,2,0
+F,R,R,I,TRUE,65-74,H,C,D,0,Urban Elites,5,,5,1,3,,5,,,3,,1,0
+F,O,O,H,TRUE,75+,H,C,D,0,Old Money,5,5,,,4,,,5,,4,,1,0
+F,S,O,I,,75+,H,C,D,0,Country Club Set,4,,,,4,,,,,4,5,1,0
+F,N,O,G,TRUE,55-64,H,C,D,0,Single and Thriving,5,5,,,5,,,5,,,,4,0
+F,J,L,F,,55-64,H,E,D,0,Country Clout,,5,,,,,,,,,,2,0
+M,R,S,I,,65-74,H,B,R,0,Old Money,,,,,2,2,,,1,,,1,0
+M,O,Q,H,,75+,H,B,D,0,Country Club Set,5,1,5,,3,,,,1,3,,1,0
+M,N,P,E,TRUE,45-54,H,B,D,0,Lowkey Luxe,,4,,,,,,,,,,2,0
+M,P,O,I,TRUE,55-64,H,B,D,0,Wealth Whispers,3,4,,,,,,,,,,2,0
+M,Q,O,I,TRUE,65-74,H,B,D,0,Old Money,,5,,,,,,,,,,2,0
+F,Q,R,I,TRUE,65-74,H,C,D,0,Suburban Socialites,,,,,1,,,,,1,,1,0
+F,Q,R,I,TRUE,65-74,H,C,D,0,Suburban Socialites,,,,,1,,,,,1,,1,0
+F,N,N,G,,75+,H,A,D,0,Retired and Relaxed,,,,,,,,,,,,1,0
+M,Q,Q,I,,75+,H,D,D,0,Country Club Set,,,,2,3,,2,,,3,,2,0
+M,Q,Q,I,,75+,H,D,D,0,Country Club Set,,,,2,3,,2,,,3,,2,0
+M,Q,Q,I,,75+,H,D,D,0,Country Club Set,,,,2,3,,2,,,3,,2,0
+M,Q,Q,I,,75+,H,D,D,0,Country Club Set,,,,2,3,,2,,,3,,2,0
+F,U,B,A,TRUE,35-44,R,E,,0,Subway Surfers,,5,,,,,,,,,,4,0
+F,Q,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,,,,,,,,,,4,0
+M,Q,R,I,,65-74,H,B,L,0,Country Club Set,,,,,5,5,,,,,,3,0
+M,P,Q,I,,65-74,H,A,D,0,Suburban Socialites,4,,,,5,5,,,,,,4,0
+M,Q,R,I,,75+,H,B,L,0,Local Legends,5,,,,,,,,3,,,1,0
+F,Q,N,G,,65-74,H,B,I,0,Single Sophisticates,,,,,5,5,5,,,,,5,0
+F,P,R,I,TRUE,55-64,H,C,I,0,Wealth Whispers,,5,,,4,4,5,,,,,4,0
+F,,O,I,,75+,H,,,0,Senior Elite,,5,,,2,2,,2,,,,2,0
+M,S,S,I,,65-74,H,B,D,0,Suburban Socialites,2,5,,,,,,,,,,1,0
+M,S,S,I,,65-74,H,B,D,0,Suburban Socialites,2,5,,,,,,,,,,1,0
+M,,,H,TRUE,65-74,H,,D,0,Dynamic Duos,,5,,,,,,,4,,,1,0
+M,O,N,H,,75+,H,B,L,0,Golden Era,,,,,,,,,,,,1,0
+M,R,R,I,TRUE,65-74,H,B,D,0,Country Club Set,5,,,,,,,,,,,2,0
+F,Q,O,I,,75+,H,B,D,0,Urban Elites,,,3,,5,5,3,,2,,,1,0
+F,Q,O,I,,75+,H,B,D,0,Urban Elites,,,3,,5,5,3,,2,,,1,0
+F,Q,N,I,TRUE,55-64,H,B,D,0,Dynamic Duos,5,,,,,,5,,,,,2,0
+F,Q,N,I,TRUE,55-64,H,B,D,0,Dynamic Duos,5,,,,,,5,,,,,2,0
+F,M,N,E,TRUE,55-64,H,C,R,0,Dynamic Duos,,,2,,,,2,,,,5,1,0
+F,M,N,E,TRUE,55-64,H,C,R,0,Dynamic Duos,,,2,,,,2,,,,5,1,0
+F,M,N,E,TRUE,55-64,H,C,R,0,Dynamic Duos,,,2,,,,2,,,,5,1,0
+M,R,O,H,TRUE,65-74,H,B,D,0,Country Club Set,,5,5,5,1,5,5,5,,3,,1,0
+F,L,H,C,TRUE,65-74,H,F,I,0,Blue Collar Boomers,5,,,,,,,,,,,5,0
+F,S,N,I,TRUE,75+,H,C,L,0,Greatest Generation,,,,,4,,,,,4,,4,0
+M,P,O,H,TRUE,55-64,H,B,D,0,Wealth Whispers,,5,5,,,,5,,,,,2,0
+F,O,O,G,TRUE,65-74,H,,D,0,Wealth Whispers,,5,,,2,,,,,2,,1,0
+F,O,O,G,TRUE,65-74,H,,D,0,Wealth Whispers,,5,,,2,,,,,2,,1,0
+F,K,F,F,TRUE,65-74,H,D,R,0,Melting Pot Medley,5,5,1,,5,,1,,4,5,,1,0
+F,M,O,F,TRUE,55-64,H,F,D,0,Wealth Whispers,,4,,,,,,,4,,,4,0
+F,R,R,H,TRUE,45-54,H,C,R,0,Minivans and Malls,5,1,3,5,5,5,5,,2,5,,1,0
+F,Q,O,I,TRUE,45-54,H,F,R,0,Minivans and Malls,,1,5,,,,3,,4,,,1,0
+M,Q,O,I,TRUE,65-74,H,B,R,0,Suburban Socialites,,,2,,1,,5,1,1,2,5,1,0
+F,M,Q,G,TRUE,65-74,H,B,R,0,Suburban Socialites,,5,,,5,,,,,5,5,1,0
+F,P,O,I,,75+,H,C,R,0,Old Money,,5,,,,,,,,,,5,0
+F,J,J,C,,65-74,H,C,D,0,Dynamic Duos,,,,,,,,,,,,3,0
+F,P,O,H,TRUE,75+,H,D,R,0,Old Money,5,,5,,1,,,1,,,,1,0
+F,M,O,E,TRUE,45-54,H,C,I,0,Lowkey Luxe,,,,,,,,,,,,5,0
+F,Q,O,G,TRUE,55-64,H,C,R,0,Suburban Socialites,5,5,5,,,,5,,,,,1,0
+F,R,S,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,4,,,1,,,1,,,,1,0
+M,N,N,H,,75+,H,E,L,0,Silver Sneakers,,,,,,,,,5,,,3,0
+M,N,N,H,,75+,H,E,L,0,Silver Sneakers,,,,,,,,,5,,,3,0
+F,Q,O,I,TRUE,65-74,H,A,R,0,Country Club Set,,,,,,,,,,,,1,0
+F,P,O,G,TRUE,55-64,H,C,I,0,Wealth Whispers,4,,,,,,,,,,,4,0
+F,P,O,G,TRUE,55-64,H,C,I,0,Wealth Whispers,4,,,,,,,,,,,4,0
+F,Q,J,F,,55-64,H,B,R,0,Dynamic Duos,5,,,,,,,,,,,5,0
+F,M,F,B,,65-74,H,E,I,0,Blue Collar Boomers,,,,,,,,,5,,,1,0
+F,S,S,I,TRUE,65-74,H,C,D,0,Old Money,,,,,4,,,4,,,,2,0
+F,P,O,H,TRUE,55-64,H,B,I,0,Wealth Whispers,2,,,,,,,,2,,,1,0
+F,P,O,H,TRUE,55-64,H,B,I,0,Wealth Whispers,2,,,,,,,,2,,,1,0
+F,M,H,H,,75+,H,B,U,0,Mid Century Moderns,,,5,,5,,5,,,5,,1,0
+F,S,S,I,,65-74,H,B,N,0,Old Money,,5,2,2,,,,,2,,3,2,0
+F,S,S,I,,65-74,H,B,N,0,Old Money,,5,2,2,,,,,2,,3,2,0
+F,S,R,I,TRUE,55-64,H,C,R,0,Lowkey Luxe,,5,1,3,3,3,,5,,,,1,0
+F,P,B,E,TRUE,45-54,H,D,,0,American Dreamers,,,,,1,,,,3,1,,1,0
+F,N,N,I,,65-74,H,B,,0,Silver Sneakers,,,5,,,,,,,,,1,0
+F,L,J,E,TRUE,65-74,H,B,I,0,Single Sophisticates,,,,,,,,,,,,4,0
+F,M,L,C,,65-74,H,C,D,0,Smart Singles,,5,1,,,,1,5,2,,,1,0
+M,,Q,H,,55-64,H,,I,0,Wealth Whispers,,,,,,,,,,,,3,0
+M,,Q,H,,55-64,H,,I,0,Wealth Whispers,,,,,,,,,,,,3,0
+M,,Q,H,,55-64,H,,I,0,Wealth Whispers,,,,,,,,,,,,3,0
+F,O,P,H,TRUE,45-54,H,B,D,0,Lowkey Luxe,,2,,,,,,,,,,2,0
+F,P,O,I,TRUE,45-54,H,B,I,0,Lowkey Luxe,,,,,,,,,,,,,0
+F,P,O,I,TRUE,45-54,H,B,I,0,Lowkey Luxe,,,,,,,,,,,,,0
+F,P,O,I,TRUE,45-54,H,B,I,0,Lowkey Luxe,,,,,,,,,,,,,0
+M,Q,L,I,,75+,H,B,R,0,Greatest Generation,,,,,,,,,5,,,4,0
+M,Q,L,I,,75+,H,B,R,0,Greatest Generation,,,,,,,,,5,,,4,0
+M,U,R,A,TRUE,55-64,H,C,R,0,Wealth Whispers,5,1,5,3,1,5,5,4,5,1,,1,0
+F,N,H,G,,65-74,H,C,I,0,Blue Collar Boomers,,,,,,,,,,,,2,0
+F,Q,Q,I,TRUE,65-74,H,B,L,0,Old Money,5,4,,,,,,,,,,2,0
+F,Q,P,I,TRUE,55-64,H,A,D,0,Wealth Whispers,,4,4,,1,5,,,,1,2,1,0
+F,N,N,H,TRUE,55-64,H,A,L,0,Dynamic Duos,1,,1,,1,,,,,1,,1,0
+M,Q,O,I,,75+,H,B,R,0,Local Legends,,,,,,,,,,,,1,0
+F,O,Q,I,TRUE,45-54,H,C,R,0,Lowkey Luxe,5,3,5,,,,,,,,,3,0
+M,S,S,I,TRUE,55-64,H,C,L,0,Wealth Whispers,,4,3,2,4,,,5,1,4,,1,0
+M,S,S,I,TRUE,55-64,H,C,L,0,Wealth Whispers,,4,3,2,4,,,5,1,4,,1,0
+F,R,S,I,TRUE,65-74,H,D,R,0,Country Club Set,,4,1,1,,,,,4,,5,1,0
+F,N,J,G,,75+,H,B,R,0,Golden Era,,,,,,,,,,,,2,0
+M,O,O,I,TRUE,55-64,H,B,D,0,Single and Thriving,,4,3,,,,3,,,,,3,0
+F,Q,I,H,,65-74,H,C,R,0,Urban Mashup,5,5,,,4,4,5,,,5,,1,0
+F,Q,S,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,,,,,,,,,,,,0
+F,Q,F,F,TRUE,45-54,H,B,,0,Family Values,,5,,,,,,,,,,2,0
+F,Q,S,H,,65-74,H,B,D,0,Senior Society,,,5,,,,3,,,,,1,0
+F,P,N,E,TRUE,55-64,H,C,D,0,Dynamic Duos,,,,,,,,,,,,1,0
+F,M,L,I,,65-74,H,D,D,0,Retired and Relaxed,,,,,,,,,,,,3,0
+F,J,N,G,TRUE,65-74,H,B,,0,Home for the Holidays,,,5,,,,5,,,,5,2,0
+F,O,N,H,TRUE,65-74,H,C,R,0,Affluent Acres,,5,5,,,,5,,,,,2,0
+M,R,S,I,,65-74,H,B,D,0,Country Club Set,,5,,,1,,,,,1,,1,0
+F,Q,O,F,,75+,H,,,0,Urban Elites,,,,,,,,,,,,2,0
+F,,N,I,,65-74,H,,L,0,Dynamic Duos,,,,,,,,,,,,,0
+M,O,N,H,TRUE,55-64,H,B,R,0,Home for the Holidays,5,,,,,,,,,,,3,0
+F,O,N,H,,65-74,H,C,R,0,Single Sophisticates,,,,,,,,,,,,3,0
+F,E,B,E,,75+,H,B,D,0,Not in My Backyard,,,,,,,,,,,,1,0
+F,Q,O,I,TRUE,65-74,H,B,,0,Suburban Socialites,,4,,,,,,,3,,5,1,0
+F,G,H,G,,65-74,H,A,L,0,Back at the Ranch,,,,,,,,,,,,4,0
+F,N,L,G,,65-74,H,A,D,0,Affluent Acres,,,,,5,5,,,,5,,1,0
+F,Q,J,I,TRUE,65-74,H,B,R,0,Retired and Relaxed,,,,,3,,,,,3,,2,0
+F,P,O,H,,75+,H,B,D,0,Senior Society,,,,,,,,,,,,5,0
+F,L,O,H,,65-74,H,B,,0,Senior Society,4,1,1,5,3,,1,,,3,,1,0
+F,M,O,G,TRUE,75+,H,C,D,0,Local Legends,,,,,5,,,5,5,,,5,0
+F,M,O,G,TRUE,75+,H,C,D,0,Local Legends,,,,,5,,,5,5,,,5,0
+F,M,O,G,TRUE,75+,H,C,D,0,Local Legends,,,,,5,,,5,5,,,5,0
+F,Q,O,I,,75+,H,A,L,0,Country Club Set,,,,,,,,,,,,,0
+F,Q,O,I,,75+,H,A,L,0,Country Club Set,,,,,,,,,,,,,0
+F,Q,O,I,,75+,H,A,L,0,Country Club Set,,,,,,,,,,,,,0
+M,R,O,I,,75+,H,A,R,0,Local Legends,,,3,,,,3,,,,,2,0
+F,E,J,G,TRUE,45-54,H,C,R,0,Working for the Weekend,,,1,,,,1,,2,,,1,0
+F,S,S,I,,75+,H,B,,0,Local Legends,,,5,1,,,,,,,,1,0
+F,U,L,B,,65-74,R,,U,0,Smart Singles,,,,5,,,5,,,,,4,0
+F,U,L,B,,65-74,R,,U,0,Smart Singles,,,,5,,,5,,,,,4,0
+M,J,N,H,,65-74,H,C,D,0,Silver Sneakers,,5,,,,,,,,,,5,0
+M,R,O,I,,75+,H,B,D,0,Senior Society,,,,,,,,,,,,1,0
+M,U,N,H,TRUE,55-64,H,C,R,0,Pleasantville,,5,,5,4,5,5,,,4,,1,0
+M,Q,L,G,TRUE,45-54,H,C,I,0,Successful Singles,,5,5,,,,,,,,5,2,0
+M,H,N,I,TRUE,75+,H,B,D,0,Retired and Relaxed,,,,,,,,,,,,2,0
+M,S,P,I,,75+,H,D,D,0,Country Club Set,,,,,,,,,,,,1,0
+F,Q,O,H,TRUE,45-54,H,B,R,0,Minivans and Malls,,,,,4,,,,,,,3,0
+F,R,R,I,,65-74,H,B,I,0,Country Club Set,,,5,,,,5,,,,,2,0
+F,Q,O,I,TRUE,65-74,H,B,D,0,Country Club Set,5,5,,2,,,2,,5,,,2,0
+F,O,O,I,TRUE,65-74,H,C,R,0,Country Club Set,,5,,,4,,,4,5,,,4,0
+M,R,Q,I,TRUE,55-64,H,B,I,0,Hometown Heroes,,,,,,,,,1,,,1,0
+F,U,O,I,TRUE,65-74,H,E,I,0,Suburban Socialites,,5,1,,2,,1,5,3,2,,1,0
+F,U,O,I,TRUE,65-74,H,E,I,0,Suburban Socialites,,5,1,,2,,1,5,3,2,,1,0
+F,Q,R,I,,75+,H,C,D,0,Country Club Set,,,,,,,,,,,,2,0
+F,S,N,H,,65-74,H,B,D,0,Retired and Relaxed,,,,,4,4,,,,,,4,0
+F,Q,S,I,TRUE,45-54,H,C,R,0,Minivans and Malls,5,5,4,,3,,,,,3,,2,0
+F,Q,B,A,TRUE,75+,H,E,I,0,Blue Collar Boomers,,,,4,5,5,3,,,5,,1,0
+F,Q,B,A,TRUE,75+,H,E,I,0,Blue Collar Boomers,,,,4,5,5,3,,,5,,1,0
+F,G,L,D,TRUE,55-64,H,G,I,0,Home for the Holidays,,,,,,,,,,,,2,0
+F,N,L,F,TRUE,65-74,H,C,D,0,Silver Sneakers,4,,1,,4,,1,,,,,1,0
+F,M,O,H,TRUE,55-64,H,B,R,0,Minivans and Malls,1,,,,,,,,,,,1,0
+M,N,O,H,TRUE,55-64,H,B,D,0,Suburban Socialites,,,,,,,,,3,,1,1,0
+F,Q,Q,I,,75+,H,B,R,0,Local Legends,,,,,,,,,,,,1,0
+F,K,P,F,TRUE,55-64,H,B,D,0,Suburban Socialites,,,,,2,2,,,,,,2,0
+F,N,J,I,,75+,H,A,I,0,Greatest Generation,,,,,,,,,,,,1,0
+F,Q,O,H,TRUE,65-74,H,C,D,0,Country Club Set,5,5,3,,5,,,,,5,,3,0
+F,Q,O,H,TRUE,65-74,H,C,D,0,Country Club Set,5,5,3,,5,,,,,5,,3,0
+F,Q,O,H,TRUE,65-74,H,C,D,0,Country Club Set,5,5,3,,5,,,,,5,,3,0
+F,Q,O,H,TRUE,65-74,H,C,D,0,Country Club Set,5,5,3,,5,,,,,5,,3,0
+F,M,N,E,TRUE,45-54,H,G,I,0,Working for the Weekend,,,,,,,,,,,,4,0
+M,Q,O,I,TRUE,55-64,H,C,I,0,Hometown Heroes,,,,,,,,,,,,,0
+F,R,R,F,TRUE,65-74,H,D,R,0,Suburban Socialites,4,5,3,,5,,,5,,,,2,0
+F,U,L,I,TRUE,45-54,R,C,I,0,Successful Singles,,2,5,5,3,,,,5,5,5,2,0
+F,U,L,I,TRUE,45-54,R,C,I,0,Successful Singles,,2,5,5,3,,,,5,5,5,2,0
+F,U,L,I,TRUE,45-54,R,C,I,0,Successful Singles,,2,5,5,3,,,,5,5,5,2,0
+M,N,H,E,TRUE,55-64,H,B,R,0,Urban Mashup,,,,,,,,,,,,,0
+M,N,H,E,TRUE,55-64,H,B,R,0,Urban Mashup,,,,,,,,,,,,,0
+F,,K,G,TRUE,75+,R,,D,0,Greatest Generation,,,,,,,,,,,,,0
+M,R,N,G,,65-74,H,C,I,0,Retired and Relaxed,5,,,,5,5,,,,5,,1,0
+F,M,O,G,TRUE,45-54,H,E,R,0,Minivans and Malls,,3,,,,,,,,,,2,0
+F,M,O,G,TRUE,45-54,H,E,R,0,Minivans and Malls,,3,,,,,,,,,,2,0
+F,S,S,I,TRUE,65-74,H,A,D,0,Hometown Heroes,,4,5,2,2,,2,2,,,2,2,0
+F,S,S,I,TRUE,65-74,H,A,D,0,Hometown Heroes,,4,5,2,2,,2,2,,,2,2,0
+F,S,S,I,TRUE,65-74,H,A,D,0,Hometown Heroes,,4,5,2,2,,2,2,,,2,2,0
+F,,H,F,TRUE,45-54,H,,,0,Family Values,,,,,,,,,,,,5,0
+F,R,R,I,TRUE,55-64,H,C,R,0,Minivans and Malls,,,5,5,5,,,,4,5,,2,0
+F,R,S,I,TRUE,55-64,H,C,I,0,Suburban Socialites,,1,2,1,1,1,2,3,2,1,4,1,0
+F,P,R,G,TRUE,45-54,H,C,D,0,Minivans and Malls,,5,,,3,3,,,,5,,3,0
+F,Q,O,G,TRUE,55-64,H,C,R,0,Suburban Socialites,2,,,,5,,,,,5,,1,0
+M,J,S,I,TRUE,55-64,H,E,D,0,Patriotic and Proud,,,,,2,,,,5,2,,2,0
+F,Q,O,I,TRUE,75+,H,C,L,0,Old Money,,5,5,,,,2,,,,,1,0
+M,Q,O,I,TRUE,65-74,H,A,D,0,Country Club Set,,3,,,3,3,,5,,,,1,0
+M,Q,O,I,TRUE,65-74,H,A,D,0,Country Club Set,,3,,,3,3,,5,,,,1,0
+F,Q,Q,I,,75+,H,A,L,0,Country Club Set,,,,,5,,,5,,,,2,0
+F,S,S,H,TRUE,55-64,H,B,R,0,Suburban Socialites,,3,,,5,,,,5,5,,2,0
+F,S,S,H,TRUE,55-64,H,B,R,0,Suburban Socialites,,3,,,5,,,,5,5,,2,0
+F,Q,L,H,,65-74,H,B,L,0,Smart Singles,,2,,,,,,,,,,2,0
+M,N,R,H,,55-64,H,D,I,0,Suburban Socialites,,,,,,,,,3,,,3,0
+M,N,R,H,,55-64,H,D,I,0,Suburban Socialites,,,,,,,,,3,,,3,0
+F,R,R,I,,75+,H,B,D,0,Country Club Set,,,5,,,,5,3,,,,2,0
+F,P,R,I,,65-74,H,B,L,0,Country Club Set,,,,,5,5,,,5,,,1,0
+F,,O,I,TRUE,55-64,H,,D,0,Jet Setters,,4,3,2,4,5,5,5,,4,,2,0
+F,,D,,TRUE,65-74,R,,D,0,Melting Pot Medley,,,,,,,,,,,,,0
+F,,D,,TRUE,65-74,R,,D,0,Melting Pot Medley,,,,,,,,,,,,,0
+F,,D,,TRUE,65-74,R,,D,0,Melting Pot Medley,,,,,,,,,,,,,0
+F,H,J,E,TRUE,55-64,H,C,D,0,Single Sophisticates,,1,5,,,,5,,,,,1,0
+F,M,L,H,TRUE,65-74,H,C,R,0,Smart Singles,,3,3,,5,,,,,5,,2,0
+F,P,N,F,TRUE,55-64,H,G,R,0,Single Sophisticates,5,,,,5,,,5,,,,5,0
+M,Q,Q,I,TRUE,35-44,H,B,D,0,Life in the Fast Lane,5,4,,,,,,,5,,,2,0
+,,,I,,,,,,2,Affluent Acres,,,,,,,,,,,,,0
+F,L,O,G,TRUE,55-64,H,B,D,0,Suburban Socialites,,,,,,,,,,,,,0
+F,L,O,G,TRUE,55-64,H,B,D,0,Suburban Socialites,,,,,,,,,,,,,0
+F,E,N,G,TRUE,65-74,H,B,D,0,Affluent Acres,,,,5,4,,3,5,,,,3,0
+F,E,N,G,TRUE,65-74,H,B,D,0,Affluent Acres,,,,5,4,,3,5,,,,3,0
+F,,L,H,,75+,H,,R,0,Greatest Generation,,,2,5,2,,5,5,,2,5,2,0
+F,Q,N,H,TRUE,55-64,H,B,L,0,Home for the Holidays,,,,,5,5,,,,,,1,0
+F,J,L,A,TRUE,35-44,H,C,D,0,Pleasantville,,,,,,,,,,,,5,0
+F,L,O,G,TRUE,65-74,H,C,R,0,Country Club Set,,3,5,,,,5,,,,,3,0
+F,L,O,G,TRUE,65-74,H,C,R,0,Country Club Set,,3,5,,,,5,,,,,3,0
+M,O,O,H,TRUE,35-44,H,B,I,0,Patriotic and Proud,,,,,,,,,1,,,1,0
+F,O,O,G,TRUE,65-74,H,D,D,0,Country Club Set,,,,,,,,,,,,2,0
+F,K,N,H,TRUE,65-74,H,B,R,0,Silver Sneakers,,,,,5,,,,,5,,1,0
+M,I,N,F,,65-74,H,B,D,0,Country Clout,,,,,,,,,,,,5,0
+F,E,N,H,,75+,H,D,I,0,Retired and Relaxed,,,,,,,,,,,,,0
+F,O,N,I,,75+,H,A,D,0,Greatest Generation,,,,,,,,,,,,4,0
+F,E,N,G,,65-74,H,C,,0,Home for the Holidays,,,,,,,5,,,,,1,0
+F,J,N,G,,65-74,H,D,D,0,Retired and Relaxed,,,,,,,,,4,,,1,0
+F,R,S,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,2,,,3,5,,3,2,3,,1,0
+M,L,N,H,,65-74,H,B,R,0,Retired and Relaxed,5,,,,,,,,,,,4,0
+M,H,F,A,TRUE,65-74,H,B,D,0,Pickup Trucks and Politics,,4,,,,,3,,,,,2,0
+M,N,O,G,TRUE,65-74,H,D,D,0,Senior Society,,5,3,,5,,,5,3,,,1,0
+F,I,N,G,,65-74,H,B,D,0,Retired and Relaxed,,,,,5,,,,1,,,1,0
+F,U,B,A,TRUE,65-74,R,D,D,0,Back at the Ranch,,,,,,,,,,,,,0
+M,R,L,H,TRUE,75+,H,C,D,0,Greatest Generation,,,1,,5,,,,2,5,,1,0
+F,R,R,I,TRUE,55-64,H,D,,0,Suburban Socialites,5,,,,5,,,5,,,1,1,0
+F,R,R,I,TRUE,55-64,H,D,,0,Suburban Socialites,5,,,,5,,,5,,,1,1,0
+M,Q,O,I,,75+,H,B,R,0,Senior Society,,,,,,,,,5,,5,2,0
+M,Q,O,I,,75+,H,B,R,0,Senior Society,,,,,,,,,5,,5,2,0
+F,N,Q,H,,65-74,H,B,,0,Suburban Socialites,,,,,,,,,5,,,1,0
+F,Q,O,I,TRUE,65-74,H,B,D,0,Country Club Set,,,,,,,,,3,,,2,0
+F,R,R,I,,55-64,H,B,,0,Wealth Whispers,,,1,,,,1,,,,,1,0
+F,F,L,G,TRUE,65-74,H,C,I,0,Country Clout,,,,,,,5,,,,,4,0
+F,U,F,E,TRUE,65-74,H,D,L,0,American Classics,5,,,,,,,,,,,5,0
+F,Q,S,I,TRUE,75+,H,B,I,0,Local Legends,,5,5,,,,,,5,,,2,0
+F,Q,P,H,TRUE,45-54,H,,,0,Lowkey Luxe,,,1,3,1,,1,,,5,,1,0
+F,Q,O,I,,65-74,H,A,D,0,Country Club Set,,,,,,,,,,,,1,0
+F,M,Q,I,TRUE,75+,H,B,D,0,Country Club Set,5,3,3,,,,5,,5,,,2,0
+F,Q,S,I,TRUE,45-54,H,C,,0,Minivans and Malls,,,,,,,,,,,,5,0
+F,I,H,G,,65-74,H,B,D,0,Back at the Ranch,2,5,1,,,,1,,,,,1,0
+F,N,N,H,,55-64,H,C,D,0,Country Clout,4,2,5,,4,,,4,,4,,2,0
+F,N,N,H,,55-64,H,C,D,0,Country Clout,4,2,5,,4,,,4,,4,,2,0
+M,Q,S,I,TRUE,55-64,H,A,,0,Suburban Socialites,,,,,,,,,,,,,0
+F,S,O,I,,65-74,H,B,,0,Suburban Socialites,,,,,,,2,,,,,2,0
+M,N,O,H,TRUE,55-64,H,B,D,0,Hometown Heroes,,,5,5,5,5,,,2,,,2,0
+M,N,O,H,TRUE,55-64,H,B,D,0,Hometown Heroes,,,5,5,5,5,,,2,,,2,0
+F,M,N,G,,65-74,H,C,R,0,Smart Singles,,,,,5,,,5,,,5,3,0
+F,M,P,I,,55-64,H,B,I,0,Suburban Socialites,5,,,,,,,,,,,2,0
+F,K,N,I,,75+,H,B,R,0,Greatest Generation,,,,,,,,,,,,2,0
+M,,O,G,TRUE,55-64,H,,,0,Hometown Heroes,,,,5,,,5,2,,,,2,0
+M,Q,N,I,,75+,H,B,D,0,Retired and Relaxed,,,5,,,,,,,,,1,0
+M,N,L,I,,75+,H,C,D,0,Retired and Relaxed,5,,,,,,,,,,,5,0
+M,N,L,I,,75+,H,C,D,0,Retired and Relaxed,5,,,,,,,,,,,5,0
+F,H,L,F,TRUE,55-64,H,C,,0,Home for the Holidays,,,,,,,,,5,,,4,0
+F,L,N,F,TRUE,65-74,H,E,L,0,Home for the Holidays,,,,,,,,,,,,4,0
+F,O,N,G,TRUE,45-54,H,C,,0,Pleasantville,,,5,,5,,,,,5,,1,0
+F,Q,O,I,,75+,H,C,,0,Country Club Set,5,,,,,,,,,,4,1,0
+F,J,B,F,,75+,H,C,D,0,Senior Discount,,5,,,5,,,5,,,,5,0
+F,H,L,D,TRUE,65-74,H,E,R,0,Silver Sneakers,,,,,,,5,,,,,3,0
+M,,N,H,,75+,H,,D,0,Affluent Acres,,5,5,5,,,5,,,,,4,0
+M,,N,H,,75+,H,,D,0,Affluent Acres,,5,5,5,,,5,,,,,4,0
+F,H,L,D,FALSE,55-64,H,D,D,0,Single Sophisticates,,,,,,,,,,,,,0
+F,M,D,E,,45-54,H,,,0,Average Joes,5,,5,,,,,,,,,5,0
+F,M,D,E,,45-54,H,,,0,Average Joes,5,,5,,,,,,,,,5,0
+F,M,D,E,,45-54,H,,,0,Average Joes,5,,5,,,,,,,,,5,0
+M,Q,O,I,,75+,H,A,D,0,Local Legends,,,,,,,,,,,,2,0
+F,Q,Q,I,TRUE,75+,H,B,L,0,Country Club Set,4,,5,,,,,5,,,,1,0
+F,Q,R,H,TRUE,45-54,H,A,D,0,Minivans and Malls,,,,,1,1,,,5,,5,1,0
+F,Q,R,I,TRUE,65-74,H,B,I,0,Country Club Set,4,4,5,,1,1,4,5,5,5,,1,0
+F,O,Q,I,TRUE,75+,H,C,R,0,Country Club Set,,5,,,,,,,,,,2,0
+M,P,R,I,TRUE,55-64,H,A,,0,Minivans and Malls,,,,,5,5,,,,,,4,0
+F,O,B,A,TRUE,55-64,H,B,,0,Urban Mashup,,,,,,,,,,,5,2,0
+F,Q,R,H,TRUE,55-64,H,C,D,0,Lowkey Luxe,,4,2,,5,5,5,,1,,,1,0
+F,N,O,I,,65-74,H,B,,0,Urban Elites,,,,,,,,,,,,5,0
+F,O,R,H,TRUE,65-74,H,C,D,0,Old Money,5,4,2,,2,3,5,,,,,2,0
+M,O,R,I,TRUE,55-64,H,B,L,0,Single and Thriving,,,,,1,1,,,,,,1,0
+F,F,O,G,FALSE,55-64,H,C,,0,Suburban Socialites,,,,,2,,,5,,5,5,1,0
+F,K,N,I,TRUE,75+,H,B,D,0,Golden Era,,,,,,,,,,,,5,0
+F,K,N,I,TRUE,75+,H,B,D,0,Golden Era,,,,,,,,,,,,5,0
+F,S,F,I,TRUE,25-34,H,C,D,0,Penny Pinching Couples,,5,2,4,5,5,5,,,,,1,0
+F,Q,R,I,TRUE,55-64,H,D,R,0,Lowkey Luxe,,1,1,,2,3,,4,2,2,,1,0
+F,U,N,G,,65-74,H,,L,0,Affluent Acres,,,1,,2,,,,2,,,1,0
+F,Q,R,I,TRUE,45-54,H,B,L,0,Minivans and Malls,,4,2,3,1,5,4,1,5,1,4,1,0
+F,K,H,F,,75+,H,E,D,0,Senior Discount,,,,,,,,,,,,,0
+M,N,N,H,,65-74,H,,,0,Retired and Relaxed,,,,,4,,,,,4,,2,0
+M,Q,N,G,TRUE,75+,H,B,,0,Retired and Relaxed,,,,,,,,,,,,,0
+F,L,O,G,,65-74,H,D,L,0,Country Club Set,5,5,5,,5,,5,,,5,,5,0
+F,Q,R,I,TRUE,55-64,H,C,I,0,Wealth Whispers,,3,3,2,1,5,3,4,1,1,2,1,0
+M,O,O,I,TRUE,65-74,H,C,I,0,Urban Elites,,,3,2,5,5,2,5,1,5,5,1,0
+F,N,Q,G,TRUE,55-64,H,A,D,0,Lowkey Luxe,,5,,,,,,,,,,4,0
+F,R,S,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,4,5,5,4,5,5,4,5,,5,3,0
+F,Q,O,I,,75+,H,B,D,0,Senior Elite,5,5,,,,,,,,,,4,0
+F,Q,O,I,,75+,H,B,D,0,Senior Elite,5,5,,,,,,,,,,4,0
+F,Q,O,I,,75+,H,B,D,0,Senior Elite,5,5,,,,,,,,,,4,0
+F,Q,Q,H,TRUE,55-64,H,B,R,0,Wealth Whispers,,,,,3,,,,,3,,3,0
+F,Q,J,H,,75+,H,B,R,0,Greatest Generation,,,,,,,,,,,,2,0
+F,Q,P,I,TRUE,55-64,H,B,,0,Wealth Whispers,,5,2,,3,,5,5,5,3,,2,0
+F,S,O,I,,75+,H,A,D,0,Old Money,5,5,1,2,1,5,,,,3,,1,0
+F,R,M,I,TRUE,35-44,H,C,D,0,Date Nights City Lights,2,1,4,5,5,,4,5,3,5,5,1,0
+F,O,Q,H,TRUE,55-64,H,B,,0,Suburban Socialites,4,,,,,,,,,,,2,0
+F,Q,O,I,,65-74,H,C,D,0,Senior Society,,,,,2,2,,,,,,1,0
+M,N,L,F,,65-74,H,C,D,0,Country Clout,,,,,,,,,,,,3,0
+F,,N,I,,65-74,H,,R,0,Country Clout,,,,,,,,,,,,2,0
+F,D,B,B,,75+,H,F,D,0,Blue Collar Boomers,,,,,,,,,,,,,0
+F,Q,R,I,,65-74,H,A,R,0,Old Money,5,,,,,,,,,,,1,0
+F,R,O,H,TRUE,35-44,H,B,I,0,High Tech Rednecks,2,1,5,1,1,5,3,3,4,2,,1,0
+F,N,O,H,TRUE,55-64,H,B,D,0,Single and Thriving,,5,,,2,,,,,5,,2,0
+M,R,S,H,,65-74,H,C,R,0,Old Money,,3,3,,5,,,,,,,1,0
+M,M,Q,I,,65-74,H,C,D,0,Urban Elites,,5,,4,5,,,,2,5,,2,0
+F,R,P,I,,75+,H,B,D,0,Senior Elite,,,5,,,,,,,,,5,0
+F,R,P,I,,75+,H,B,D,0,Senior Elite,,,5,,,,,,,,,5,0
+F,R,P,I,,75+,H,B,D,0,Senior Elite,,,5,,,,,,,,,5,0
+M,Q,O,I,TRUE,75+,H,D,L,0,Old Money,,,,,,,,,,,,2,0
+F,O,Q,H,TRUE,55-64,H,C,D,0,Single and Thriving,,,1,,3,,2,3,5,,,1,0
+F,L,L,F,FALSE,55-64,H,D,R,0,Movin On Up,,,,,,,,,,,,3,0
+F,J,N,H,,75+,H,A,D,0,Smart Singles,,,2,,2,,3,5,,2,,2,0
+F,,M,I,TRUE,75+,H,,,0,Retired and Relaxed,5,5,4,5,2,3,,2,,3,,2,0
+F,N,L,I,,75+,H,A,R,0,Greatest Generation,,,,,,,,,,,,2,0
+F,N,L,I,,75+,H,A,R,0,Greatest Generation,,,,,,,,,,,,2,0
+F,N,L,I,,75+,H,A,R,0,Greatest Generation,,,,,,,,,,,,2,0
+F,P,N,I,,75+,H,B,,0,Golden Era,,,,,,,,5,,,,5,0
+F,P,N,I,,75+,H,B,,0,Golden Era,,,,,,,,5,,,,5,0
+F,U,L,H,,75+,H,C,D,0,Affluent Acres,,,,,,,,,,,4,1,0
+F,Q,S,I,TRUE,45-54,H,B,D,0,Minivans and Malls,,5,1,,3,,5,,,3,5,1,0
+F,M,O,G,TRUE,65-74,H,C,,0,Wealth Whispers,,,,,,,,,,,,,0
+F,U,A,A,,65-74,R,E,,0,Pickup Trucks and Politics,,,,,,,,,,,5,1,0
+M,K,P,I,,75+,H,B,,0,Country Club Set,2,1,1,1,2,5,5,3,1,5,4,1,0
+M,K,P,I,,75+,H,B,,0,Country Club Set,2,1,1,1,2,5,5,3,1,5,4,1,0
+F,M,Q,G,TRUE,65-74,H,D,I,0,Suburban Socialites,,,,,,,,,,,,5,0
+F,M,Q,H,TRUE,55-64,H,B,D,0,Hometown Heroes,,,,,,,,,,,,1,0
+F,Q,S,I,TRUE,55-64,H,C,D,0,Suburban Socialites,,5,3,,5,,,,4,5,,2,0
+M,R,R,I,TRUE,65-74,H,B,D,0,Old Money,,5,5,2,,,5,,,,,2,0
+M,R,R,I,TRUE,65-74,H,B,D,0,Old Money,,5,5,2,,,5,,,,,2,0
+M,R,R,I,TRUE,65-74,H,B,D,0,Old Money,,5,5,2,,,5,,,,,2,0
+F,I,J,B,TRUE,35-44,H,D,,0,Comfortable Couples,5,,5,,,,,,,,,5,0
+F,I,J,B,TRUE,35-44,H,D,,0,Comfortable Couples,5,,5,,,,,,,,,5,0
+F,L,K,F,TRUE,75+,H,B,R,0,Smart Singles,,,,,,,,,,,,,0
+M,R,J,I,,75+,H,C,R,0,Retired and Relaxed,,5,3,,1,5,5,,1,1,,1,0
+M,N,R,H,TRUE,35-44,H,B,D,0,Life in the Fast Lane,,5,,,5,,,5,,,,5,0
+M,N,P,H,TRUE,55-64,H,B,R,0,Lowkey Luxe,,,,,,,,,,,4,4,0
+M,N,P,H,TRUE,55-64,H,B,R,0,Lowkey Luxe,,,,,,,,,,,4,4,0
+M,N,O,I,TRUE,65-74,H,B,R,0,Senior Society,,5,4,,5,5,,5,,,,2,0
+M,S,S,I,TRUE,75+,H,B,I,0,Country Club Set,,,,,,,,,,,,2,0
+F,L,N,F,,65-74,H,B,D,0,Retired and Relaxed,,,,,,,,,,,,2,0
+F,L,N,F,,65-74,H,B,D,0,Retired and Relaxed,,,,,,,,,,,,2,0
+F,P,P,I,,75+,H,B,L,0,Old Money,,,5,,,,,,5,,,2,0
+F,L,L,F,TRUE,55-64,H,C,D,0,Dynamic Duos,,,,,,,,,,,,2,0
+F,,N,H,,75+,H,,D,0,Retired and Relaxed,,,5,,5,,5,,,5,,2,0
+F,O,R,I,,75+,H,B,,0,Senior Elite,,,,,,,,,,,,5,0
+M,,N,I,TRUE,65-74,H,,,0,Dynamic Duos,,,,,,,,,,,,,0
+M,,N,I,TRUE,65-74,H,,,0,Dynamic Duos,,,,,,,,,,,,,0
+M,,N,I,TRUE,65-74,H,,,0,Dynamic Duos,,,,,,,,,,,,,0
+M,O,O,H,TRUE,65-74,H,D,,0,Country Club Set,,,,,,,,,,,,5,0
+F,Q,R,I,TRUE,55-64,H,B,D,0,Hometown Heroes,,,3,,4,,,,,4,,3,0
+M,R,S,I,TRUE,55-64,H,B,L,0,Suburban Socialites,,1,,5,5,5,,,2,,,1,0
+F,Q,R,H,TRUE,45-54,H,E,R,0,Minivans and Malls,,5,5,,,,,,5,,,1,0
+F,N,O,H,,75+,H,B,L,0,Old Money,,,,,,,,,,,,2,0
+F,N,O,H,,75+,H,B,L,0,Old Money,,,,,,,,,,,,2,0
+F,Q,Q,I,,75+,H,C,D,0,Country Club Set,,5,,,2,2,,,,,,1,0
+F,Q,Q,I,,75+,H,C,D,0,Country Club Set,,5,,,2,2,,,,,,1,0
+M,Q,P,I,TRUE,55-64,H,B,D,0,Single and Thriving,,,5,,1,,5,2,,1,,1,0
+M,R,R,I,,75+,H,A,I,0,Country Club Set,,,,,,,,,,,,3,0
+M,R,R,I,,75+,H,A,I,0,Country Club Set,,,,,,,,,,,,3,0
+F,,O,H,TRUE,55-64,H,,,0,Suburban Socialites,,,,,,,,,,,,1,0
+F,,O,H,TRUE,55-64,H,,,0,Suburban Socialites,,,,,,,,,,,,1,0
+M,U,Q,I,,55-64,H,B,R,0,Wealth Whispers,,,,,,,,,5,,,1,0
+M,U,Q,I,,55-64,H,B,R,0,Wealth Whispers,,,,,,,,,5,,,1,0
+M,U,Q,I,,55-64,H,B,R,0,Wealth Whispers,,,,,,,,,5,,,1,0
+M,S,O,I,TRUE,65-74,H,B,D,0,Single and Thriving,,5,,5,,,,,,,,2,0
+F,P,P,I,TRUE,65-74,H,A,I,0,Senior Society,,5,,,,,5,,,,,4,0
+F,P,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,5,5,,5,1,4,,5,1,2,,1,0
+F,Q,Q,I,TRUE,75+,H,C,D,0,Old Money,,4,,,2,3,,,4,5,,1,0
+F,Q,Q,I,TRUE,75+,H,C,D,0,Old Money,,4,,,2,3,,,4,5,,1,0
+F,Q,Q,I,TRUE,75+,H,C,D,0,Old Money,,4,,,2,3,,,4,5,,1,0
+F,N,R,I,TRUE,55-64,H,A,D,0,Wealth Whispers,,,5,,,,,,1,,5,1,0
+F,N,R,I,TRUE,55-64,H,A,D,0,Wealth Whispers,,,5,,,,,,1,,5,1,0
+F,N,R,I,TRUE,55-64,H,A,D,0,Wealth Whispers,,,5,,,,,,1,,5,1,0
+F,M,N,I,,75+,H,A,D,0,Silver Sneakers,4,5,,,2,2,,,,5,,1,0
+M,Q,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,,,,,,,,,,1,0
+M,Q,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,,,,,,,,,,1,0
+M,P,O,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,2,,,,2,,,,,1,0
+F,J,L,G,TRUE,45-54,H,C,D,0,Pleasantville,,,,,,,,,,,,2,0
+F,L,N,I,TRUE,35-44,H,C,R,0,Downtown Dreamers,5,,,,,,,,,,,3,0
+F,K,N,B,TRUE,55-64,H,D,L,0,Dynamic Duos,,,,,,,,,,,,4,0
+F,S,O,G,TRUE,55-64,H,,,0,Wealth Whispers,,,3,,3,5,5,,,3,,1,0
+F,J,J,C,TRUE,45-54,H,A,,0,Working for the Weekend,,1,,,,,,,1,,5,1,0
+F,K,O,I,TRUE,65-74,H,B,D,0,Old Money,2,5,,,,,,,,,,1,0
+F,M,A,F,,75+,H,B,D,0,Senior Discount,,,,,,,,,,,,1,0
+F,M,A,F,,75+,H,B,D,0,Senior Discount,,,,,,,,,,,,1,0
+F,M,A,F,,75+,H,B,D,0,Senior Discount,,,,,,,,,,,,1,0
+M,M,Q,H,TRUE,55-64,H,A,,0,Lowkey Luxe,,5,2,,1,1,,,2,,,1,0
+F,P,R,I,TRUE,65-74,H,B,D,0,Old Money,,,,,,,,,,,,5,0
+F,N,O,H,TRUE,65-74,H,C,,0,Old Money,,3,,,,,,,,,,3,0
+F,Q,R,I,TRUE,75+,H,C,,0,Senior Elite,,,,,5,,,,,,,1,0
+F,P,P,I,TRUE,45-54,H,D,U,0,Lowkey Luxe,,5,,,,,,,,,,3,0
+F,P,P,I,TRUE,45-54,H,D,U,0,Lowkey Luxe,,5,,,,,,,,,,3,0
+F,P,P,I,TRUE,45-54,H,D,U,0,Lowkey Luxe,,5,,,,,,,,,,3,0
+F,Q,Q,I,,65-74,H,C,R,0,Old Money,5,3,,1,2,5,,5,5,5,3,1,0
+F,O,N,G,TRUE,65-74,H,C,D,0,Smart Singles,5,,,3,4,4,,,3,,5,1,0
+F,O,N,G,TRUE,65-74,H,C,D,0,Smart Singles,5,,,3,4,4,,,3,,5,1,0
+F,Q,O,I,,55-64,H,,R,0,Suburban Socialites,,,,,,,,,,,,,0
+M,R,R,I,TRUE,65-74,H,C,D,0,Suburban Socialites,,,4,,,,,5,5,,,3,0
+F,O,R,I,TRUE,55-64,H,C,R,0,Wealth Whispers,,,,,,,,,,,,,0
+F,O,R,I,TRUE,55-64,H,C,R,0,Wealth Whispers,,,,,,,,,,,,,0
+F,U,O,I,TRUE,75+,H,C,,0,Urban Elites,,,,,,,,,,,,2,0
+F,U,O,I,TRUE,75+,H,C,,0,Urban Elites,,,,,,,,,,,,2,0
+F,N,N,I,,65-74,H,C,L,0,Smart Singles,,,,,,,,,,,,1,0
+M,Q,R,I,,55-64,H,C,L,0,Single and Thriving,,,,,,,,,,,,5,0
+M,Q,R,I,,55-64,H,C,L,0,Single and Thriving,,,,,,,,,,,,5,0
+F,R,R,I,TRUE,45-54,H,B,,0,Minivans and Malls,,5,3,,1,5,,5,5,,,1,0
+F,S,R,I,TRUE,65-74,H,C,D,0,Country Club Set,2,4,1,2,1,1,5,1,5,3,,1,0
+F,Q,J,I,,75+,H,B,D,0,Golden Era,,,,,,,,,,,,2,0
+F,Q,P,I,,75+,H,B,D,0,Local Legends,,,,,,,,,,,,2,0
+F,K,O,F,TRUE,45-54,H,C,R,0,Lowkey Luxe,,5,,,,,,,,,,5,0
+F,,,,,65-74,,,I,0,Smart Singles,,,,,2,,,,,2,,1,0
+F,R,R,I,TRUE,35-44,H,C,R,0,High Tech Rednecks,5,5,4,1,1,4,,1,1,5,5,1,0
+M,S,Q,I,TRUE,75+,H,B,D,0,Old Money,5,3,5,,3,,3,,1,5,,1,0
+F,P,S,I,TRUE,55-64,H,B,,0,Suburban Socialites,,2,2,5,1,3,4,2,1,1,,1,0
+F,P,S,I,TRUE,55-64,H,B,,0,Suburban Socialites,,2,2,5,1,3,4,2,1,1,,1,0
+F,P,S,I,TRUE,55-64,H,B,,0,Suburban Socialites,,2,2,5,1,3,4,2,1,1,,1,0
+M,S,H,H,,65-74,H,C,D,0,Mid Century Moderns,4,,5,5,4,4,5,,5,,,2,0
+F,R,N,I,TRUE,75+,H,B,D,0,Silver Sneakers,5,,,1,,,5,,,,,1,0
+F,O,N,I,TRUE,35-44,H,C,I,0,Date Nights City Lights,2,3,3,2,,,4,,2,,1,1,0
+F,O,N,I,TRUE,35-44,H,C,I,0,Date Nights City Lights,2,3,3,2,,,4,,2,,1,1,0
+M,N,O,I,,75+,H,B,D,0,Old Money,,5,2,,,,,4,3,,3,2,0
+F,I,L,B,TRUE,65-74,H,F,R,0,Dynamic Duos,,5,2,2,3,,2,,5,3,5,1,0
+M,K,O,I,,75+,H,D,,0,Urban Elites,,,,,5,,,,,5,,4,0
+F,O,P,I,,65-74,H,B,,0,Country Club Set,5,5,,,,,,,,,,1,0
+F,Q,S,I,,55-64,H,G,L,0,Wealth Whispers,,2,1,,1,5,,,,1,5,1,0
+F,H,N,H,TRUE,45-54,H,G,R,0,Working for the Weekend,,,,,,,,,,,,,0
+F,N,Q,H,TRUE,45-54,H,C,D,0,Lowkey Luxe,,,,,3,,,3,,5,,2,0
+F,N,Q,H,TRUE,45-54,H,C,D,0,Lowkey Luxe,,,,,3,,,3,,5,,2,0
+F,R,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,5,,4,,,,,2,,,2,0
+F,I,O,I,TRUE,55-64,H,B,I,0,Wealth Whispers,,,,,,,,,,,,,0
+F,I,O,I,TRUE,55-64,H,B,I,0,Wealth Whispers,,,,,,,,,,,,,0
+F,I,O,I,TRUE,55-64,H,B,I,0,Wealth Whispers,,,,,,,,,,,,,0
+F,Q,Q,I,,65-74,H,C,D,0,Old Money,2,5,5,1,2,,5,5,1,,5,1,0
+F,N,O,H,,75+,H,D,R,0,Old Money,,,,,,,,,,,,,0
+M,M,O,G,,65-74,H,B,I,0,Old Money,5,5,,,5,,,,,5,,3,0
+M,S,R,H,TRUE,65-74,H,C,,0,Wealth Whispers,,,,,,,,,,,,,0
+M,S,S,I,TRUE,55-64,H,B,I,0,Single and Thriving,,5,,5,1,5,5,,,1,,1,0
+F,R,R,I,TRUE,55-64,H,B,R,0,Single and Thriving,,4,,1,2,,,2,,2,,1,0
+F,R,S,I,,65-74,H,B,I,0,Wealth Whispers,,,,,,,,,,,,,0
+F,R,Q,I,,55-64,H,A,R,0,Single and Thriving,,4,,,,,5,,,,,3,0
+F,P,P,I,,65-74,H,A,D,0,Urban Elites,,,5,5,5,5,5,5,,5,,1,0
+F,U,N,D,TRUE,35-44,H,D,I,0,Downtown Dreamers,,,,,,,,,,,,4,0
+M,R,P,I,TRUE,65-74,H,D,,0,Urban Elites,,,,,,,,,,,,3,0
+F,R,N,I,,75+,H,B,D,0,Smart Singles,5,2,,,,,,,,,,2,0
+F,,H,I,TRUE,55-64,H,,R,0,Modern Family,,,,,,,,,,,,4,0
+F,M,Q,G,TRUE,45-54,H,C,I,0,Patriotic and Proud,5,,,,,,,,,,,1,0
+F,N,Q,I,,75+,H,B,D,0,Country Club Set,,,4,,,,,,5,,,1,0
+M,Q,P,I,,55-64,H,C,R,0,Hometown Heroes,,,,,5,,,,,5,,2,0
+F,,N,H,,75+,H,,R,0,Retired and Relaxed,5,4,2,,3,,5,3,,,,2,0
+F,,N,H,,75+,H,,R,0,Retired and Relaxed,5,4,2,,3,,5,3,,,,2,0
+F,,N,H,,75+,H,,R,0,Retired and Relaxed,5,4,2,,3,,5,3,,,,2,0
+M,K,N,G,TRUE,75+,H,B,I,0,Retired and Relaxed,,5,5,,,,5,,5,,,4,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,4,3,2,5,,5,5,4,5,,1,0
+F,S,R,I,,65-74,H,B,D,0,Urban Elites,,,,1,5,5,1,,,,5,1,0
+F,S,S,I,TRUE,65-74,H,B,D,0,Old Money,,5,,,5,5,,5,,5,5,2,0
+M,S,S,I,TRUE,55-64,H,C,R,0,Wealth Whispers,3,3,1,1,3,,,3,4,5,,1,0
+F,S,,I,,75+,H,B,D,0,Old Money,,,5,5,,,,,1,,,1,0
+F,S,,I,,75+,H,B,D,0,Old Money,,,5,5,,,,,1,,,1,0
+M,P,O,H,TRUE,55-64,H,C,D,0,Wealth Whispers,5,4,,,5,,,,,,,2,0
+M,Q,S,I,,65-74,H,B,,0,Urban Elites,,4,,,3,3,5,,1,4,,1,0
+M,O,O,H,TRUE,55-64,H,B,D,0,Suburban Socialites,,,5,,,,,,,,,5,0
+M,O,O,H,TRUE,55-64,H,B,D,0,Suburban Socialites,,,5,,,,,,,,,5,0
+F,R,R,I,TRUE,45-54,H,B,,0,Lowkey Luxe,4,5,2,1,2,,,,,2,,1,0
+F,S,S,I,TRUE,55-64,H,C,R,0,Wealth Whispers,,1,1,,2,5,,4,4,2,5,1,0
+M,S,S,I,,75+,H,B,D,0,Old Money,,,2,,5,,2,,,5,,2,0
+M,S,S,I,,75+,H,B,D,0,Old Money,,,2,,5,,2,,,5,,2,0
+M,S,S,I,,75+,H,B,D,0,Old Money,,,2,,5,,2,,,5,,2,0
+F,U,M,I,,75+,H,C,,0,Greatest Generation,,,,,,,,,,,,4,0
+F,U,J,I,TRUE,35-44,R,D,D,0,Date Nights City Lights,,,,,,,,,,,,2,0
+F,S,S,I,,75+,H,D,,0,Senior Elite,,4,5,5,5,,5,,5,5,,4,0
+F,S,S,I,TRUE,65-74,H,C,R,0,Old Money,3,3,1,1,4,5,1,4,5,,5,1,0
+F,U,S,I,,75+,H,C,D,0,Urban Elites,,,4,,,,,,2,,,2,0
+M,K,N,G,TRUE,75+,H,E,D,0,Greatest Generation,,,,,,,,,5,,,4,0
+F,S,S,I,TRUE,55-64,H,A,I,0,Wealth Whispers,,5,,,3,3,,,,,,2,0
+F,S,S,I,TRUE,55-64,H,A,I,0,Wealth Whispers,,5,,,3,3,,,,,,2,0
+M,S,S,I,TRUE,55-64,H,B,,0,Wealth Whispers,,,2,,5,,5,,2,5,2,1,0
+F,S,S,I,,75+,H,A,D,0,Senior Elite,,2,,,,,,,5,,,2,0
+F,U,J,G,,55-64,H,E,,0,Dynamic Duos,,,1,5,2,,,,1,2,,1,0
+F,S,S,I,TRUE,45-54,H,A,D,0,Lowkey Luxe,5,4,1,2,1,3,1,,3,,5,1,0
+F,S,R,I,,75+,H,C,D,0,Senior Elite,,1,5,,2,,,2,,,,1,0
+F,O,J,G,,55-64,H,F,D,0,Single Sophisticates,,,,,,,,,,,,5,0
+F,O,J,G,,55-64,H,F,D,0,Single Sophisticates,,,,,,,,,,,,5,0
+F,O,J,G,,55-64,H,F,D,0,Single Sophisticates,,,,,,,,,,,,5,0
+M,P,O,I,TRUE,55-64,H,D,I,0,Single and Thriving,,4,4,,5,,,5,3,,1,1,0
+M,R,S,I,TRUE,55-64,H,E,L,0,Wealth Whispers,3,5,,3,5,,3,,,5,5,1,0
+M,R,S,I,TRUE,55-64,H,E,L,0,Wealth Whispers,3,5,,3,5,,3,,,5,5,1,0
+F,,S,I,,55-64,H,,,0,Wealth Whispers,,5,2,2,5,5,2,,,,,2,0
+F,O,O,H,TRUE,55-64,H,G,,0,Wealth Whispers,,5,3,,,,3,,5,,,2,0
+F,R,P,I,TRUE,55-64,H,B,L,0,Suburban Socialites,,,,,4,,,4,,,,4,0
+M,P,N,I,,75+,H,D,I,0,Retired and Relaxed,5,5,,,5,5,,,,,,1,0
+F,E,L,B,TRUE,45-54,H,D,R,0,Movin On Up,5,,,,,,,,,,,1,0
+F,N,N,I,,75+,H,A,,0,Golden Era,,,,,,,,,,,,2,0
+F,,N,I,TRUE,65-74,H,,D,0,Silver Sneakers,,5,,,5,,,5,,,,2,0
+M,S,R,I,TRUE,65-74,H,B,R,0,Old Money,,4,3,,5,5,,5,4,,,3,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,5,2,,,,,5,,,,1,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,5,2,,,,,5,,,,1,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,5,2,,,,,5,,,,1,0
+F,Q,O,I,,75+,H,B,R,0,Senior Elite,,,,,,,,,,,,1,0
+M,S,S,I,TRUE,65-74,H,A,D,0,Old Money,5,5,2,1,5,5,,,,,,1,0
+F,U,O,A,,55-64,R,C,I,0,Wealth Whispers,,,,,5,5,,5,,,,5,0
+F,Q,R,I,,55-64,H,B,R,0,Wealth Whispers,5,4,1,,2,2,1,5,,3,,1,0
+M,R,S,I,TRUE,65-74,H,B,D,0,Old Money,,5,3,,5,5,,,1,5,,1,0
+F,S,Q,I,TRUE,55-64,H,B,,0,Wealth Whispers,5,5,2,4,2,5,5,5,4,2,5,2,0
+F,S,S,I,,75+,H,B,R,0,Old Money,,,1,,,,1,,,,,1,0
+M,Q,O,H,TRUE,45-54,H,B,I,0,Lowkey Luxe,,,3,,,,,,,,,3,0
+M,Q,N,H,TRUE,65-74,H,B,D,0,Dynamic Duos,5,5,,,5,,,,,5,5,1,0
+F,M,J,E,,65-74,H,C,D,0,Silver Sneakers,5,3,4,,,,4,,,,,1,0
+F,R,R,I,,65-74,H,B,,0,Old Money,,,,,,,,,5,,,1,0
+F,S,O,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,5,5,5,5,,,5,,,,4,0
+F,P,N,I,,75+,H,B,R,0,Silver Sneakers,,,,,5,,,5,,,,1,0
+M,R,O,I,,65-74,H,C,D,0,Old Money,,,,3,2,2,,,,,,2,0
+F,R,O,I,TRUE,55-64,H,C,D,0,Single and Thriving,,3,,,,,,,,,,3,0
+F,R,O,I,TRUE,55-64,H,C,D,0,Single and Thriving,,3,,,,,,,,,,3,0
+F,Q,N,I,,65-74,H,B,I,0,Silver Sneakers,,,,,,,,,,,,2,0
+F,U,O,I,,,H,,D,0,Jet Setters,,5,,,1,1,,1,,,,1,0
+M,R,O,I,TRUE,55-64,H,F,D,0,Wealth Whispers,5,,,,,,,,,,,2,0
+F,S,R,I,TRUE,,H,B,,0,Single and Thriving,,,5,,4,4,5,,,,,4,0
+F,S,R,I,TRUE,,H,B,,0,Single and Thriving,,,5,,4,4,5,,,,,4,0
+F,S,R,I,TRUE,,H,B,,0,Single and Thriving,,,5,,4,4,5,,,,,4,0
+F,S,S,I,TRUE,55-64,H,B,I,0,Wealth Whispers,,5,2,1,1,,,5,1,1,5,1,0
+F,S,S,I,,65-74,H,B,L,0,Old Money,5,4,4,2,4,5,5,5,3,4,4,1,0
+M,Q,S,I,TRUE,65-74,H,B,D,0,Wealth Whispers,,,,5,1,4,5,,,1,,1,0
+F,S,S,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,,,2,,5,5,,,,5,,2,0
+F,P,S,I,TRUE,65-74,H,C,R,0,Wealth Whispers,,,,,1,1,,,,,,1,0
+F,S,N,G,TRUE,75+,H,B,D,0,Silver Sneakers,,5,3,2,4,,5,,1,4,4,1,0
+F,Q,N,I,TRUE,55-64,H,C,R,0,Single Sophisticates,,,,,,,,,,,,2,0
+M,U,L,G,FALSE,55-64,R,B,D,0,Working for the Weekend,,,,,3,,,3,,,2,2,0
+M,R,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,5,2,1,,3,5,5,4,3,3,,1,0
+F,Q,S,I,TRUE,65-74,H,B,I,0,Old Money,,3,5,5,1,1,,,,1,,1,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Lowkey Luxe,,3,2,4,2,5,4,4,5,2,,2,0
+F,Q,Q,I,,55-64,H,B,D,0,Wealth Whispers,,5,,,,,,,,,,3,0
+F,Q,N,I,,75+,H,B,D,0,Silver Sneakers,5,,,,5,,,5,,5,,5,0
+F,O,O,H,TRUE,45-54,H,C,L,0,Jet Setters,,,,1,2,3,,,,,,1,0
+F,P,L,H,,65-74,H,D,D,0,Smart Singles,5,,,,,,,,,,,5,0
+F,Q,O,H,TRUE,65-74,H,D,R,0,Old Money,,3,,,,,,,,,,2,0
+M,U,O,G,FALSE,55-64,H,D,R,0,Wealth Whispers,,2,,,,,,,,,,1,0
+F,N,B,B,TRUE,55-64,H,G,D,0,Melting Pot Medley,5,5,,,,,,,,,,1,0
+M,R,S,I,TRUE,55-64,H,A,I,0,Wealth Whispers,,5,3,,,,3,,5,,,1,0
+F,S,S,I,,75+,H,B,D,0,Old Money,,4,2,,5,5,,,,5,,2,0
+M,R,N,I,TRUE,55-64,H,B,D,0,Dynamic Duos,,,,,,,,,,,,,0
+F,Q,N,H,TRUE,55-64,H,G,R,0,Single Sophisticates,,,,,,,,,,,,5,0
+M,R,R,I,TRUE,55-64,H,A,D,0,Wealth Whispers,,,,,5,5,,,,,,1,0
+F,P,H,D,TRUE,35-44,H,E,D,0,Subway Surfers,,,,,3,,2,3,,5,,2,0
+M,S,S,I,,65-74,H,A,R,0,Old Money,,,,,,,,,,,,,0
+F,U,F,A,TRUE,55-64,R,C,D,0,Urban Mashup,,4,1,,,,,,,,,1,0
+M,S,S,I,TRUE,75+,H,B,D,0,Old Money,,4,5,3,1,2,2,2,2,1,,1,0
+F,G,N,F,,65-74,H,F,R,0,Silver Sneakers,,,,5,2,,,,,2,5,2,0
+F,G,N,F,,65-74,H,F,R,0,Silver Sneakers,,,,5,2,,,,,2,5,2,0
+M,S,S,I,FALSE,55-64,H,B,R,0,Single and Thriving,,,5,3,5,,,5,2,,,2,0
+M,S,S,I,FALSE,55-64,H,B,R,0,Single and Thriving,,,5,3,5,,,5,2,,,2,0
+F,S,S,I,TRUE,55-64,H,A,D,0,Lowkey Luxe,5,,2,,,,,,,,,2,0
+F,O,O,G,TRUE,55-64,H,D,D,0,Single and Thriving,,,1,,5,,3,,,5,,1,0
+F,R,Q,I,TRUE,65-74,H,D,L,0,Wealth Whispers,,,2,4,3,4,4,5,,3,4,2,0
+F,Q,O,I,TRUE,45-54,H,B,R,0,Minivans and Malls,5,1,5,,,,,,,,,1,0
+F,Q,S,I,FALSE,55-64,H,E,L,0,Lowkey Luxe,,,,,,,,,,,,,0
+F,Q,O,I,TRUE,65-74,H,B,D,0,Wealth Whispers,,,,,,,,,,,,,0
+M,R,S,I,TRUE,55-64,H,B,,0,Wealth Whispers,,,4,,3,3,,,5,,,2,0
+M,S,N,I,TRUE,55-64,H,C,R,0,Single Sophisticates,,,,,,,,,,,,,0
+M,R,R,I,TRUE,65-74,H,D,L,0,Old Money,,,,,,,,,,,,,0
+M,R,R,I,TRUE,65-74,H,D,L,0,Old Money,,,,,,,,,,,,,0
+M,L,F,I,TRUE,55-64,H,F,,0,Urban Mashup,,,4,,,,,,,,,4,0
+M,Q,O,I,,75+,H,A,R,0,Senior Elite,,,,,,,,,,,,2,0
+M,S,S,I,TRUE,45-54,H,B,,0,Lowkey Luxe,,,1,,5,,,,5,5,,1,0
+M,M,O,I,TRUE,75+,H,A,I,0,Senior Elite,5,5,,5,5,,,,,5,5,2,0
+M,M,O,I,TRUE,75+,H,A,I,0,Senior Elite,5,5,,5,5,,,,,5,5,2,0
+F,Q,O,H,TRUE,65-74,H,B,R,0,Old Money,,,,,,,,,5,,,5,0
+F,Q,O,H,TRUE,65-74,H,B,R,0,Old Money,,,,,,,,,5,,,5,0
+F,Q,O,H,TRUE,65-74,H,B,R,0,Old Money,,,,,,,,,5,,,5,0
+F,Q,N,H,TRUE,65-74,H,D,R,0,Smart Singles,,5,,,,,,,,,,4,0
+F,Q,N,H,TRUE,65-74,H,D,R,0,Smart Singles,,5,,,,,,,,,,4,0
+F,Q,N,H,TRUE,65-74,H,D,R,0,Smart Singles,,5,,,,,,,,,,4,0
+F,O,H,F,TRUE,45-54,H,D,D,0,Single and Surviving,,5,,,4,4,,,,,,4,0
+F,S,S,I,TRUE,35-44,H,B,R,0,Glitterati,,5,5,,5,,3,,,5,,1,0
+F,S,N,I,TRUE,55-64,H,B,R,0,Movin On Up,5,2,1,1,,,1,,,,,1,0
+F,Q,S,I,TRUE,55-64,H,B,L,0,Wealth Whispers,5,,2,,2,,5,,,2,,1,0
+M,P,N,G,TRUE,45-54,H,D,,0,Working for the Weekend,,,1,,,,,,,,,1,0
+F,Q,Q,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,,5,,,,,,,,,3,0
+F,R,O,I,TRUE,65-74,H,C,D,0,Single and Thriving,,,,,3,3,,,,5,,3,0
+F,O,P,H,TRUE,65-74,H,B,D,0,Wealth Whispers,,,,,,,,,,,,5,0
+M,I,J,A,TRUE,45-54,H,E,D,0,Movin On Up,5,5,5,,,,5,,,,,1,0
+F,N,N,I,,75+,H,C,D,0,Silver Sneakers,,,,,,,,,,,,2,0
+F,Q,L,I,TRUE,65-74,H,D,D,0,Smart Singles,,,,,,,,,,,,,0
+M,S,S,I,TRUE,55-64,H,A,R,0,Wealth Whispers,,5,,,,,,,,,,5,0
+F,R,D,H,,75+,H,C,D,0,Senior Discount,,,,,,,,,,,,,0
+F,P,F,G,,65-74,H,B,D,0,Mid Century Moderns,,,3,,,,,,,,,2,0
+M,,N,H,,75+,H,,D,0,Golden Era,,,,,,,,,,,,3,0
+F,Q,Q,H,TRUE,75+,H,G,L,0,Old Money,,,,,3,3,,4,,,,1,0
+F,Q,L,G,,65-74,H,D,R,0,Smart Singles,,5,,,,,,,,,5,1,0
+F,Q,P,H,TRUE,55-64,H,D,L,0,Single and Thriving,,2,,,,,5,,,,,2,0
+F,Q,P,H,TRUE,55-64,H,D,L,0,Single and Thriving,,2,,,,,5,,,,,2,0
+F,Q,P,H,TRUE,55-64,H,D,L,0,Single and Thriving,,2,,,,,5,,,,,2,0
+F,,B,,,65-74,R,,D,0,Mid Century Moderns,,,,,,,,,,,,,0
+F,P,O,I,,55-64,H,D,D,0,Wealth Whispers,,,,,,,,,,,,5,0
+F,P,O,I,,55-64,H,D,D,0,Wealth Whispers,,,,,,,,,,,,5,0
+F,Q,L,H,TRUE,75+,H,E,D,0,Golden Era,,,3,,5,5,,,,,,3,0
+F,Q,L,H,TRUE,75+,H,E,D,0,Golden Era,,,3,,5,5,,,,,,3,0
+F,S,R,I,TRUE,45-54,H,C,,0,Lowkey Luxe,,3,1,1,1,1,5,3,5,,,1,0
+F,S,R,I,TRUE,45-54,H,C,,0,Lowkey Luxe,,3,1,1,1,1,5,3,5,,,1,0
+F,O,O,I,FALSE,55-64,H,B,R,0,Single and Thriving,5,,3,,4,,,,2,4,,2,0
+F,R,P,I,TRUE,75+,H,B,R,0,Old Money,1,3,2,1,2,,,2,1,3,,1,0
+F,Q,O,H,TRUE,45-54,H,B,L,0,Lowkey Luxe,,5,5,,,,,,2,,,1,0
+F,N,O,I,,65-74,H,B,R,0,Wealth Whispers,,5,2,,4,4,2,,,4,,2,0
+F,R,S,I,TRUE,45-54,H,E,I,0,Lowkey Luxe,,2,4,,5,,,,4,5,,2,0
+M,U,O,H,,55-64,H,B,D,0,Wealth Whispers,,,4,,2,,4,5,3,2,,1,0
+M,U,O,H,,55-64,H,B,D,0,Wealth Whispers,,,4,,2,,4,5,3,2,,1,0
+M,Q,O,H,TRUE,55-64,H,C,U,0,Wealth Whispers,,5,5,5,2,5,4,5,5,2,5,2,0
+F,R,J,G,TRUE,45-54,H,E,R,0,Movin On Up,,5,,5,5,,3,,,5,,3,0
+M,R,O,I,,75+,H,B,I,0,Senior Elite,,,,,,,,,,,,,0
+M,R,O,I,,75+,H,B,I,0,Senior Elite,,,,,,,,,,,,,0
+F,R,O,I,FALSE,45-54,H,B,L,0,Lowkey Luxe,2,5,,1,1,2,,,,2,,1,0
+F,S,S,I,TRUE,65-74,H,B,R,0,Old Money,5,,5,,1,1,5,,4,5,,1,0
+F,Q,S,I,TRUE,55-64,H,B,D,0,Single and Thriving,,1,1,1,5,,5,,,5,,1,0
+F,P,O,E,TRUE,75+,H,C,D,0,Local Legends,,5,,,,,,,,,,5,0
+M,A,J,A,TRUE,55-64,H,D,I,0,Home for the Holidays,,,,,,,,,,,,2,0
+M,A,J,A,TRUE,55-64,H,D,I,0,Home for the Holidays,,,,,,,,,,,,2,0
+F,Q,Q,I,,75+,H,B,R,0,Urban Elites,,3,1,,,,1,,,,,1,0
+F,S,O,I,TRUE,55-64,H,A,I,0,Wealth Whispers,,5,1,,,,,,,,,1,0
+F,S,O,I,TRUE,55-64,H,A,I,0,Wealth Whispers,,5,1,,,,,,,,,1,0
+F,S,O,I,TRUE,55-64,H,A,I,0,Wealth Whispers,,5,1,,,,,,,,,1,0
+F,,R,I,TRUE,65-74,H,,R,0,Wealth Whispers,3,1,1,1,1,2,2,1,2,2,5,1,0
+M,P,F,H,TRUE,55-64,H,A,I,0,Melting Pot Medley,,3,,,,,,,,,,2,0
+M,P,F,H,TRUE,55-64,H,A,I,0,Melting Pot Medley,,3,,,,,,,,,,2,0
+M,P,F,H,TRUE,55-64,H,A,I,0,Melting Pot Medley,,3,,,,,,,,,,2,0
+M,O,N,C,TRUE,45-54,H,D,D,0,Movin On Up,,,,,,,,,,,,5,0
+F,S,S,I,,65-74,H,E,D,0,Old Money,,4,3,,4,,,4,4,4,,2,0
+M,R,S,I,TRUE,65-74,H,B,I,0,Old Money,,5,3,5,5,,,,,5,,1,0
+F,Q,Q,H,TRUE,65-74,H,B,I,0,Old Money,5,5,5,,5,,5,,,5,5,1,0
+F,R,R,I,,75+,H,B,D,0,Senior Elite,5,5,2,,,,5,,,,,2,0
+F,R,P,I,,75+,H,A,R,0,Senior Elite,,,,,,,,,,,,,0
+F,S,S,I,TRUE,75+,H,B,I,0,Senior Elite,,,5,,5,5,5,,5,,2,2,0
+F,,H,I,,75+,H,,D,0,Blue Collar Boomers,,2,,,,,,,,,,1,0
+F,U,O,I,,45-54,H,,D,0,Jet Setters,,,,,,,,,,,,5,0
+M,P,R,I,TRUE,75+,H,C,I,0,Country Club Set,,3,3,5,,,,,5,,,1,0
+M,Q,S,I,FALSE,55-64,H,H,D,0,Lowkey Luxe,,2,5,2,1,3,5,1,5,,,1,0
+F,Q,N,H,TRUE,55-64,H,D,D,0,Movin On Up,,,,,5,5,,5,,,,2,0
+F,Q,L,I,,75+,H,B,I,0,Golden Era,,,,,,,,,,,,,0
+F,Q,Q,I,TRUE,55-64,H,D,D,0,Wealth Whispers,,,5,,,,5,,4,,5,2,0
+F,S,S,I,TRUE,45-54,H,C,L,0,Lowkey Luxe,5,2,1,4,5,5,,5,1,5,1,1,0
+F,U,N,I,TRUE,65-74,H,,D,0,Dynamic Duos,,5,2,,,,,,,,,1,0
+F,,O,I,TRUE,55-64,H,,I,0,Wealth Whispers,,5,5,,2,,5,,2,2,,2,0
+F,R,O,I,TRUE,55-64,H,B,D,0,Suburban Socialites,5,,2,1,5,5,,,,,,1,0
+F,R,O,I,TRUE,55-64,H,B,D,0,Suburban Socialites,5,,2,1,5,5,,,,,,1,0
+F,S,R,I,TRUE,65-74,H,B,D,0,Old Money,5,5,5,,,,,,,,5,1,0
+F,S,S,I,TRUE,55-64,H,D,D,0,Lowkey Luxe,,2,1,5,,,5,,,,5,1,0
+M,R,R,I,TRUE,65-74,H,B,D,0,Old Money,5,,,,2,5,,,1,2,,1,0
+F,Q,O,I,TRUE,55-64,H,D,D,0,Wealth Whispers,5,5,,,5,,5,,,5,,4,0
+F,Q,O,I,TRUE,55-64,H,D,D,0,Wealth Whispers,5,5,,,5,,5,,,5,,4,0
+F,Q,O,I,TRUE,55-64,H,D,D,0,Wealth Whispers,5,5,,,5,,5,,,5,,4,0
+M,F,N,H,TRUE,55-64,H,D,D,0,Single Sophisticates,,,,,,,,,,,,5,0
+F,S,S,I,TRUE,45-54,H,B,R,0,Lowkey Luxe,,3,1,1,1,5,,5,,1,,1,0
+M,M,O,I,TRUE,75+,H,C,D,0,Old Money,,,,,5,5,,,,,,3,0
+M,S,S,I,TRUE,45-54,H,C,R,0,Lowkey Luxe,2,5,4,5,2,3,5,5,4,2,,2,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Lowkey Luxe,,5,2,1,5,,3,,5,5,,1,0
+F,Q,O,I,TRUE,65-74,H,A,R,0,Old Money,4,3,,,5,5,,,,,5,2,0
+F,S,O,I,,75+,H,B,R,0,Senior Elite,,,,2,,,,,3,,,1,0
+F,R,Q,I,FALSE,55-64,H,C,D,0,Wealth Whispers,,,3,3,1,3,,,4,1,,1,0
+F,S,S,I,TRUE,65-74,H,B,R,0,Wealth Whispers,,4,1,1,5,,5,5,1,5,,1,0
+M,Q,N,A,TRUE,35-44,H,C,I,0,Single in the Suburbs,,,,,,,,,,,,,0
+F,Q,O,H,,65-74,H,C,L,0,Wealth Whispers,,5,,,,,,,,,,1,0
+F,,R,I,,55-64,H,,R,0,Single and Thriving,,,,,1,1,,,,,,1,0
+F,Q,M,H,,65-74,H,C,,0,Smart Singles,,,,,,,,,,,,1,0
+F,Q,R,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,,,2,,,,,,,,,1,0
+F,S,Q,I,TRUE,55-64,H,A,D,0,Wealth Whispers,,4,2,1,1,,,5,2,1,5,1,0
+F,Q,O,H,TRUE,55-64,H,B,I,0,Wealth Whispers,,,,,4,5,,,,5,5,3,0
+F,R,P,I,,75+,H,C,R,0,Old Money,,,,,,,,,,,,2,0
+F,Q,O,I,TRUE,65-74,H,B,I,0,Urban Elites,,,,,,,,,,,,1,0
+M,S,S,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,,,3,3,5,5,,,3,,2,2,0
+F,S,O,I,TRUE,65-74,H,D,,0,Old Money,2,3,,1,2,5,,5,,2,,1,0
+F,,,I,TRUE,55-64,H,,D,0,Wealth Whispers,,5,1,2,5,,5,,,5,3,1,0
+F,Q,L,H,TRUE,65-74,H,E,D,0,Country Clout,,,,,,,,,,,,3,0
+M,S,S,I,TRUE,45-54,H,D,,0,Jet Setters,,,5,,,,,,,,,5,0
+M,R,Q,I,TRUE,75+,H,B,I,0,Urban Elites,,,1,,5,5,,5,1,5,,1,0
+M,S,S,I,TRUE,75+,H,A,D,0,Old Money,,5,5,,5,,,,,5,,1,0
+F,R,S,I,,75+,H,,L,0,Urban Elites,4,3,1,2,1,1,,,,1,1,1,0
+F,S,R,H,TRUE,65-74,H,B,I,0,Old Money,,5,5,5,,,5,,,,,1,0
+F,U,L,H,TRUE,55-64,R,E,I,0,Single Sophisticates,5,,,,,,,,,,,5,0
+F,R,R,I,TRUE,55-64,H,B,D,0,Single and Thriving,,,2,1,2,3,,5,,2,,1,0
+F,S,R,I,TRUE,35-44,H,C,D,0,Life in the Fast Lane,,1,5,,,,5,,,,,1,0
+M,R,R,I,,65-74,H,B,L,0,Wealth Whispers,,,,,,,,,,,,1,0
+M,S,S,I,TRUE,45-54,H,B,D,0,Patriotic and Proud,,5,3,,,,,,2,,,2,0
+M,R,Q,I,TRUE,65-74,H,B,D,0,Old Money,1,,2,,,,2,,,,,1,0
+F,Q,J,I,,75+,H,C,I,0,Smart Singles,,,,,,,,,,,,1,0
+M,R,P,I,,75+,H,C,I,0,Senior Elite,,5,,,,,,,,,,2,0
+F,S,I,I,TRUE,45-54,H,B,D,0,Single and Surviving,5,3,4,1,1,5,4,5,5,1,4,1,0
+F,S,I,I,TRUE,45-54,H,B,D,0,Single and Surviving,5,3,4,1,1,5,4,5,5,1,4,1,0
+F,S,I,I,TRUE,45-54,H,B,D,0,Single and Surviving,5,3,4,1,1,5,4,5,5,1,4,1,0
+F,S,P,I,TRUE,75+,H,B,D,0,Old Money,,,,,,,,,,,,1,0
+F,S,N,I,,75+,H,,R,0,Golden Era,,,2,2,,,5,,2,,,1,0
+F,O,N,H,TRUE,65-74,H,B,D,0,Silver Sneakers,5,,,,5,,,,,5,,5,0
+M,R,R,I,TRUE,55-64,H,B,D,0,Wealth Whispers,5,4,4,,5,,4,5,4,5,4,1,0
+F,R,P,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,4,,,,,,,,,1,0
+F,R,P,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,4,,,,,,,,,1,0
+F,R,P,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,4,,,,,,,,,1,0
+F,Q,O,I,TRUE,75+,H,C,R,0,Senior Elite,,,5,,3,,,,,3,,2,0
+F,S,S,I,TRUE,65-74,H,C,L,0,Old Money,,3,3,,4,4,,,2,,,2,0
+F,Q,N,G,,75+,H,,D,0,Affluent Acres,,,,,,,,,,,,,0
+F,S,R,I,TRUE,55-64,H,F,D,0,Wealth Whispers,,2,2,,3,3,3,,1,5,4,1,0
+F,S,R,I,TRUE,55-64,H,F,D,0,Wealth Whispers,,2,2,,3,3,3,,1,5,4,1,0
+M,R,R,I,TRUE,75+,H,C,D,0,Old Money,,,5,,,,,,5,,,1,0
+F,Q,Q,I,,65-74,H,D,R,0,Old Money,5,4,1,,5,5,,,1,,,1,0
+F,Q,Q,I,,65-74,H,D,R,0,Old Money,5,4,1,,5,5,,,1,,,1,0
+F,Q,Q,I,,65-74,H,D,R,0,Old Money,5,4,1,,5,5,,,1,,,1,0
+F,Q,R,I,TRUE,45-54,H,C,R,0,Lowkey Luxe,,5,,,,,,,,,,1,0
+M,R,Q,I,TRUE,75+,H,B,I,0,Old Money,4,,,,,,,,,,,4,0
+F,Q,N,I,,75+,H,B,R,0,Golden Era,,,,,,,,,,,,,0
+F,R,S,I,FALSE,55-64,H,A,L,0,Lowkey Luxe,4,5,1,,1,5,,,5,1,,1,0
+M,L,H,G,,65-74,H,C,I,0,Melting Pot Medley,,,5,3,1,,,5,2,,5,1,0
+M,L,H,G,,65-74,H,C,I,0,Melting Pot Medley,,,5,3,1,,,5,2,,5,1,0
+M,S,R,I,,65-74,H,B,R,0,Urban Elites,,5,,,,,,,,,,5,0
+F,R,N,G,TRUE,35-44,H,D,D,0,Date Nights City Lights,,,,,,,5,,,,,5,0
+M,N,O,G,FALSE,45-54,H,E,I,0,Jet Setters,,,,,,,,,,,,,0
+M,S,S,I,TRUE,45-54,H,C,R,0,Lowkey Luxe,,,5,,,,,,,,,5,0
+M,S,S,I,TRUE,45-54,H,C,R,0,Lowkey Luxe,,,5,,,,,,,,,5,0
+F,O,Q,H,TRUE,65-74,H,D,I,0,Urban Elites,,2,3,1,2,,3,2,,,,1,0
+M,Q,O,H,,65-74,H,B,D,0,Single and Thriving,,,,,4,4,,,,,,2,0
+M,Q,O,H,,65-74,H,B,D,0,Single and Thriving,,,,,4,4,,,,,,2,0
+F,Q,P,I,TRUE,65-74,H,B,D,0,Wealth Whispers,5,2,,,3,5,,5,,3,,1,0
+F,,M,I,,65-74,H,,I,0,Silver Sneakers,,,,,,,,,,,5,5,0
+F,,M,I,,65-74,H,,I,0,Silver Sneakers,,,,,,,,,,,5,5,0
+F,Q,H,I,,65-74,H,,R,0,American Classics,5,,,,,,,,4,,,3,0
+M,O,Q,H,TRUE,55-64,H,C,D,0,Wealth Whispers,,,5,,5,,5,,,5,,5,0
+M,S,R,I,,75+,H,B,D,0,Urban Elites,,5,,,5,5,,,,,,5,0
+F,O,N,I,,55-64,H,D,I,0,Single Sophisticates,,5,,,,,,,,,,2,0
+F,O,N,I,,55-64,H,D,I,0,Single Sophisticates,,5,,,,,,,,,,2,0
+M,Q,S,I,TRUE,65-74,H,C,I,0,Wealth Whispers,5,,,,,,,,,,,5,0
+M,R,S,I,TRUE,65-74,H,B,I,0,Old Money,5,,5,,2,3,,2,,,4,1,0
+M,P,Q,I,,65-74,H,D,R,0,Old Money,,,,,,,,,,,,1,0
+M,P,Q,I,,65-74,H,D,R,0,Old Money,,,,,,,,,,,,1,0
+M,P,Q,I,,65-74,H,D,R,0,Old Money,,,,,,,,,,,,1,0
+F,Q,P,I,TRUE,65-74,H,B,D,0,Single and Thriving,,,,,,,,,,,,2,0
+M,S,S,I,TRUE,35-44,H,C,,0,Lowkey Luxe,,,1,,4,4,5,,5,,5,1,0
+M,R,Q,I,TRUE,65-74,H,C,D,0,Wealth Whispers,,5,,,5,5,,,,,,2,0
+M,P,Q,H,TRUE,65-74,H,B,I,0,Urban Elites,,,,,,,,,,,,5,0
+F,S,O,I,,65-74,H,C,D,0,Wealth Whispers,,,,,5,5,,,,,,5,0
+M,H,Q,G,TRUE,55-64,H,B,D,0,Hometown Heroes,,,,,,,,,,,,,0
+M,S,R,I,,75+,H,D,D,0,Senior Elite,,,2,,,,2,,,,4,2,0
+M,S,R,I,,75+,H,D,D,0,Senior Elite,,,2,,,,2,,,,4,2,0
+F,Q,Q,I,TRUE,65-74,H,C,L,0,Old Money,5,,,,5,,,,3,5,,3,0
+F,K,O,E,TRUE,55-64,H,F,D,0,Wealth Whispers,3,,,,,,,,,,,1,0
+F,U,L,H,TRUE,35-44,H,C,D,0,Date Nights City Lights,4,4,,,,,,,,,,4,0
+F,U,L,H,TRUE,35-44,H,C,D,0,Date Nights City Lights,4,4,,,,,,,,,,4,0
+F,U,L,H,TRUE,35-44,H,C,D,0,Date Nights City Lights,4,4,,,,,,,,,,4,0
+F,R,Q,I,TRUE,55-64,H,B,,0,Wealth Whispers,,,,,,,,,,,,,0
+F,Q,S,I,TRUE,45-54,H,A,D,0,Lowkey Luxe,,,1,,,,,,,,,1,0
+F,S,Q,I,TRUE,65-74,H,D,L,0,Old Money,,,,,,,,,,,,2,0
+M,Q,P,I,TRUE,75+,H,C,R,0,Old Money,,5,3,,2,,3,2,3,2,,1,0
+F,Q,O,G,TRUE,75+,H,E,R,0,Old Money,,,,,5,5,,,,,,1,0
+F,,,H,TRUE,45-54,H,,R,0,Lowkey Luxe,,1,1,,4,4,3,,2,5,,1,0
+F,R,O,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,,,,,5,,,,,5,0
+F,R,O,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,,,,,5,,,,,5,0
+F,R,O,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,,,,,5,,,,,5,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,1,,,,5,,,,,1,0
+F,Q,R,I,TRUE,45-54,H,,D,0,Lowkey Luxe,5,5,,,5,,,,,,,5,0
+F,R,Q,I,TRUE,65-74,H,B,R,0,Wealth Whispers,5,4,1,,3,,3,3,1,5,2,1,0
+F,Q,Q,I,,75+,H,B,D,0,Old Money,1,1,,,,,,,,,,1,0
+M,Q,Q,I,TRUE,75+,H,B,I,0,Old Money,,,,1,1,,,,2,1,,1,0
+M,Q,Q,I,TRUE,75+,H,B,I,0,Old Money,,,,1,1,,,,2,1,,1,0
+F,Q,P,H,TRUE,55-64,H,B,R,0,Wealth Whispers,,4,5,,,,5,,,,,1,0
+F,R,Q,I,TRUE,55-64,H,A,D,0,Wealth Whispers,3,4,4,,5,,,5,4,5,,2,0
+M,Q,Q,I,TRUE,65-74,H,B,I,0,Wealth Whispers,,5,5,,5,,,,4,5,,4,0
+M,Q,Q,I,TRUE,65-74,H,B,I,0,Wealth Whispers,,5,5,,5,,,,4,5,,4,0
+M,Q,Q,I,TRUE,65-74,H,B,I,0,Wealth Whispers,,5,5,,5,,,,4,5,,4,0
+F,Q,N,I,,75+,H,A,R,0,Silver Sneakers,,,,,,,,,,,,5,0
+F,N,P,H,TRUE,55-64,H,C,I,0,Wealth Whispers,5,5,,,5,,,5,5,,,1,0
+F,O,N,G,TRUE,55-64,H,C,D,0,Home for the Holidays,5,,,,3,5,,,1,3,,1,0
+F,R,G,I,,65-74,H,C,I,0,Back at the Ranch,5,5,5,4,5,,,5,,,,2,0
+F,N,N,G,TRUE,55-64,H,B,R,0,Home for the Holidays,,,3,,5,,,,2,5,,2,0
+M,Q,R,I,,65-74,H,B,,0,Old Money,,2,5,,,,,,1,,,1,0
+F,S,O,I,TRUE,55-64,H,D,,0,Single and Thriving,,,,,,,,,,,,,0
+F,O,P,I,,75+,H,A,R,0,Senior Elite,,5,3,5,5,,4,5,,,,2,0
+M,G,Q,I,TRUE,55-64,H,C,I,0,Suburban Socialites,,4,5,,1,1,5,,,,,1,0
+F,O,N,G,TRUE,45-54,H,C,I,0,Working for the Weekend,5,,,,,,,,,,,1,0
+M,P,D,H,TRUE,35-44,H,B,D,0,Subway Surfers,,,,,5,5,,,,,,1,0
+F,S,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,1,,3,4,5,,5,,5,1,0
+F,R,O,I,,55-64,H,B,R,0,Suburban Socialites,,,,,5,5,,,,,,1,0
+F,R,N,I,,75+,H,A,,0,Golden Era,,,,,,,,,,,,1,0
+F,R,P,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,,,,,,,,,,,3,0
+M,S,O,I,,65-74,H,B,R,0,Old Money,,,,,,,,,,,,2,0
+F,A,P,I,TRUE,55-64,H,B,I,0,Suburban Socialites,,2,3,,,,,,5,,,2,0
+F,Q,K,H,TRUE,35-44,H,B,D,0,Downtown Dreamers,3,5,2,,1,5,2,4,,1,,1,0
+F,I,F,G,,65-74,H,B,D,0,Back at the Ranch,,5,,,,,,,,,,5,0
+F,I,F,G,,65-74,H,B,D,0,Back at the Ranch,,5,,,,,,,,,,5,0
+F,I,F,G,,65-74,H,B,D,0,Back at the Ranch,,5,,,,,,,,,,5,0
+M,N,O,I,,75+,H,B,,0,Urban Elites,,4,5,,,,3,,,,,1,0
+M,M,N,I,TRUE,65-74,H,A,D,0,Silver Sneakers,5,,2,,4,,5,5,2,4,,2,0
+F,Q,O,I,TRUE,65-74,H,B,R,0,Wealth Whispers,1,3,,,,,4,,,,5,1,0
+F,R,N,H,,75+,H,B,,0,Silver Sneakers,,,,,4,,,4,,4,,4,0
+F,A,N,G,TRUE,55-64,H,D,I,0,Home for the Holidays,,5,,,,,,,,,3,2,0
+F,P,N,E,,65-74,H,D,D,0,Retired and Relaxed,5,,,,,,,,,,,3,0
+F,R,R,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,,5,,2,,,,5,2,,1,0
+F,,Q,A,,55-64,H,,I,0,Hometown Heroes,,,,,,,,,,,,1,0
+M,P,S,H,TRUE,45-54,H,C,D,0,Patriotic and Proud,5,5,,,3,3,,,,,,3,0
+F,S,S,I,TRUE,45-54,H,B,R,0,Lowkey Luxe,,3,4,,,,,,2,,4,2,0
+M,U,F,I,,75+,H,B,L,0,Senior Discount,,,,,,,,,,,,,0
+F,O,N,F,,65-74,H,,D,0,Retired and Relaxed,5,4,,,3,,,,,3,,1,0
+M,Q,O,H,,75+,H,C,D,0,Country Club Set,5,5,,,3,,,,,3,,1,0
+M,S,Q,H,TRUE,55-64,H,C,D,0,Wealth Whispers,,,3,5,,,,,1,,,1,0
+F,Q,P,I,FALSE,45-54,H,B,,0,Patriotic and Proud,5,,1,1,5,,5,,5,5,1,1,0
+F,S,S,I,TRUE,35-44,H,B,,0,Life in the Fast Lane,,1,2,,2,4,5,5,5,5,5,1,0
+F,R,Q,I,TRUE,45-54,H,C,R,0,Lowkey Luxe,3,,2,,4,4,2,,5,5,,2,0
+F,R,O,H,TRUE,65-74,H,D,I,0,Old Money,5,,,,3,,3,,3,3,,3,0
+F,Q,S,H,TRUE,45-54,H,F,D,0,Lowkey Luxe,,5,5,,5,5,,,,,5,3,0
+M,U,Q,I,TRUE,55-64,H,D,D,0,Suburban Socialites,,,,,,,,,,,,,0
+M,U,Q,I,TRUE,55-64,H,D,D,0,Suburban Socialites,,,,,,,,,,,,,0
+M,R,R,I,TRUE,75+,H,B,D,0,Country Club Set,5,,,,,,,,,,,5,0
+F,R,R,H,FALSE,45-54,H,B,R,0,Minivans and Malls,4,,3,,,,3,,,,,1,0
+F,S,S,I,TRUE,55-64,H,C,R,0,Suburban Socialites,,1,3,,1,,5,,,1,,1,0
+F,R,O,I,,75+,H,B,R,0,Senior Elite,,,,,,,,,,,,1,0
+F,R,O,I,,75+,H,B,R,0,Senior Elite,,,,,,,,,,,,1,0
+F,R,O,I,,75+,H,B,R,0,Senior Elite,,,,,,,,,,,,1,0
+M,Q,R,I,TRUE,35-44,H,C,D,0,High Tech Rednecks,2,5,5,,2,,5,2,5,,1,1,0
+F,S,S,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,2,5,,,,3,5,2,,,1,0
+F,O,N,H,,65-74,H,B,I,0,Retired and Relaxed,,,2,,5,,,,,,,2,0
+M,R,O,I,TRUE,55-64,H,C,D,0,Suburban Socialites,,5,2,4,3,3,,,2,,,1,0
+F,R,S,I,,55-64,H,C,D,0,Wealth Whispers,,4,1,,1,1,,2,,4,5,1,0
+F,R,R,I,,65-74,H,B,R,0,Old Money,,,,,,,,,,,,1,0
+M,Q,S,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,,2,,1,3,,,4,1,2,1,0
+F,S,S,I,TRUE,55-64,H,D,L,0,Wealth Whispers,,4,2,1,4,5,2,4,1,5,4,1,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,4,2,2,1,5,5,2,3,1,2,1,0
+M,U,J,G,TRUE,75+,H,F,L,0,Silver Sneakers,,,,,5,5,,,,,,1,0
+F,Q,R,I,,65-74,H,C,I,0,Suburban Socialites,,5,1,5,3,,,,,3,,1,0
+F,Q,R,I,,65-74,H,C,I,0,Suburban Socialites,,5,1,5,3,,,,,3,,1,0
+M,R,R,I,,65-74,H,A,I,0,Country Club Set,,,3,,,,,,,,,2,0
+M,R,S,I,TRUE,55-64,H,A,L,0,Suburban Socialites,,5,,5,1,4,4,3,,1,,1,0
+F,S,S,I,TRUE,65-74,H,D,D,0,Wealth Whispers,,5,3,,5,5,4,,4,5,,1,0
+F,Q,P,I,TRUE,55-64,H,B,,0,Wealth Whispers,5,5,,5,,,,,,,,1,0
+F,M,R,I,TRUE,55-64,H,B,,0,Single and Thriving,,,,,,,,,,,,,0
+M,Q,S,I,TRUE,65-74,H,B,D,0,Wealth Whispers,,,,,,,,,,,,,0
+M,S,S,I,TRUE,75+,H,B,R,0,Old Money,,,,,5,,,,,,,1,0
+F,S,P,I,TRUE,65-74,H,B,R,0,Urban Elites,5,5,1,2,1,1,,5,3,,,1,0
+F,Q,R,I,,65-74,H,A,D,0,Old Money,,5,3,,,,3,,,,,1,0
+F,Q,J,I,,75+,H,B,,0,Golden Era,,,,,5,5,,,5,,,1,0
+F,Q,L,H,TRUE,55-64,H,B,R,0,Dynamic Duos,,3,5,,1,1,,,1,,,1,0
+M,Q,O,I,TRUE,65-74,H,B,R,0,Country Club Set,,,,,,,,,,,,,0
+M,O,O,H,TRUE,35-44,H,C,I,0,Keeping Up With The Joneses,4,5,,,,,,,,,,4,0
+F,Q,P,I,TRUE,75+,H,A,D,0,Old Money,,5,,,,,,,,,,5,0
+F,S,P,I,,55-64,H,B,D,0,Wealth Whispers,5,,,,,,,,,,,3,0
+F,S,S,I,,75+,H,B,R,0,Senior Elite,,,,,,,,,,,,3,0
+F,U,H,A,TRUE,45-54,H,,,0,Average Joes,5,,,,,,,,,,,5,0
+F,Q,R,H,TRUE,45-54,H,C,R,0,Minivans and Malls,,2,1,,2,2,,,2,,2,1,0
+M,R,P,I,TRUE,65-74,H,B,D,0,Old Money,,,5,,5,,,,,5,,1,0
+F,H,N,H,,65-74,H,A,I,0,Silver Sneakers,,,,,,,,,,,,,0
+F,H,N,H,,65-74,H,A,I,0,Silver Sneakers,,,,,,,,,,,,,0
+M,M,F,B,TRUE,75+,H,D,D,0,American Classics,,5,,,5,5,,,4,,,1,0
+F,M,N,F,TRUE,45-54,H,,D,0,Successful Singles,,,,,,,,,,,,5,0
+F,N,O,H,,75+,H,D,I,0,Senior Elite,,5,,,,,,,,,,1,0
+M,L,S,F,TRUE,45-54,H,D,D,0,Lowkey Luxe,,,2,1,1,1,,,,2,,1,0
+M,M,L,H,TRUE,55-64,H,C,D,0,Country Clout,,,,,,,,,,,,2,0
+M,J,J,A,TRUE,45-54,H,D,D,0,Successful Singles,5,,,,,,,,,,,5,0
+M,J,B,H,,75+,H,A,D,0,Senior Discount,,,,,,,,,,,,3,0
+M,P,O,G,TRUE,35-44,H,C,R,0,Jet Setters,2,4,5,2,1,5,3,2,2,1,,1,0
+F,U,R,H,TRUE,55-64,H,A,D,0,Single and Thriving,,2,,,5,5,,,,5,,2,0
+F,K,N,G,TRUE,35-44,H,C,R,0,Date Nights City Lights,,,,,,,,,,,,1,0
+F,K,N,G,TRUE,35-44,H,C,R,0,Date Nights City Lights,,,,,,,,,,,,1,0
+F,I,N,H,TRUE,75+,H,B,D,0,Silver Sneakers,5,,,,,,,,,,4,1,0
+F,J,O,H,TRUE,55-64,H,E,R,0,Suburban Socialites,,,,,,,,,,,,,0
+F,Q,O,H,,65-74,H,D,D,0,Wealth Whispers,,5,,,,,,,,,,5,0
+F,Q,O,H,,65-74,H,D,D,0,Wealth Whispers,,5,,,,,,,,,,5,0
+F,Q,O,H,,65-74,H,D,D,0,Wealth Whispers,,5,,,,,,,,,,5,0
+F,Q,O,H,,65-74,H,D,D,0,Wealth Whispers,,5,,,,,,,,,,5,0
+F,Q,O,H,,65-74,H,D,D,0,Wealth Whispers,,5,,,,,,,,,,5,0
+M,L,L,G,TRUE,55-64,H,D,D,0,Country Clout,,5,,,,,,,,,,2,0
+F,O,Q,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,3,,,,,,5,,,1,0
+F,P,O,H,TRUE,55-64,H,B,I,0,Single and Thriving,,5,,,,,,,,,,5,0
+M,P,O,I,,75+,H,B,L,0,Local Legends,,,,,5,5,,,,,,2,0
+F,Q,O,I,TRUE,55-64,H,A,R,0,Wealth Whispers,5,,,,5,,,,,5,,2,0
+F,M,J,G,TRUE,65-74,H,E,D,0,Single Sophisticates,,,5,,4,,5,5,,4,,2,0
+F,Q,R,I,,65-74,H,B,R,0,Old Money,,3,,,,,,,,,5,3,0
+F,Q,R,I,,65-74,H,B,R,0,Old Money,,3,,,,,,,,,5,3,0
+F,Q,R,I,,65-74,H,B,R,0,Old Money,,3,,,,,,,,,5,3,0
+M,,O,I,,75+,H,,I,0,Local Legends,,,,,,,,,,,,3,0
+F,P,S,H,TRUE,45-54,H,B,R,0,Lowkey Luxe,,,,,,,,,,,,,0
+F,Q,R,I,TRUE,75+,H,C,D,0,Old Money,,3,,,4,,5,,5,4,,1,0
+F,M,L,E,TRUE,75+,H,D,R,0,Retired and Relaxed,,,,,,,,,,,,1,0
+F,Q,Q,I,,65-74,H,C,R,0,Country Club Set,,,,,,,,,,,,5,0
+F,Q,Q,I,,65-74,H,C,R,0,Country Club Set,,,,,,,,,,,,5,0
+F,M,O,H,,55-64,H,A,D,0,Wealth Whispers,,4,,2,5,5,,,5,5,,2,0
+F,Q,O,I,TRUE,65-74,H,E,R,0,Old Money,,5,5,,,,5,,,,2,2,0
+F,,J,H,TRUE,55-64,H,,I,0,Dynamic Duos,,2,,,2,,1,2,,,5,1,0
+M,Q,O,I,,75+,H,B,D,0,Old Money,,,,5,,,1,,2,,,1,0
+F,,N,I,TRUE,75+,H,,D,0,Retired and Relaxed,,,,,,,,,,,,,0
+F,H,H,B,TRUE,35-44,H,G,,0,Subway Surfers,,,,,,,,,,,5,5,0
+F,O,O,I,TRUE,35-44,H,B,R,0,Glitterati,5,5,,,5,5,,,,,,5,0
+M,Q,O,I,TRUE,35-44,H,B,D,0,High Tech Rednecks,4,4,5,1,3,,,3,4,,,1,0
+F,O,L,H,TRUE,55-64,H,C,D,0,Dynamic Duos,5,5,3,,,,2,,,,,2,0
+F,S,R,I,TRUE,65-74,H,B,R,0,Wealth Whispers,,1,4,2,4,4,,,,,,1,0
+F,K,L,F,TRUE,65-74,H,E,L,0,Dynamic Duos,,,,,,,5,,,,,5,0
+F,K,L,F,TRUE,65-74,H,E,L,0,Dynamic Duos,,,,,,,5,,,,,5,0
+F,P,R,H,TRUE,55-64,H,D,D,0,Wealth Whispers,,,3,,,,,,,,,3,0
+F,P,R,H,TRUE,55-64,H,D,D,0,Wealth Whispers,,,3,,,,,,,,,3,0
+M,O,O,G,TRUE,45-54,H,C,L,0,Minivans and Malls,,,5,,,,,,,,,5,0
+F,Q,N,I,,65-74,H,B,,0,Retired and Relaxed,,,,,,,,,,,,3,0
+F,Q,N,I,,65-74,H,B,,0,Retired and Relaxed,,,,,,,,,,,,3,0
+F,Q,N,I,,65-74,H,B,,0,Retired and Relaxed,,,,,,,,,,,,3,0
+M,F,L,E,,65-74,H,D,,0,Dynamic Duos,,,,,2,3,,,4,,3,1,0
+F,Q,Q,H,TRUE,35-44,H,C,I,0,Glitterati,2,,,2,5,5,,,,5,,2,0
+F,Q,Q,H,TRUE,35-44,H,C,I,0,Glitterati,2,,,2,5,5,,,,5,,2,0
+F,M,O,F,TRUE,45-54,H,B,D,0,Lowkey Luxe,5,,,,,,,,,,,5,0
+F,L,J,G,,75+,H,C,D,0,Golden Era,,5,,,5,5,,5,,,,1,0
+M,M,P,H,TRUE,55-64,H,C,R,0,Wealth Whispers,,5,1,,,,,,,,,1,0
+M,J,D,B,,55-64,H,D,D,0,Urban Mashup,,,,,1,,,,,,,1,0
+M,J,D,B,,55-64,H,D,D,0,Urban Mashup,,,,,1,,,,,,,1,0
+F,R,N,I,,75+,H,B,D,0,Greatest Generation,,,,,,,,,,,,4,0
+M,Q,L,F,TRUE,55-64,H,B,D,0,Single Sophisticates,,,,,,,,,,,,,0
+M,Q,L,I,TRUE,65-74,H,B,D,0,Single Sophisticates,,,,,,,,,,,,2,0
+F,M,N,I,,75+,H,C,R,0,Retired and Relaxed,,,,,,,,,,,,5,0
+M,M,H,B,,65-74,H,D,R,0,Blue Collar Boomers,,,4,,,,,4,,,,1,0
+F,Q,N,H,TRUE,75+,H,C,I,0,Golden Era,,2,3,,5,,3,,,5,,2,0
+F,S,R,I,,75+,H,B,L,0,Senior Elite,,,,,,,,,,,,5,0
+F,S,S,I,TRUE,65-74,H,,D,0,Suburban Socialites,5,1,1,2,1,5,5,2,2,5,4,1,0
+M,Q,R,H,TRUE,55-64,H,C,D,0,Suburban Socialites,,,4,,,,,,,,,1,0
+F,H,H,G,TRUE,45-54,H,F,I,0,Average Joes,,5,,,,,,5,,,,1,0
+M,R,S,I,TRUE,55-64,H,D,D,0,Wealth Whispers,5,5,,,5,,4,,3,5,,3,0
+F,M,O,G,TRUE,55-64,H,E,L,0,Wealth Whispers,,,,,4,,,,,4,,4,0
+M,S,P,I,,55-64,H,B,D,0,Wealth Whispers,5,5,5,,,5,,,,,,2,0
+M,S,Q,I,TRUE,45-54,H,B,N,0,Jet Setters,4,4,1,5,3,,,,5,3,5,1,0
+M,S,N,I,,75+,H,A,D,0,Golden Era,,,,,,,,,,,,4,0
+M,R,O,I,,75+,H,B,D,0,Country Club Set,,,,,,,,,,,,,0
+M,R,Q,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,5,2,,,,,,5,,,1,0
+F,R,R,I,,65-74,H,C,D,0,Urban Elites,,5,4,2,4,,,4,,,,2,0
+F,Q,O,I,TRUE,55-64,H,E,R,0,Suburban Socialites,,5,2,,3,3,,3,1,,,1,0
+F,U,Q,I,,75+,H,,D,0,Senior Elite,,,,,,,,,,,,,0
+F,R,S,I,TRUE,55-64,H,C,R,0,Wealth Whispers,,5,,1,2,,5,,2,2,,1,0
+F,S,S,I,,75+,H,C,,0,Old Money,5,5,5,5,5,,,,,5,,1,0
+F,R,O,I,,75+,H,A,D,0,Senior Elite,,,,,2,,,,,2,,2,0
+M,O,P,H,TRUE,55-64,H,B,R,0,Suburban Socialites,,,,,,,,,,,,3,0
+M,O,P,H,TRUE,55-64,H,B,R,0,Suburban Socialites,,,,,,,,,,,,3,0
+F,S,R,I,,75+,H,A,,0,Country Club Set,5,5,4,2,5,,,5,4,5,,2,0
+M,P,O,H,TRUE,75+,H,C,R,0,Urban Elites,,,5,,,,,,,,,2,0
+F,S,R,I,TRUE,65-74,H,,I,0,Wealth Whispers,,5,5,,,,5,4,,,,4,0
+F,S,P,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,,,,,,,,,,,2,0
+M,S,Q,I,,65-74,H,B,D,0,Old Money,,,,,,,,,,,,,0
+M,S,Q,I,,65-74,H,B,D,0,Old Money,,,,,,,,,,,,,0
+F,N,O,I,,55-64,H,C,D,0,Wealth Whispers,,4,,,,,,,,,,4,0
+M,Q,R,I,,75+,H,B,R,0,Old Money,,,2,4,1,5,,1,5,3,,1,0
+M,Q,O,I,FALSE,65-74,H,C,L,0,Single and Thriving,,5,3,5,5,,5,5,1,5,5,1,0
+M,Q,O,I,FALSE,65-74,H,C,L,0,Single and Thriving,,5,3,5,5,,5,5,1,5,5,1,0
+M,Q,O,I,FALSE,65-74,H,C,L,0,Single and Thriving,,5,3,5,5,,5,5,1,5,5,1,0
+M,Q,O,I,FALSE,65-74,H,C,L,0,Single and Thriving,,5,3,5,5,,5,5,1,5,5,1,0
+F,Q,S,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,5,5,,4,,,,,5,5,4,0
+F,Q,S,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,5,5,,4,,,,,5,5,4,0
+F,Q,S,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,5,5,,4,,,,,5,5,4,0
+M,Q,P,I,,65-74,H,C,D,0,Wealth Whispers,,,4,4,,,5,,,,,4,0
+F,Q,Q,I,TRUE,75+,H,B,D,0,Old Money,,4,,,,,,,,,,4,0
+F,Q,Q,I,TRUE,75+,H,B,D,0,Old Money,,4,,,,,,,,,,4,0
+F,Q,O,I,TRUE,65-74,H,B,D,0,Old Money,4,,,,,,,,,,,3,0
+F,O,N,G,,65-74,H,D,R,0,Dynamic Duos,,4,,,,,,,,,,4,0
+M,R,S,I,TRUE,65-74,H,B,D,0,Old Money,,5,,,4,4,,5,,,5,1,0
+F,U,D,B,TRUE,35-44,H,,,0,Subway Surfers,,,,,,,,,,,,5,0
+M,Q,Q,I,TRUE,75+,H,B,D,0,Old Money,,,,,,,,,,,,5,0
+F,R,N,I,,75+,H,B,I,0,Golden Era,,,,,,,,,5,,,1,0
+F,U,J,A,,75+,H,,I,0,Retired and Relaxed,,,,,,,,,,,,,0
+F,Q,R,I,TRUE,55-64,H,G,R,0,Wealth Whispers,5,4,1,3,3,,5,3,5,4,4,1,0
+F,O,O,G,TRUE,55-64,H,C,D,0,Wealth Whispers,,,,,,,,,,,,,0
+F,S,R,I,TRUE,75+,H,C,R,0,Old Money,,5,2,,3,3,,5,4,,,2,0
+F,Q,O,I,TRUE,65-74,H,B,I,0,Old Money,,,,,,,,,,,,5,0
+M,Q,P,H,,45-54,H,E,D,0,Jet Setters,,5,2,,2,2,,,5,,,1,0
+F,L,L,B,TRUE,55-64,H,D,D,0,Dynamic Duos,5,1,5,,2,2,5,4,1,2,1,1,0
+F,N,J,G,,75+,H,D,L,0,Golden Era,,,,,4,4,,,,,,1,0
+M,U,R,I,TRUE,45-54,H,C,I,0,Jet Setters,5,5,4,,5,,4,,,5,,1,0
+M,S,S,I,TRUE,55-64,H,C,R,0,Suburban Socialites,,1,2,3,2,,3,5,1,,5,1,0
+M,Q,R,I,,65-74,H,B,D,0,Country Club Set,,,,,,,,,,,,1,0
+F,Q,R,I,TRUE,65-74,H,C,R,0,Suburban Socialites,,,,5,4,,5,4,,5,,1,0
+F,J,J,F,,55-64,H,G,D,0,Movin On Up,,,,,,,,,,,,,0
+F,Q,O,I,TRUE,55-64,H,B,D,0,Wealth Whispers,5,3,3,,5,5,,5,,,5,1,0
+F,Q,O,I,TRUE,55-64,H,B,D,0,Wealth Whispers,5,3,3,,5,5,,5,,,5,1,0
+M,M,Q,G,TRUE,45-54,H,D,D,0,Lowkey Luxe,,,,,,,,,,,,3,0
+M,Q,Q,I,,75+,H,C,I,0,Senior Elite,,,,,,,,,,,,1,0
+M,Q,Q,I,,75+,H,C,I,0,Senior Elite,,,,,,,,,,,,1,0
+F,U,N,I,,75+,H,C,R,0,Golden Era,,,,,,,,,,,,1,0
+M,Q,Q,I,TRUE,55-64,H,F,D,0,Wealth Whispers,,,,,,,,,,,,2,0
+M,Q,R,I,TRUE,65-74,H,C,R,0,Wealth Whispers,4,,1,1,2,,,,1,2,,1,0
+M,Q,O,H,,75+,H,B,D,0,Old Money,3,,,,,,,,5,,,1,0
+F,S,Q,I,,65-74,H,C,D,0,Wealth Whispers,,,4,,,,4,,2,,,2,0
+F,Q,O,I,,65-74,H,C,D,0,Urban Elites,,,,,,,,,,,,4,0
+F,P,Q,I,TRUE,65-74,H,C,D,0,Wealth Whispers,,4,,,2,2,4,,5,4,,2,0
+F,Q,O,I,TRUE,35-44,H,C,I,0,Minivans and Malls,,,,,5,,,,,5,,1,0
+F,Q,O,I,TRUE,35-44,H,C,I,0,Minivans and Malls,,,,,5,,,,,5,,1,0
+F,Q,P,I,,75+,H,A,I,0,Country Club Set,,,,,,,3,,,,,1,0
+F,U,N,G,TRUE,65-74,H,,D,0,Silver Sneakers,2,5,1,1,5,5,,,,5,,1,0
+F,R,N,I,,75+,H,B,R,0,Silver Sneakers,,2,,,,,,,,,,1,0
+M,N,N,H,,75+,H,B,I,0,Golden Era,,,,,,,,,,,,,0
+F,Q,R,I,TRUE,55-64,H,C,I,0,Wealth Whispers,,4,,,5,5,,,,2,,2,0
+M,Q,P,I,TRUE,55-64,H,,D,0,Suburban Socialites,,5,,,2,,5,,5,2,,2,0
+M,Q,P,I,TRUE,55-64,H,,D,0,Suburban Socialites,,5,,,2,,5,,5,2,,2,0
+M,Q,S,I,,65-74,H,B,R,0,Old Money,,,,,,,,,,,,1,0
+F,Q,P,I,,55-64,H,B,R,0,Wealth Whispers,3,,5,,5,,5,,,5,,3,0
+F,O,Q,I,TRUE,55-64,H,A,R,0,Suburban Socialites,,,5,,5,,,5,4,,1,1,0
+M,R,S,I,TRUE,45-54,H,C,D,0,Lowkey Luxe,,5,5,,3,5,,5,2,3,,2,0
+M,R,R,I,TRUE,65-74,H,B,D,0,Old Money,4,,,,,,,,,,,1,0
+F,P,N,H,,55-64,H,C,,0,Single Sophisticates,,,,,,,,,,,,5,0
+F,R,Q,I,TRUE,65-74,H,F,D,0,Old Money,,,5,,,,,,,,,1,0
+F,R,Q,I,TRUE,65-74,H,F,D,0,Old Money,,,5,,,,,,,,,1,0
+M,Q,L,H,,75+,H,,D,0,Retired and Relaxed,,,,,,,,,4,,,1,0
+M,Q,L,H,,75+,H,,D,0,Retired and Relaxed,,,,,,,,,4,,,1,0
+F,U,N,I,,75+,H,A,I,0,Golden Era,,,,,,,,,,,,1,0
+F,Q,P,I,TRUE,55-64,H,C,D,0,Wealth Whispers,2,5,5,,,,,,,,,2,0
+F,Q,S,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,,5,,5,,,,5,5,,1,0
+F,Q,O,I,,55-64,H,B,D,0,Single and Thriving,,,5,,2,2,,,,,,2,0
+F,Q,Q,H,TRUE,45-54,H,C,I,0,Jet Setters,,,,,2,2,,,,,,2,0
+M,Q,N,G,FALSE,55-64,H,E,D,0,Single Sophisticates,5,3,,,,,5,,,,,3,0
+M,Q,R,I,TRUE,55-64,H,B,R,0,Wealth Whispers,1,2,,,,,4,,,,,1,0
+M,Q,N,I,TRUE,75+,H,B,I,0,Silver Sneakers,,,5,,,,,,,,,1,0
+F,Q,S,G,TRUE,45-54,H,B,I,0,Lowkey Luxe,5,5,5,,,,5,,5,,,2,0
+F,Q,S,I,TRUE,55-64,H,B,,0,Suburban Socialites,,5,5,5,,,,,1,,1,1,0
+M,S,Q,I,TRUE,75+,H,C,D,0,Old Money,5,4,5,4,2,2,,3,1,2,,1,0
+M,O,P,I,TRUE,55-64,H,B,D,0,Hometown Heroes,,5,2,,,,,4,3,,1,1,0
+F,R,S,I,TRUE,55-64,H,B,,0,Suburban Socialites,,5,,1,5,5,1,,5,5,,1,0
+M,N,P,I,,65-74,H,A,R,0,Old Money,,,,,,,,,,,,1,0
+F,Q,S,I,TRUE,55-64,H,C,R,0,Wealth Whispers,5,5,,,,,,,,,,3,0
+F,Q,Q,I,TRUE,55-64,H,B,L,0,Wealth Whispers,,5,,,,,,,,,,2,0
+M,N,N,D,,75+,H,G,D,0,Silver Sneakers,,3,5,,5,5,5,,,,,1,0
+F,M,B,I,TRUE,65-74,H,A,D,0,Mid Century Moderns,,5,,,3,,5,3,,5,,3,0
+F,Q,O,I,TRUE,55-64,H,F,D,0,Wealth Whispers,5,5,3,5,,,5,,,,,1,0
+F,Q,N,I,TRUE,65-74,H,C,R,0,Silver Sneakers,,,5,,,,,,,,,5,0
+F,N,O,I,TRUE,55-64,H,B,R,0,Single and Thriving,,2,4,2,5,5,2,,,,,2,0
+F,,N,E,FALSE,55-64,H,,R,0,Country Clout,5,,,,1,,3,,,1,,1,0
+M,Q,O,I,,75+,H,B,D,0,Old Money,,,,,,,,,5,,,1,0
+F,,O,I,FALSE,55-64,9,,,0,Single and Thriving,,,4,,,,5,,,,,4,0
+F,,O,I,FALSE,55-64,9,,,0,Single and Thriving,,,4,,,,5,,,,,4,0
+M,P,O,I,TRUE,65-74,H,C,R,0,Old Money,,,,,,,,,5,,,2,0
+F,U,L,H,,65-74,,C,D,0,Smart Singles,,,,,,,,,,,,,0
+F,U,L,H,,65-74,,C,D,0,Smart Singles,,,,,,,,,,,,,0
+F,M,N,I,TRUE,65-74,H,A,D,0,Silver Sneakers,,5,,4,2,3,,3,,2,,2,0
+M,U,S,I,,75+,R,B,D,0,Old Money,,,5,,2,,,,,2,,1,0
+F,U,L,I,,75+,R,C,R,0,Golden Era,,,,,,,,,,,,,0
+F,U,N,I,TRUE,75+,R,B,D,0,Golden Era,,,,,5,,,,5,5,,5,0
+F,Q,O,I,TRUE,75+,H,E,D,0,Old Money,,4,,1,,,5,,,,,1,0
+M,Q,Q,I,,65-74,H,C,D,0,Single and Thriving,,,4,,5,,5,,,,,4,0
+M,Q,Q,I,,65-74,H,C,D,0,Single and Thriving,,,4,,5,,5,,,,,4,0
+F,Q,Q,I,FALSE,55-64,H,B,D,0,Single and Thriving,,5,,5,4,,,,,4,,4,0
+M,R,O,I,,75+,H,C,D,0,Senior Elite,,2,5,,,,4,,,,5,2,0
+M,R,O,I,,75+,H,C,D,0,Senior Elite,,2,5,,,,4,,,,5,2,0
+M,R,O,I,,75+,H,C,D,0,Senior Elite,,2,5,,,,4,,,,5,2,0
+F,Q,H,H,TRUE,75+,H,C,D,0,Blue Collar Boomers,,,,,4,,,,,4,,4,0
+F,Q,H,H,TRUE,75+,H,C,D,0,Blue Collar Boomers,,,,,4,,,,,4,,4,0
+M,U,N,I,TRUE,35-44,H,C,R,0,Working for the Weekend,,,,,,,,,,,,,0
+M,U,N,A,TRUE,65-74,H,D,L,0,Single Sophisticates,,,4,,5,5,,,,,,4,0
+M,Q,O,I,TRUE,75+,H,B,D,0,Urban Elites,,5,4,5,,,5,,,,,1,0
+F,Q,O,H,FALSE,45-54,H,D,D,0,Jet Setters,,,,,,,,,,,,2,0
+F,Q,O,I,,65-74,H,A,D,0,Urban Elites,,,,,,,,,,,,1,0
+F,U,L,I,,75+,H,C,D,0,Smart Singles,,,1,,,,,,,,,1,0
+F,S,R,I,TRUE,75+,H,B,D,0,Old Money,,,5,,2,2,,,,,,2,0
+F,S,R,I,TRUE,75+,H,B,D,0,Old Money,,,5,,2,2,,,,,,2,0
+F,S,R,I,TRUE,75+,H,B,D,0,Old Money,,,5,,2,2,,,,,,2,0
+F,U,O,H,,65-74,R,C,D,0,Urban Elites,,,,,,,,,,,,3,0
+F,,N,I,,75+,H,,D,0,Golden Era,,5,,,,,,,,,,5,0
+M,R,Q,I,,65-74,H,E,D,0,Urban Elites,,,,,,,,,,,,5,0
+M,R,Q,I,,65-74,H,E,D,0,Urban Elites,,,,,,,,,,,,5,0
+M,R,Q,I,,65-74,H,E,D,0,Urban Elites,,,,,,,,,,,,5,0
+M,D,F,G,TRUE,45-54,H,E,D,0,Family Values,,,,,,,,,,,,,0
+F,,R,I,,65-74,H,,L,0,Urban Elites,,,,,,,,,,,,,0
+M,P,P,I,TRUE,55-64,H,B,D,0,Single and Thriving,,,,,,,,,,,,2,0
+F,Q,Q,I,,65-74,H,C,D,0,Old Money,4,,2,,,,2,,,,,2,0
+M,S,O,I,,65-74,H,B,,0,Old Money,,,2,,5,,,,2,,,2,0
+F,U,O,I,TRUE,45-54,R,C,D,0,Jet Setters,,,,,,,,,,,,5,0
+M,U,L,G,TRUE,55-64,R,D,D,0,Single Sophisticates,,,,,,,,,,,,,0
+M,U,S,I,,65-74,H,,I,0,Senior Society,,,,,1,4,,,5,1,,1,0
+F,R,O,H,,65-74,H,B,D,0,Urban Elites,,,,,,,,,,,,4,0
+F,R,O,H,,65-74,H,B,D,0,Urban Elites,,,,,,,,,,,,4,0
+F,,N,I,,65-74,H,,D,0,Smart Singles,,,,,4,4,5,,,4,,1,0
+F,Q,O,I,TRUE,65-74,H,B,D,0,Urban Elites,,,,1,1,1,,4,4,2,2,1,0
+F,Q,R,I,FALSE,55-64,H,B,D,0,Single and Thriving,,,,,,,,,5,,,5,0
+F,,,I,TRUE,45-54,H,,D,0,Lowkey Luxe,,,,,,,,,,,,,0
+F,Q,S,I,,65-74,H,,D,0,Hometown Heroes,,,,,3,3,,,,5,,2,0
+M,P,O,H,TRUE,55-64,H,B,D,0,Single and Thriving,,,,,,,,,,,,,0
+M,P,O,H,TRUE,55-64,H,B,D,0,Single and Thriving,,,,,,,,,,,,,0
+F,Q,R,I,,65-74,H,B,D,0,Urban Elites,,,,,2,5,,2,,,,2,0
+F,,Q,H,FALSE,55-64,,,D,0,Jet Setters,,5,2,4,2,5,3,2,3,5,,2,0
+F,R,P,I,TRUE,65-74,H,B,D,0,Urban Elites,4,5,2,4,5,1,4,5,,,1,1,0
+F,Q,L,H,,75+,H,C,D,0,Smart Singles,,,,,,,,,,,,,0
+F,M,O,G,TRUE,55-64,H,G,L,0,Wealth Whispers,,,5,,,,,,,,,5,0
+F,M,O,G,TRUE,55-64,H,G,L,0,Wealth Whispers,,,5,,,,,,,,,5,0
+F,U,R,I,,75+,R,B,D,0,Urban Elites,,5,,2,,,3,,,,,1,0
+F,R,O,H,TRUE,35-44,H,D,D,0,Lowkey Luxe,3,5,2,2,1,3,3,5,5,1,,1,0
+F,R,P,I,,75+,H,B,D,0,Urban Elites,,,,3,,,,,,,,3,0
+F,S,S,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,,,,,5,,,,,5,,5,0
+M,U,O,I,,65-74,R,C,D,0,Single and Thriving,,,5,,5,,5,5,,,,5,0
+F,Q,F,H,FALSE,65-74,H,C,D,0,Urban Mashup,,,,,,,,,,,,1,0
+F,P,Q,H,TRUE,55-64,H,F,R,0,Wealth Whispers,,5,,,5,,,5,,5,,5,0
+F,D,L,G,,75+,H,B,L,0,Golden Era,,5,,,4,,,4,,,,4,0
+F,,G,I,,45-54,H,,D,0,Single and Surviving,,2,5,1,2,,3,2,,5,,1,0
+F,Q,O,I,TRUE,65-74,H,C,L,0,Old Money,,,,,,,,,,,,1,0
+F,,N,I,,75+,H,,D,0,Golden Era,,,,,5,,,5,,,,1,0
+F,R,N,H,,65-74,H,B,D,0,Smart Singles,,2,1,2,1,,5,1,,4,,1,0
+F,S,D,F,,75+,H,B,I,0,Mid Century Moderns,,,,,,,,,,,,2,0
+F,Q,R,G,TRUE,65-74,H,B,D,0,Wealth Whispers,,,,,,,,,,,,,0
+F,P,N,H,TRUE,75+,H,D,D,0,Golden Era,,,,,,,,,,,,,0
+M,U,O,H,TRUE,55-64,R,B,R,0,Single and Thriving,,3,,,,,,,,,,1,0
+M,,Q,I,TRUE,55-64,H,,D,0,Jet Setters,,,5,,,,5,,,,,1,0
+M,R,S,I,TRUE,65-74,H,B,R,0,Old Money,,,,,,,,,,,,,0
+F,R,S,I,TRUE,75+,H,C,,0,Senior Elite,,,,,,,,,,,,4,0
+M,U,N,I,,75+,H,,D,0,Golden Era,,,,5,,,5,,,,,1,0
+M,U,N,I,,75+,H,,D,0,Golden Era,,,,5,,,5,,,,,1,0
+M,U,N,I,,75+,H,,D,0,Golden Era,,,,5,,,5,,,,,1,0
+M,U,N,I,,75+,H,,D,0,Golden Era,,,,5,,,5,,,,,1,0
+F,C,O,H,,65-74,H,B,I,0,Urban Elites,,5,,2,2,1,,,,3,1,1,0
+F,M,F,G,,75+,H,C,D,0,Mid Century Moderns,,,,,,,,,,,,3,0
+M,S,S,I,TRUE,45-54,H,B,D,0,Jet Setters,,,2,,2,,,5,,2,5,1,0
+M,S,S,I,TRUE,45-54,H,B,D,0,Jet Setters,,,2,,2,,,5,,2,5,1,0
+F,I,O,I,TRUE,45-54,H,B,D,0,Jet Setters,,,,,,,,,,,,,0
+M,U,L,H,TRUE,75+,,C,D,0,Smart Singles,,,,,,,,,,,,4,0
+F,R,O,I,,65-74,H,B,D,0,Old Money,4,3,,4,1,1,4,5,,1,,1,0
+F,Q,O,I,,75+,H,C,L,0,Urban Elites,2,1,1,1,1,,4,,,1,5,1,0
+F,,O,I,,75+,H,,D,0,Senior Elite,,,,,,,,,,,,,0
+F,O,L,G,,75+,H,A,D,0,Golden Era,3,1,1,1,1,3,3,3,2,1,5,1,0
+F,Q,Q,I,,75+,H,A,D,0,Old Money,,,,5,,,,,,,,2,0
+F,Q,O,I,TRUE,65-74,H,C,R,0,Suburban Socialites,5,,,,,,,,,,,5,0
+F,Q,O,I,TRUE,65-74,H,C,R,0,Suburban Socialites,5,,,,,,,,,,,5,0
+M,S,R,I,TRUE,55-64,H,B,D,0,Suburban Socialites,4,5,5,3,4,5,5,4,2,5,,2,0
+F,R,Q,I,,75+,H,B,D,0,Urban Elites,,,,,1,1,,,,,,1,0
+F,U,N,I,FALSE,55-64,H,C,,0,Single Sophisticates,,,,,,,,,,4,,3,0
+M,Q,R,I,,45-54,H,B,I,0,Jet Setters,,5,1,,,,5,,3,,,1,0
+M,Q,R,I,,45-54,H,B,I,0,Jet Setters,,5,1,,,,5,,3,,,1,0
+F,,F,I,,75+,R,,R,0,Senior Discount,,,,,,,,,,,,1,0
+M,U,O,I,FALSE,55-64,R,C,D,0,Single and Thriving,,,,,,,,,,,,4,0
+F,Q,P,I,,75+,H,C,R,0,Senior Elite,,,,,,,,,,,,,0
+M,S,Q,I,,75+,H,A,D,0,Urban Elites,,5,5,4,5,5,,5,,,,2,0
+M,Q,R,I,,65-74,H,C,D,0,Old Money,,,,,,,,,,,,5,0
+M,U,O,I,,75+,R,B,D,0,Senior Elite,,3,5,,,1,,,,,1,1,0
+M,R,F,H,,65-74,H,B,D,0,Mid Century Moderns,,,,,,,,,,,,5,0
+F,,Q,I,,65-74,R,,R,0,Urban Elites,,,,5,1,1,4,,,5,,1,0
+F,,Q,I,,65-74,R,,R,0,Urban Elites,,,,5,1,1,4,,,5,,1,0
+F,S,Q,I,,65-74,H,B,D,0,Urban Elites,,,,,5,5,,5,,5,,2,0
+F,S,Q,I,,65-74,H,B,D,0,Urban Elites,,,,,5,5,,5,,5,,2,0
+F,S,Q,I,,65-74,H,B,D,0,Urban Elites,,,,,5,5,,5,,5,,2,0
+F,S,Q,I,,65-74,H,B,D,0,Urban Elites,,,,,5,5,,5,,5,,2,0
+F,U,F,A,TRUE,75+,H,D,D,0,Blue Collar Boomers,,,,,,,,,,,,,0
+M,R,S,I,,75+,H,B,D,0,Senior Elite,,5,,,,,,,,,,1,0
+F,S,H,I,,55-64,H,B,D,0,Melting Pot Medley,,,,,,,,,,,,,0
+F,Q,O,I,,45-54,H,B,D,0,Jet Setters,,,,,,,,,,,,,0
+F,Q,O,I,,45-54,H,B,D,0,Jet Setters,,,,,,,,,,,,,0
+F,M,L,H,TRUE,55-64,H,A,D,0,Single Sophisticates,,,,,,,,,,,,5,0
+M,A,O,H,,65-74,H,C,I,0,Wealth Whispers,,,5,1,4,5,5,,,4,3,1,0
+F,S,Q,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,,5,,,,5,,,,,4,0
+F,,Q,I,,65-74,H,,R,0,Urban Elites,,,2,1,2,,,5,,2,,1,0
+F,,Q,I,,65-74,H,,R,0,Urban Elites,,,2,1,2,,,5,,2,,1,0
+M,,N,G,,65-74,H,,D,0,Silver Sneakers,4,,,4,5,,,5,,,,4,0
+F,N,O,G,TRUE,65-74,H,D,L,0,Old Money,,,,,,,,,,,,5,0
+F,N,O,G,TRUE,65-74,H,D,L,0,Old Money,,,,4,5,5,5,5,,5,,2,0
+F,N,O,G,TRUE,65-74,H,D,L,0,Old Money,,,,4,5,5,5,5,,5,,2,0
+F,L,Q,I,TRUE,75+,H,B,R,0,Urban Elites,,,,,,,,,,,,,0
+F,U,O,H,TRUE,45-54,H,B,D,0,Jet Setters,,,,,5,5,5,,,,,3,0
+M,,N,G,TRUE,55-64,H,,D,0,Single Sophisticates,1,5,,,5,,,5,5,5,,1,0
+F,,S,I,TRUE,55-64,H,,D,0,Single and Thriving,,5,5,,3,5,,,5,3,3,3,0
+M,U,S,I,,55-64,H,B,I,0,Single and Thriving,,,3,,1,,,,,,,1,0
+F,S,N,I,TRUE,55-64,H,A,D,0,Working for the Weekend,,1,4,1,4,4,5,5,3,5,,1,0
+F,S,N,I,TRUE,55-64,H,A,D,0,Working for the Weekend,,1,4,1,4,4,5,5,3,5,,1,0
+F,R,B,H,TRUE,65-74,H,A,D,0,Urban Mashup,,,,,2,2,4,,,,,2,0
+F,Q,P,I,,75+,H,A,D,0,Senior Elite,,5,,1,5,,,5,,,,1,0
+M,O,O,I,TRUE,65-74,H,B,D,0,Old Money,,,,,,,,,,,,2,0
+F,O,N,I,,75+,H,B,D,0,Golden Era,,5,5,,3,1,,3,,5,1,1,0
+M,Q,P,I,TRUE,65-74,H,C,R,0,Wealth Whispers,,,,,,,,,5,,,1,0
+M,S,P,I,,75+,H,B,D,0,Urban Elites,,,,,,,,,,,,2,0
+M,S,P,I,,75+,H,B,D,0,Urban Elites,,,,,,,,,,,,2,0
+F,S,R,I,TRUE,75+,H,H,D,0,Urban Elites,,5,,,,,,5,,,,1,0
+F,U,N,E,TRUE,75+,R,B,D,0,Golden Era,,,,,,,,,5,,,2,0
+M,H,Q,I,TRUE,65-74,H,C,D,0,Old Money,,1,,,,,5,,3,,,1,0
+M,S,J,E,TRUE,55-64,H,B,I,0,Single Sophisticates,,,5,,5,,,,,5,,5,0
+M,A,N,H,FALSE,55-64,H,B,R,0,Country Clout,,,,,2,2,,,,5,,2,0
+F,U,S,I,TRUE,55-64,H,A,D,0,Hometown Heroes,,,5,,,,,,,,,2,0
+M,Q,,I,,75+,H,C,D,0,Old Money,,,,2,4,5,5,,,4,,2,0
+F,R,H,G,TRUE,35-44,H,C,D,0,Single and Surviving,,5,,,5,5,5,5,,,,2,0
+F,Q,N,H,,65-74,H,D,D,0,Smart Singles,,,,,,,,,,,,5,0
+F,M,S,H,,75+,H,D,R,0,Senior Elite,,,,,2,3,,,,2,,2,0
+F,Q,O,I,,75+,H,A,D,0,Country Club Set,4,5,4,,1,1,,,2,5,,1,0
+M,,H,I,,75+,H,,R,0,Senior Discount,,5,,,5,5,,,,,,1,0
+F,U,,I,FALSE,45-54,R,B,R,0,Jet Setters,1,,5,1,5,,,,,5,,1,0
+F,U,L,A,FALSE,55-64,R,F,D,0,Working for the Weekend,,,,,4,,,,,4,,4,0
+F,,N,I,,65-74,H,,D,0,Smart Singles,,,,,,,,,,,,3,0
+F,R,Q,I,TRUE,55-64,H,C,D,0,Wealth Whispers,,4,5,,3,4,,4,5,3,,1,0
+M,R,P,I,TRUE,65-74,H,B,D,0,Urban Elites,,,,,,,,,,,,,0
+F,Q,H,H,TRUE,55-64,H,B,I,0,Urban Mashup,,5,,1,2,,,2,,,1,1,0
+F,S,S,I,,75+,H,C,I,0,Senior Elite,,,,5,,,,,,,,1,0
+M,U,D,A,TRUE,45-54,R,,I,0,Single and Surviving,,,,,,,,,,,,1,0
+M,S,Q,I,,75+,H,B,D,0,Urban Elites,,,,,,,,,,,,3,0
+F,U,B,F,TRUE,55-64,R,B,D,0,Urban Mashup,,,,2,4,,,4,,5,,2,0
+F,,C,G,FALSE,55-64,H,,,0,Single and Surviving,,,,,,,,,,,,,0
+F,U,Q,I,TRUE,55-64,H,A,D,0,Single and Thriving,,4,1,5,1,,1,2,,1,,1,0
+M,R,L,H,TRUE,65-74,H,G,D,0,Smart Singles,,,,,,,,,1,,,1,0
+M,Q,Q,I,,75+,H,A,D,0,Old Money,,,,,,,,,,,,5,0
+M,U,R,H,TRUE,55-64,R,B,D,0,Lowkey Luxe,5,2,1,2,4,4,,5,5,5,,1,0
+M,U,O,H,TRUE,65-74,R,C,D,0,Urban Elites,,,5,,,,,,,,,5,0
+F,O,N,I,,65-74,H,B,R,0,Smart Singles,,,1,,,,1,,,,,1,0
+F,S,O,H,FALSE,55-64,H,B,D,0,Single and Thriving,2,,,,4,,,,,4,,2,0
+F,U,O,I,TRUE,55-64,,,,0,Single and Thriving,5,5,,5,,,,,,,,5,0
+F,D,N,F,,65-74,H,D,D,0,Silver Sneakers,,,,,,,,,,,,4,0
+F,U,B,A,,55-64,R,F,D,0,Urban Mashup,,,,1,,,,,,,,1,0
+F,U,B,A,,55-64,R,F,D,0,Urban Mashup,,,,1,,,,,,,,1,0
+M,U,K,H,TRUE,65-74,H,B,D,0,Smart Singles,,,,,,,,,,,,2,0
+F,P,O,I,TRUE,65-74,H,B,D,0,Single and Thriving,,5,,2,3,,,,,3,,2,0
+F,P,O,I,TRUE,65-74,H,B,D,0,Single and Thriving,,5,,2,3,,,,,3,,2,0
+F,P,O,I,TRUE,65-74,H,B,D,0,Single and Thriving,,5,,2,3,,,,,3,,2,0
+M,S,S,I,,75+,H,B,D,0,Old Money,,,,,,,,,,,,5,0
+F,J,B,A,TRUE,55-64,H,D,I,0,Urban Mashup,,,,,,,5,,,,,1,0
+F,O,S,I,,75+,H,B,D,0,Old Money,,,,,,,,,,,,2,0
+M,,Q,I,TRUE,35-44,H,,D,0,Glitterati,,,2,,,,2,,,,,2,0
+M,,Q,I,TRUE,35-44,H,,D,0,Glitterati,,,2,,,,2,,,,,2,0
+F,Q,Q,I,FALSE,55-64,H,B,D,0,Single and Thriving,,,4,,2,5,,,,3,,2,0
+F,Q,Q,I,FALSE,55-64,H,B,D,0,Single and Thriving,,,4,,2,5,,,,3,,2,0
+F,O,R,I,TRUE,55-64,H,B,,0,Single and Thriving,,5,4,2,5,5,3,5,,5,,2,0
+M,Q,N,H,,65-74,H,C,R,0,Silver Sneakers,,4,5,,5,,,5,,,,4,0
+M,Q,N,H,,65-74,H,C,R,0,Silver Sneakers,,4,5,,5,,,5,,,,4,0
+M,Q,N,H,,65-74,H,C,R,0,Silver Sneakers,,4,5,,5,,,5,,,,4,0
+M,Q,N,H,,65-74,H,C,R,0,Silver Sneakers,,4,5,,5,,,5,,,,4,0
+F,U,P,H,TRUE,45-54,H,,L,0,Lowkey Luxe,,1,4,2,,,2,,1,,2,1,0
+F,,N,G,TRUE,55-64,H,,D,0,Single Sophisticates,4,5,,,,,,,,,,4,0
+F,U,G,H,TRUE,45-54,H,,D,0,Single and Surviving,,2,2,2,2,,,,,2,,1,0
+F,U,G,H,TRUE,45-54,H,,D,0,Single and Surviving,,2,2,2,2,,,,,2,,1,0
+M,U,L,H,,65-74,H,C,D,0,Single Sophisticates,,,,,,,,,,,,3,0
+M,U,L,H,,65-74,H,C,D,0,Single Sophisticates,,,,,,,,,,,,3,0
+M,U,L,H,,65-74,H,C,D,0,Single Sophisticates,,,,,,,,,,,,3,0
+M,R,Q,I,,75+,H,B,D,0,Senior Elite,,,,,,,,,,,,2,0
+F,U,L,F,,55-64,H,B,D,0,Single Sophisticates,,,,,3,,,,,4,,3,0
+F,R,R,I,TRUE,45-54,H,B,D,0,Lowkey Luxe,5,,,,,,5,,3,,,2,0
+M,U,L,I,,65-74,R,C,D,0,Smart Singles,,,,,,,,,,,,,0
+M,R,S,I,TRUE,45-54,H,B,R,0,Jet Setters,,5,2,,4,4,,5,2,5,,2,0
+M,U,D,G,FALSE,45-54,R,C,R,0,Single and Surviving,,,4,,,,,,5,,,4,0
+F,R,R,I,,75+,H,B,D,0,Urban Elites,,,,,,,,,,,,2,0
+M,S,N,H,,65-74,H,A,I,0,Affluent Acres,,,,,,,,,,,,,0
+M,,R,I,TRUE,65-74,H,,R,0,Old Money,,,5,5,4,,5,,5,4,,3,0
+M,S,S,I,,75+,H,D,R,0,Old Money,,,,,,,,,,,,,0
+F,O,L,G,,65-74,H,B,D,0,Silver Sneakers,,,,,,,,,,,,4,0
+F,S,N,A,TRUE,45-54,R,C,D,0,Working for the Weekend,,5,1,,3,4,5,3,,5,,1,0
+F,Q,N,H,TRUE,45-54,H,C,R,0,Working for the Weekend,,1,5,4,3,,5,3,5,,5,1,0
+M,P,O,I,,65-74,H,B,D,0,Urban Elites,,,1,,,,,,3,,,1,0
+F,Q,N,I,,75+,H,B,D,0,Retired and Relaxed,,,5,,,,5,,,,,5,0
+M,S,N,G,TRUE,45-54,H,B,,0,Movin On Up,,4,5,,2,2,,,,,,2,0
+M,U,O,H,TRUE,45-54,H,B,I,0,Jet Setters,5,,,1,5,,,,,5,,1,0
+M,U,O,H,TRUE,45-54,H,B,I,0,Jet Setters,5,,,1,5,,,,,5,,1,0
+F,Q,O,I,,75+,H,B,I,0,Old Money,,,,,5,,,,,5,,2,0
+F,K,B,A,,75+,H,E,R,0,Mid Century Moderns,5,,,,,,5,,,,,1,0
+M,Q,P,I,TRUE,45-54,H,E,D,0,Lowkey Luxe,4,5,1,,,,1,,,,,1,0
+M,Q,P,I,TRUE,45-54,H,E,D,0,Lowkey Luxe,4,5,1,,,,1,,,,,1,0
+M,R,Q,H,TRUE,55-64,H,B,D,0,Wealth Whispers,5,2,,,5,,5,,4,,,1,0
+F,P,L,A,TRUE,55-64,H,C,R,0,Movin On Up,5,,,,5,5,,,,,,5,0
+F,P,L,A,TRUE,55-64,H,C,R,0,Movin On Up,5,,,,5,5,,,,,,5,0
+F,U,N,G,FALSE,55-64,H,F,D,0,Dynamic Duos,,4,4,,,,,5,,,,4,0
+M,S,L,E,TRUE,65-74,H,D,N,0,Single Sophisticates,,,,,,,,,,,,,0
+F,Q,R,G,TRUE,35-44,H,A,R,0,Glitterati,5,,,,,,3,5,2,,,2,0
+F,R,N,I,,75+,H,C,D,0,Silver Sneakers,,3,2,,4,5,5,4,2,4,5,2,0
+F,R,O,I,TRUE,55-64,H,D,D,0,Wealth Whispers,,4,,,,,5,,,,5,3,0
+F,Q,Q,I,TRUE,55-64,H,C,R,0,Wealth Whispers,,,2,,2,,2,,,2,,2,0
+F,Q,R,I,,65-74,H,F,D,0,Urban Elites,,,,,,,,,,,,5,0
+F,S,R,I,,55-64,H,D,D,0,Wealth Whispers,,5,5,,4,4,,,,,5,2,0
+F,Q,R,I,TRUE,55-64,H,C,D,0,Wealth Whispers,5,5,,,,,,,,,5,5,0
+F,K,A,F,TRUE,35-44,H,C,D,0,Single and Surviving,,,,,,,,,,,,4,0
+F,K,A,F,TRUE,35-44,H,C,D,0,Single and Surviving,,,,,,,,,,,,4,0
+F,K,A,F,TRUE,35-44,H,C,D,0,Single and Surviving,,,,,,,,,,,,4,0
+M,R,N,I,,75+,H,B,I,0,Silver Sneakers,,1,,,,,,,,,,1,0
+M,R,P,I,TRUE,45-54,H,C,,0,Jet Setters,,,,,,,,,,,,1,0
+F,R,S,I,,65-74,H,C,D,0,Old Money,3,5,5,,,,,,,,,1,0
+F,Q,O,I,TRUE,75+,H,A,R,0,Old Money,,,,,,,,,,,,2,0
+M,R,N,H,TRUE,45-54,H,C,D,0,Working for the Weekend,,4,2,,5,5,5,,4,,,2,0
+F,Q,I,I,,65-74,H,D,N,0,American Classics,5,3,,5,5,5,3,5,,,,3,0
+M,U,B,A,,75+,R,E,D,0,Senior Discount,,,,,,,,,,,,2,0
+M,U,B,A,,75+,R,E,D,0,Senior Discount,,,,,,,,,,,,2,0
+M,U,B,A,,75+,R,E,D,0,Senior Discount,,,,,,,,,,,,2,0
+F,Q,A,A,FALSE,45-54,H,D,D,0,Single and Surviving,,5,,,5,5,,,,,,1,0
+F,Q,A,A,FALSE,45-54,H,D,D,0,Single and Surviving,,5,,,5,5,,,,,,1,0
+F,R,Q,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,5,,,1,,,,,1,,1,0
+F,R,Q,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,5,,,1,,,,,1,,1,0
+F,R,Q,I,TRUE,55-64,H,B,R,0,Wealth Whispers,,5,,,1,,,,,1,,1,0
+M,R,O,H,TRUE,55-64,H,C,I,0,Single and Thriving,,,,,,,,,,,,5,0
+F,Q,P,I,TRUE,65-74,H,B,,0,Old Money,,,,,,,,,,,,1,0
+F,U,N,A,TRUE,55-64,R,E,R,0,Dynamic Duos,,4,,,2,,,,,2,,1,0
+F,Q,O,H,TRUE,55-64,H,F,I,0,Wealth Whispers,5,,,,,,,,,,,2,0
+F,U,F,A,TRUE,65-74,H,G,D,0,Urban Mashup,5,,,,,,,,,,,5,0
+F,U,F,A,TRUE,65-74,H,G,D,0,Urban Mashup,5,,,,,,,,,,,5,0
+F,U,B,A,TRUE,75+,R,E,D,0,Senior Discount,,,,,,,,,,,,1,0
+F,U,B,A,TRUE,75+,R,E,D,0,Senior Discount,,,,,,,,,,,,1,0
+F,U,F,G,TRUE,45-54,H,,R,0,Single and Surviving,,5,,,,,,,,,,4,0
+F,Q,N,H,,65-74,H,E,D,0,Silver Sneakers,,,,,,5,,,,,,1,0
+F,Q,O,I,,55-64,H,D,D,0,Single and Thriving,5,,,,,,,,5,,,5,0
+F,Q,O,I,,55-64,H,D,D,0,Single and Thriving,5,,,,,,,,5,,,5,0
+F,P,B,A,,55-64,H,E,D,0,Urban Mashup,3,,,,,,5,,,,,3,0
+F,R,R,I,TRUE,65-74,H,C,D,0,Old Money,5,5,5,5,4,4,,,,4,,1,0
+M,M,O,I,,75+,H,A,R,0,Old Money,5,,1,5,,,,,5,,,1,0
+M,M,O,I,,75+,H,A,R,0,Old Money,5,,1,5,,,,,5,,,1,0
+F,U,B,G,FALSE,55-64,R,C,D,0,Urban Mashup,,5,5,,2,2,,,,2,,1,0
+F,R,S,I,TRUE,55-64,H,B,D,0,Single and Thriving,,3,1,2,4,,2,5,5,4,1,1,0
+F,U,D,A,TRUE,35-44,R,C,D,0,Subway Surfers,,,,,,,,,,,,5,0
+F,M,R,I,,75+,H,B,D,0,Senior Elite,5,5,5,,2,2,,,,3,,1,0
+F,U,S,I,,65-74,H,C,L,0,Urban Elites,5,,1,,4,,5,,,,,1,0
+F,Q,O,I,TRUE,75+,H,C,D,0,Urban Elites,5,,,,5,5,,5,,,,2,0
+F,,J,E,TRUE,65-74,H,,R,0,Single Sophisticates,,,,5,,,,,,,,1,0
+F,O,F,E,TRUE,65-74,H,E,D,0,Blue Collar Boomers,,,,,,,,,,,,4,0
+F,Q,N,I,,65-74,H,B,I,0,Smart Singles,,,,,5,,,5,,,,4,0
+F,Q,N,I,,65-74,H,B,I,0,Smart Singles,,,,,5,,,5,,,,4,0
+F,Q,N,I,,65-74,H,B,I,0,Smart Singles,,,,,5,,,5,,,,4,0
+F,Q,N,I,,65-74,H,B,I,0,Smart Singles,,,,,5,,,5,,,,4,0
+M,S,P,I,,65-74,H,B,D,0,Wealth Whispers,3,5,3,,5,,,5,,5,,3,0
+F,G,B,A,,75+,H,E,D,0,Mid Century Moderns,,,,,,,,,,,,4,0
+F,G,B,A,,75+,H,E,D,0,Mid Century Moderns,,,,,,,,,,,,4,0
+F,N,P,I,,65-74,H,C,D,0,Urban Elites,5,3,5,,1,4,,5,,1,,1,0
+F,K,L,I,TRUE,75+,H,B,I,0,Smart Singles,,,,,,,,,,,,,0
+F,K,L,I,TRUE,75+,H,B,I,0,Smart Singles,,,,,,,,,,,,,0
+F,U,A,A,TRUE,55-64,R,C,R,0,Urban Mashup,,,,,,,,,,,,2,0
+F,U,A,A,TRUE,55-64,R,C,R,0,Urban Mashup,,,,,,,,,,,,2,0
+F,U,A,A,TRUE,55-64,R,C,R,0,Urban Mashup,,,,,,,,,,,,2,0
+M,U,D,A,FALSE,45-54,R,D,D,0,Single and Surviving,,,,,,,,,,,,,0
+M,R,F,D,TRUE,75+,H,D,D,0,Mid Century Moderns,5,,,,5,5,,,4,,,4,0
+M,U,N,I,,75+,H,B,I,0,Smart Singles,2,5,,,1,,,1,,3,,1,0
+F,U,F,E,FALSE,45-54,R,B,,0,Single and Surviving,,,,4,,,4,,,,,4,0
+M,Q,S,I,,75+,H,A,D,0,Old Money,,5,,,2,5,,,,2,,2,0
+M,S,S,I,TRUE,55-64,H,D,D,0,Wealth Whispers,,4,1,1,1,5,3,4,2,1,5,1,0
+F,S,S,I,,75+,H,A,D,0,Senior Elite,,5,5,,,,5,,,,,2,0
+F,S,S,I,TRUE,65-74,H,B,I,0,Old Money,5,2,1,2,1,5,1,,5,4,3,1,0
+M,J,O,G,,55-64,H,D,,0,Suburban Socialites,,4,,,,,,,,,,3,0
+M,J,O,G,,55-64,H,D,,0,Suburban Socialites,,4,,,,,,,,,,3,0
+M,P,O,I,TRUE,55-64,H,C,D,0,Suburban Socialites,,,,,,,,,,,,,0
+F,R,R,I,TRUE,65-74,H,B,D,0,Old Money,,2,4,,5,,5,,,,,1,0
+F,P,O,I,,55-64,H,D,D,0,Minivans and Malls,,,,,5,5,,,,,,5,0
+M,S,D,A,,65-74,H,C,R,0,Urban Mashup,,,3,,,,,,1,,,1,0
+F,Q,O,I,TRUE,75+,H,C,D,0,Senior Elite,,,,,,,,,,,,5,0
+F,S,R,I,TRUE,55-64,H,B,D,0,Lowkey Luxe,,5,,,,,,,,,,5,0
+F,S,S,I,TRUE,55-64,H,A,D,0,Wealth Whispers,,,,,,,,,,,,2,0
+F,K,N,H,TRUE,65-74,H,E,D,0,Country Clout,,,,,2,2,4,,,,,2,0
+F,K,N,H,TRUE,65-74,H,E,D,0,Country Clout,,,,,2,2,4,,,,,2,0
+F,S,S,I,TRUE,55-64,H,C,R,0,Wealth Whispers,,5,2,2,2,3,2,,5,2,,1,0
+F,Q,S,I,TRUE,75+,H,B,R,0,Country Club Set,2,5,,,2,2,,3,,,,1,0
+M,A,O,H,,65-74,H,C,D,0,Senior Society,,,,5,,,,,,,,5,0
+F,R,O,H,TRUE,45-54,H,B,I,0,Lowkey Luxe,,,,,,,,,,,,1,0
+F,S,S,I,TRUE,45-54,H,C,D,0,Minivans and Malls,,4,2,1,5,,,5,5,,,1,0
+F,R,,I,TRUE,45-54,H,A,I,0,Minivans and Malls,4,5,,5,4,5,5,4,5,,5,1,0
+F,Q,Q,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,1,,3,,,5,,3,,,1,0
+M,Q,Q,H,,55-64,H,C,I,0,Suburban Socialites,,,5,,4,,,,,4,5,4,0
+M,R,P,I,FALSE,65-74,H,C,R,0,Suburban Socialites,,,5,,,,,,,,,5,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,5,,5,,5,5,,,,3,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Suburban Socialites,,,5,,5,,5,5,,,,3,0
+F,S,S,I,TRUE,55-64,H,A,D,0,Wealth Whispers,5,5,,,,,,,,,,5,0
+F,O,O,I,TRUE,65-74,H,B,I,0,Hometown Heroes,,,5,,,,5,,,,,1,0
+F,S,S,I,TRUE,65-74,H,C,R,0,Single and Thriving,,,4,,5,,,,,5,4,2,0
+F,S,R,I,TRUE,65-74,H,A,D,0,Urban Elites,,,,,3,,5,4,5,3,,3,0
+F,S,K,I,TRUE,45-54,H,F,R,0,Movin On Up,,1,5,1,2,3,5,,,2,,1,0
+F,S,O,I,TRUE,65-74,H,A,D,0,Old Money,,5,1,,4,,3,,,4,,1,0
+F,R,S,I,TRUE,65-74,H,B,D,0,Urban Elites,5,3,5,2,2,3,,5,,2,,1,0
+M,U,S,I,TRUE,65-74,H,D,D,0,Wealth Whispers,,5,5,,5,5,5,,5,5,,2,0
+F,S,S,I,TRUE,35-44,H,B,,0,Life in the Fast Lane,5,3,1,2,2,,,3,,2,,1,0
+F,U,B,I,,65-74,H,B,D,0,Blue Collar Boomers,,,,,,,,,,,,,0
+F,U,B,I,,65-74,H,B,D,0,Blue Collar Boomers,,,,,,,,,,,,,0
+F,U,B,I,,65-74,H,B,D,0,Blue Collar Boomers,,,,,,,,,,,,,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Minivans and Malls,,5,1,3,5,,1,,,5,3,1,0
+F,R,P,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,5,,4,,,5,,4,,4,0
+F,S,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,5,2,2,1,2,,3,2,3,5,,1,0
+F,O,O,I,TRUE,75+,H,C,D,0,Senior Elite,,,,,,,,,,,,2,0
+M,U,O,G,,65-74,H,A,D,0,Old Money,,,,,,,,,,,,5,0
+M,,F,A,FALSE,45-54,H,,,0,Single and Surviving,,,,,,,,,,,,,0
+M,S,S,I,TRUE,55-64,H,B,,0,Single and Thriving,,,,,1,,,,,1,,1,0
+F,U,R,I,TRUE,65-74,H,B,D,0,Wealth Whispers,5,,,,5,,,5,,,,5,0
+F,U,O,H,TRUE,75+,H,,,0,Old Money,,4,,,,,,5,,,,1,0
+F,N,R,G,,75+,H,C,R,0,Country Club Set,,,,,,,,,,,,,0
+F,,,,TRUE,65-74,H,,R,0,Old Money,4,3,4,5,3,,5,5,5,5,,2,0
+F,,,,TRUE,65-74,H,,R,0,Old Money,4,3,4,5,3,,5,5,5,5,,2,0
+F,M,N,H,TRUE,75+,H,,D,0,Golden Era,,,,,,,,,,,,4,0
+F,P,O,G,TRUE,65-74,H,B,D,0,Old Money,4,4,2,2,5,5,4,,3,,,1,0
+F,R,S,I,TRUE,55-64,H,D,D,0,Wealth Whispers,,5,,,5,5,,,5,,,2,0
+F,Q,S,I,TRUE,55-64,H,B,D,0,Wealth Whispers,,,,,,,,,,,,2,0
+F,R,S,I,TRUE,45-54,H,C,D,0,Lowkey Luxe,,2,3,,1,,,1,2,,,1,0
+M,U,S,I,TRUE,45-54,H,,I,0,Lowkey Luxe,,,5,,5,5,,,,,,5,0
+M,R,N,I,TRUE,35-44,H,F,D,0,Downtown Dreamers,3,3,1,,3,,,,2,3,,1,0
+M,D,H,E,,65-74,H,G,D,0,Mid Century Moderns,4,,,,,,,,,,,4,0

@@ -1,0 +1,163 @@
+0
+CONFIDENCE_LEVEL
+Childrens_Recency_of_Purchase
+Fashion_Accessories_and_Beauty_Recency_of_Purchase
+Female_and_Male_Apparel_Recency_of_Purchase
+High_Ticket_Female_Apparel_Acc_Recency_of_Purchase
+High_Ticket_Home_Decor_Recency_of_Purchase
+Home_Decor_Recency_of_Purchase
+Intimate_Apparel_and_Undergarments_Recency_of_Purchase
+Kitchen_and_Bath_Recency_of_Purchase
+Male_Apparel_Recency_of_Purchase
+Modern_Contemporary_Decor_and_Gifts_Recency_of_Purchase
+Other_Recency_of_Purchase
+Purchase_Date_Range
+GENDER_F
+GENDER_M
+GENDER_MISSING
+AGE_18-24
+AGE_25-34
+AGE_35-44
+AGE_45-54
+AGE_55-64
+AGE_65-74
+AGE_75+
+AGE_MISSING
+HOMEOWNER_8
+HOMEOWNER_9
+HOMEOWNER_H
+HOMEOWNER_MISSING
+HOMEOWNER_R
+CREDIT_RATING_A
+CREDIT_RATING_B
+CREDIT_RATING_C
+CREDIT_RATING_D
+CREDIT_RATING_E
+CREDIT_RATING_F
+CREDIT_RATING_G
+CREDIT_RATING_H
+CREDIT_RATING_MISSING
+PART_AFFILIATION_D
+PART_AFFILIATION_G
+PART_AFFILIATION_I
+PART_AFFILIATION_L
+PART_AFFILIATION_MISSING
+PART_AFFILIATION_N
+PART_AFFILIATION_O
+PART_AFFILIATION_R
+PART_AFFILIATION_U
+BUBBLES_Affluent Acres
+BUBBLES_American Classics
+BUBBLES_American Dreamers
+BUBBLES_Average Joes
+BUBBLES_Back at the Ranch
+BUBBLES_Blue Collar Boomers
+BUBBLES_Comfortable Couples
+BUBBLES_Country Clout
+BUBBLES_Country Club Set
+BUBBLES_Date Nights City Lights
+BUBBLES_Downtown Dreamers
+BUBBLES_Dynamic Duos
+BUBBLES_Family Values
+BUBBLES_Fast Food Families
+BUBBLES_Friday Night Lights
+BUBBLES_Glitterati
+BUBBLES_Golden Era
+BUBBLES_Greatest Generation
+BUBBLES_High Tech Rednecks
+BUBBLES_Home for the Holidays
+BUBBLES_Hometown Heroes
+BUBBLES_Jet Setters
+BUBBLES_Keeping Up With The Joneses
+BUBBLES_Life in the Fast Lane
+BUBBLES_Local Legends
+BUBBLES_Lowkey Luxe
+BUBBLES_MISSING
+BUBBLES_Melting Pot Medley
+BUBBLES_Mid Century Moderns
+BUBBLES_Minivans and Malls
+BUBBLES_Modern Family
+BUBBLES_Movin On Up
+BUBBLES_Not in My Backyard
+BUBBLES_Old Money
+BUBBLES_Patriotic and Proud
+BUBBLES_Penny Pinching Couples
+BUBBLES_Pickup Trucks and Politics
+BUBBLES_Pleasantville
+BUBBLES_Retired and Relaxed
+BUBBLES_Senior Discount
+BUBBLES_Senior Elite
+BUBBLES_Senior Society
+BUBBLES_Silver Sneakers
+BUBBLES_Single Sophisticates
+BUBBLES_Single and Strategic
+BUBBLES_Single and Surviving
+BUBBLES_Single and Thriving
+BUBBLES_Single in the Suburbs
+BUBBLES_Smart Singles
+BUBBLES_Social Climbers
+BUBBLES_Startup Nation
+BUBBLES_Suburban Socialites
+BUBBLES_Subway Surfers
+BUBBLES_Successful Singles
+BUBBLES_Tik Tok and Tie Dye
+BUBBLES_Trade School Success Stories
+BUBBLES_Urban Elites
+BUBBLES_Urban Mashup
+BUBBLES_Wealth Whispers
+BUBBLES_Working for the Weekend
+BUBBLES_Young Middle Managers
+PRES_KIDS_False
+PRES_KIDS_True
+PRES_KIDS_MISSING
+HOME_VALUE_A
+HOME_VALUE_B
+HOME_VALUE_C
+HOME_VALUE_D
+HOME_VALUE_E
+HOME_VALUE_F
+HOME_VALUE_G
+HOME_VALUE_H
+HOME_VALUE_I
+HOME_VALUE_J
+HOME_VALUE_K
+HOME_VALUE_L
+HOME_VALUE_M
+HOME_VALUE_MISSING
+HOME_VALUE_N
+HOME_VALUE_O
+HOME_VALUE_P
+HOME_VALUE_Q
+HOME_VALUE_R
+HOME_VALUE_S
+HOME_VALUE_U
+HH_INCOME_A
+HH_INCOME_B
+HH_INCOME_C
+HH_INCOME_D
+HH_INCOME_E
+HH_INCOME_F
+HH_INCOME_G
+HH_INCOME_H
+HH_INCOME_I
+HH_INCOME_J
+HH_INCOME_K
+HH_INCOME_L
+HH_INCOME_M
+HH_INCOME_MISSING
+HH_INCOME_N
+HH_INCOME_O
+HH_INCOME_P
+HH_INCOME_Q
+HH_INCOME_R
+HH_INCOME_S
+NET_WORTH_A
+NET_WORTH_B
+NET_WORTH_C
+NET_WORTH_D
+NET_WORTH_E
+NET_WORTH_F
+NET_WORTH_G
+NET_WORTH_H
+NET_WORTH_I
+NET_WORTH_MISSING

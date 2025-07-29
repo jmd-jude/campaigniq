@@ -1,0 +1,133 @@
+variable,condition,adjustment
+BASE,always,1000
+BUBBLES,Senior Discount,-316
+Modern_Contemporary_Decor_and_Gifts_Recency_of_Purchase,any,-304
+HOME,VALUE_S,288
+BUBBLES,Pleasantville,-265
+CREDIT,RATING_F,-247
+BUBBLES,Pickup Trucks and Politics,-231
+NET,WORTH_D,-203
+BUBBLES,Keeping Up With The Joneses,-192
+AGE,25-34,-187
+BUBBLES,Life in the Fast Lane,182
+High_Ticket_Home_Decor_Recency_of_Purchase,any,-182
+BUBBLES,Greatest Generation,-177
+BUBBLES,Jet Setters,173
+CREDIT,RATING_H,-171
+BUBBLES,Modern Family,-170
+HOME,VALUE_D,-167
+BUBBLES,Family Values,-163
+GENDER,M,160
+Purchase,any,-155
+BUBBLES,Social Climbers,155
+BUBBLES,Date Nights City Lights,151
+BUBBLES,Not in My Backyard,-151
+BUBBLES,Working for the Weekend,150
+HOMEOWNER,H,-147
+HOME,VALUE_C,-143
+BUBBLES,Single Sophisticates,143
+NET,WORTH_I,141
+BUBBLES,Local Legends,-141
+BUBBLES,Urban Elites,140
+BUBBLES,Suburban Socialites,-131
+PRES,KIDS_True,-131
+NET,WORTH_H,128
+HH,INCOME_P,-126
+NET,WORTH_A,-125
+HOME,VALUE_U,121
+BUBBLES,Single and Thriving,117
+BUBBLES,Fast Food Families,-111
+HH,INCOME_F,109
+Kitchen_and_Bath_Recency_of_Purchase,any,-106
+BUBBLES,Downtown Dreamers,104
+BUBBLES,Single and Strategic,104
+HOME,VALUE_H,-103
+AGE,18-24,-101
+BUBBLES,Hometown Heroes,96
+PART,AFFILIATION_I,-93
+PART,AFFILIATION_MISSING,90
+BUBBLES,Trade School Success Stories,-89
+BUBBLES,Senior Elite,86
+HH,INCOME_H,83
+BUBBLES,Home for the Holidays,-83
+BUBBLES,Single and Surviving,82
+BUBBLES,Wealth Whispers,-79
+CREDIT,RATING_B,-79
+BUBBLES,Penny Pinching Couples,76
+HH,INCOME_I,72
+HOME,VALUE_P,-72
+HOME,VALUE_B,69
+AGE,75+,-66
+BUBBLES,Old Money,-65
+BUBBLES,Minivans and Malls,-62
+HOME,VALUE_G,61
+BUBBLES,Urban Mashup,-61
+CREDIT,RATING_G,61
+PART,AFFILIATION_L,-60
+BUBBLES,Glitterati,56
+BUBBLES,Patriotic and Proud,55
+PART,AFFILIATION_N,-55
+BUBBLES,Friday Night Lights,-54
+PART,AFFILIATION_D,54
+BUBBLES,High Tech Rednecks,-51
+BUBBLES,Country Club Set,-51
+HH,INCOME_G,49
+CREDIT,RATING_D,-49
+BUBBLES,Single in the Suburbs,-48
+CREDIT,RATING_MISSING,47
+BUBBLES,Affluent Acres,-47
+BUBBLES,Melting Pot Medley,-47
+HH,INCOME_A,46
+HOMEOWNER,9,-46
+BUBBLES,Subway Surfers,46
+BUBBLES,Senior Society,45
+HOME,VALUE_N,-45
+BUBBLES,Golden Era,-44
+BUBBLES,Startup Nation,-43
+HOME,VALUE_Q,-43
+HH,INCOME_N,-40
+HOME,VALUE_J,-37
+HH,INCOME_J,-37
+BUBBLES,Successful Singles,36
+BUBBLES,Back at the Ranch,36
+High_Ticket_Female_Apparel_Acc_Recency_of_Purchase,any,-36
+HH,INCOME_E,35
+BUBBLES,Young Middle Managers,33
+GENDER,MISSING,-31
+PART,AFFILIATION_U,-30
+HOME,VALUE_R,29
+CREDIT,RATING_A,-29
+HH,INCOME_MISSING,-29
+BUBBLES,Dynamic Duos,-29
+Home_Decor_Recency_of_Purchase,any,-28
+BUBBLES,Lowkey Luxe,-28
+BUBBLES,Silver Sneakers,-27
+PRES,KIDS_False,27
+Fashion_Accessories_and_Beauty_Recency_of_Purchase,any,26
+NET,WORTH_F,26
+NET,WORTH_C,25
+BUBBLES,Movin On Up,23
+AGE,65-74,23
+HOME,VALUE_L,-22
+Childrens_Recency_of_Purchase,any,-22
+BUBBLES,American Classics,-20
+HOMEOWNER,8,20
+CONFIDENCE,LEVEL,20
+HH,INCOME_M,20
+HH,INCOME_B,-19
+BUBBLES,Comfortable Couples,-19
+NET,WORTH_MISSING,-15
+HOME,VALUE_M,15
+HOME,VALUE_O,14
+Female_and_Male_Apparel_Recency_of_Purchase,any,-14
+HH,INCOME_Q,-14
+Intimate_Apparel_and_Undergarments_Recency_of_Purchase,any,14
+BUBBLES,Retired and Relaxed,-13
+PART,AFFILIATION_O,-13
+BUBBLES,Tik Tok and Tie Dye,-13
+HOME,VALUE_A,13
+PART,AFFILIATION_G,-12
+AGE,45-54,11
+HOME,VALUE_K,11
+AGE,MISSING,10
+CREDIT,RATING_E,10

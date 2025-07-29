@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automated Campaign Analytics - Partnership Opportunity</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8fafc;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Navigation */
+        nav {
+            background: #fff;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .nav-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 0;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #2563eb;
+        }
+
+        .nav-menu {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-item {
+            cursor: pointer;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            transition: background-color 0.3s;
+        }
+
+        .nav-item:hover {
+            background-color: #f1f5f9;
+        }
+
+        .nav-item.active {
+            background-color: #2563eb;
+            color: white;
+        }
+
+        /* Content Sections */
+        .content {
+            margin-top: 80px;
+            min-height: calc(100vh - 80px);
+        }
+
+        .section {
+            display: none;
+            padding: 3rem 0;
+        }
+
+        .section.active {
+            display: block;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 4rem 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            margin-bottom: 3rem;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+
+        .card h2 {
+            color: #1e293b;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+        }
+
+        .card h3 {
+            color: #475569;
+            margin: 1.5rem 0 1rem;
+            font-size: 1.3rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .mockup {
+            background: #f8fafc;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .mockup-header {
+            background: #2563eb;
+            color: white;
+            padding: 1rem;
+            border-radius: 6px 6px 0 0;
+            margin: -1.5rem -1.5rem 1rem;
+            font-weight: 600;
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            color: #374151;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            font-size: 1rem;
+        }
+
+        .btn {
+            background: #2563eb;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background: #1d4ed8;
+        }
+
+        .btn-secondary {
+            background: #10b981;
+        }
+
+        .btn-secondary:hover {
+            background: #059669;
+        }
+
+        .metrics {
+            display: flex;
+            justify-content: space-around;
+            background: #f0f9ff;
+            padding: 2rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+        }
+
+        .metric {
+            text-align: center;
+        }
+
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #2563eb;
+        }
+
+        .metric-label {
+            color: #64748b;
+            font-size: 0.9rem;
+        }
+
+        .report-sample {
+            background: #fff;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+            line-height: 1.4;
+            white-space: pre-line;
+        }
+
+        .highlight {
+            background: #fef3c7;
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+        }
+
+        .timeline {
+            position: relative;
+            padding-left: 2rem;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0.5rem;
+            top: 0;
+            height: 100%;
+            width: 2px;
+            background: #2563eb;
+        }
+
+        .timeline-item {
+            position: relative;
+            padding: 1rem 0;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -1.25rem;
+            top: 1.5rem;
+            width: 1rem;
+            height: 1rem;
+            background: #2563eb;
+            border-radius: 50%;
+        }
+
+        .cta {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-align: center;
+            padding: 3rem;
+            border-radius: 12px;
+            margin: 3rem 0;
+        }
+
+        .cta h2 {
+            margin-bottom: 1rem;
+        }
+
+        .cta p {
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            opacity: 0.9;
+        }
+
+        @media (max-width: 768px) {
+            .nav-menu {
+                gap: 1rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .metrics {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <div class="nav-container">
+                <div class="logo">AutoAnalytics Pro</div>
+                <ul class="nav-menu">
+                    <li class="nav-item active" onclick="showSection('partnership')">Partnership Overview</li>
+                    <li class="nav-item" onclick="showSection('service')">Service Demo</li>
+                    <li class="nav-item" onclick="showSection('technology')">Technology</li>
+                    <li class="nav-item" onclick="showSection('implementation')">Implementation</li>
+                    <li class="nav-item" onclick="showSection('results')">Results</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="content">
+        <!-- Partnership Overview Section -->
+        <section id="partnership" class="section active">
+            <div class="hero">
+                <div class="container">
+                    <h1>Strategic Partnership Opportunity</h1>
+                    <p>Transform CompuTech Direct's SMB campaign services with automated analytics that eliminate manual segmentation while maintaining statistical rigor and unlocking new revenue streams</p>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="card">
+                    <h2>The Revenue Opportunity</h2>
+                    <div class="grid">
+                        <div>
+                            <h3>Current Challenge</h3>
+                            <p>Your revenue is tied to mail volume while agencies struggle with unprofitable smaller clients due to expensive manual segmentation requiring specialized expertise for every campaign.</p>
+                        </div>
+                        <div>
+                            <h3>Automation Solution</h3>
+                            <p>Automated statistical modeling eliminates labor-intensive spreadsheet manipulation, making smaller clients profitable through scalable, consistent processes that maintain analytical rigor.</p>
+                        </div>
+                    </div>
+
+                    <div class="metrics">
+                        <div class="metric">
+                            <div class="metric-value">80%</div>
+                            <div class="metric-label">Reduction in Manual Analysis</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">2-3 Days</div>
+                            <div class="metric-label">Automated Turnaround</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">2-3x</div>
+                            <div class="metric-label">Premium Service Pricing</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Partnership Model</h2>
+                    <div class="grid">
+                        <div>
+                            <h3>Your Strategic Advantages</h3>
+                            <ul>
+                                <li><strong>Market Expansion:</strong> Serve agency clients you currently can't handle profitably</li>
+                                <li><strong>Operational Efficiency:</strong> Automated analytics vs. expensive manual consulting</li>
+                                <li><strong>Agency Relationships:</strong> Leverage existing relationships with multiple agencies</li>
+                                <li><strong>Scalable Revenue:</strong> Process more campaigns without proportional labor increase</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>Revenue Sharing Structure</h3>
+                            <ul>
+                                <li><strong>Development Investment:</strong> Shared cost for system adaptation</li>
+                                <li><strong>Incremental Revenue:</strong> Percentage of new business generated</li>
+                                <li><strong>Premium Services:</strong> Enhanced pricing for advanced features</li>
+                                <li><strong>Market Expansion:</strong> New agency partnerships enabled</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Technical Foundation</h2>
+                    <p>Built on <span class="highlight">proven statistical modeling technology</span> that has already delivered measurable results for enterprise clients:</p>
+                    <ul>
+                        <li><strong>Validated Codebase:</strong> Existing system successfully optimized data purchase decisions for large-scale campaigns</li>
+                        <li><strong>Statistical Rigor:</strong> Logistic regression with feature importance analysis (proven, reliable technology)</li>
+                        <li><strong>AI Enhancement:</strong> LLM-generated executive reports convert technical outputs into client-ready deliverables</li>
+                        <li><strong>Integration Ready:</strong> Designed to work with your existing data processing infrastructure</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Service Demo Section -->
+        <section id="service" class="section">
+            <div class="container">
+                <div class="card">
+                    <h2>Agency Experience Demo</h2>
+                    <p>This is what agencies would see and experience using the automated system:</p>
+
+                    <div class="mockup">
+                        <div class="mockup-header">Campaign Optimization Portal - Step 1: Data Upload</div>
+                        
+                        <div class="form-group">
+                            <label>Client Campaign Name</label>
+                            <input type="text" class="form-input" placeholder="Spring 2025 Home Decor Catalog" readonly>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Upload Client Data (CSV Format)</label>
+                            <input type="file" class="form-input" disabled>
+                            <small style="color: #6b7280;">Sample file: customer_data_spring2025.csv (47,293 records)</small>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Campaign Objective</label>
+                            <select class="form-input" disabled>
+                                <option>Response Optimization (recommended for most campaigns)</option>
+                                <option>Purchase Conversion (premium feature)</option>
+                                <option>High-Value Customer Targeting (premium feature)</option>
+                            </select>
+                        </div>
+
+                        <button class="btn">Next: Map Data Fields</button>
+                    </div>
+
+                    <div class="mockup">
+                        <div class="mockup-header">Step 2: Intelligent Field Mapping</div>
+                        
+                        <p style="margin-bottom: 1rem; color: #6b7280;">AI-powered field mapping detected these matches from your data:</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1rem; margin-bottom: 1rem;">
+                            <div><strong>Your Field</strong></div>
+                            <div><strong>Standard Field</strong></div>
+                            <div><strong>Confidence</strong></div>
+                            
+                            <div>Customer_ID</div>
+                            <div>INDIVIDUALID</div>
+                            <div style="color: #10b981;">✓ 100%</div>
+                            
+                            <div>Last_Purchase_Date</div>
+                            <div>RECENCY</div>
+                            <div style="color: #10b981;">✓ 95%</div>
+                            
+                            <div>Home_Owner</div>
+                            <div>HOMEOWNER</div>
+                            <div style="color: #10b981;">✓ 90%</div>
+                            
+                            <div>Response_Flag</div>
+                            <div>TARGET</div>
+                            <div style="color: #10b981;">✓ 100%</div>
+                        </div>
+
+                        <button class="btn btn-secondary">Submit for Analysis</button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Sample Executive Report Output</h2>
+                    <p>Within 2-3 business days, agencies receive comprehensive reports like this:</p>
+
+                    <div class="report-sample">
+<strong>EXECUTIVE SUMMARY: Campaign Optimization Analysis</strong>
+
+Client: Spring Home Decor Campaign
+Analysis Date: March 15, 2025
+Dataset: 47,293 customer records
+
+<strong>KEY FINDINGS:</strong>
+
+• <span class="highlight">Optimal targeting strategy identified using 3 core data variables for efficient segmentation</span>
+• Statistical modeling reveals clear customer segment priorities for budget allocation
+• Data analysis recommends focus on high-propensity segments with strong predictive indicators
+
+<strong>RECOMMENDED TARGETING STRATEGY:</strong>
+
+Primary Segments (Priority 1 - 15% of database):
+• Senior Discount customers with recent home decor purchases
+• Single Sophisticates in high-value homes  
+• Homeowners with strong credit ratings
+
+Secondary Segments (Priority 2 - 25% of database):
+• Middle-aged homeowners with moderate net worth
+• Recent contemporary decor purchasers
+
+<strong>BUDGET ALLOCATION RECOMMENDATION:</strong>
+• 60% of budget to Primary Segments (highest statistical probability)
+• 30% of budget to Secondary Segments (moderate probability)
+• 10% of budget to test segments (exploratory targeting)
+
+<strong>DATA OPTIMIZATION INSIGHTS:</strong>
+• 7 data sources provide comprehensive customer profiling
+• BUBBLES demographic data shows strongest predictive value
+• Recency variables critical for timing optimization
+• Home value and credit data enhance targeting precision
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Implementation Deliverables</h2>
+                    <div class="grid">
+                        <div>
+                            <h3>For CompuTech Direct</h3>
+                            <ul>
+                                <li>Implementable scoring algorithms</li>
+                                <li>Technical specifications for mail selection</li>
+                                <li>Quality assurance metrics</li>
+                                <li>Performance monitoring guidelines</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>For Agency Client Presentation</h3>
+                            <ul>
+                                <li>Executive summary reports</li>
+                                <li>Strategic recommendations</li>
+                                <li>Performance projections</li>
+                                <li>Budget allocation guidance</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Technology Section -->
+        <section id="technology" class="section">
+            <div class="container">
+                <div class="card">
+                    <h2>Technical Architecture</h2>
+                    <div class="grid">
+                        <div>
+                            <h3>Statistical Foundation</h3>
+                            <ul>
+                                <li><strong>Logistic Regression:</strong> Proven statistical modeling technique</li>
+                                <li><strong>Feature Engineering:</strong> Automated variable analysis and selection</li>
+                                <li><strong>Cross-Validation:</strong> Built-in model performance validation</li>
+                                <li><strong>Lift Analysis:</strong> Statistical significance testing</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>AI Enhancement Layer</h3>
+                            <ul>
+                                <li><strong>Natural Language Generation:</strong> Convert statistics to business insights</li>
+                                <li><strong>Intelligent Field Mapping:</strong> Automated data schema matching</li>
+                                <li><strong>Report Generation:</strong> Executive summaries and recommendations</li>
+                                <li><strong>Quality Monitoring:</strong> Automated model performance tracking</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Integration Requirements</h2>
+                    <h3>System Inputs</h3>
+                    <ul>
+                        <li><strong>Data Format:</strong> Standard CSV with demographic and behavioral fields</li>
+                        <li><strong>Minimum Volume:</strong> 10,000 records for statistical reliability</li>
+                        <li><strong>Required Fields:</strong> Customer ID, response history, core demographic data</li>
+                        <li><strong>Quality Threshold:</strong> 80% field completion for key variables</li>
+                    </ul>
+
+                    <h3>System Outputs</h3>
+                    <ul>
+                        <li><strong>Scoring Algorithms:</strong> Implementable rules for your mail selection systems</li>
+                        <li><strong>Technical Documentation:</strong> Algorithm specifications and performance metrics</li>
+                        <li><strong>Executive Reports:</strong> Client-ready business intelligence summaries</li>
+                        <li><strong>Performance Projections:</strong> Expected results and quality assurance metrics</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h2>Proven Analytical Capabilities</h2>
+                    <p>This technology has already been validated with comprehensive real client data analysis:</p>
+                    
+                    <div class="metrics">
+                        <div class="metric">
+                            <div class="metric-value">147</div>
+                            <div class="metric-label">Variables Analyzed</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">90,424</div>
+                            <div class="metric-label">Customer Records Processed</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">7</div>
+                            <div class="metric-label">Data Sources for 87% Performance</div>
+                        </div>
+                    </div>
+
+                    <p>The system identified that using just the <span class="highlight">top 15 variables achieved 87% of maximum statistical performance</span> while requiring only 7 different data purchases - demonstrating exactly the kind of cost-optimization insights that provide clear data investment guidance.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Implementation Section -->
+        <section id="implementation" class="section">
+            <div class="container">
+                <div class="card">
+                    <h2>Implementation Roadmap</h2>
+                    
+                    <div class="timeline">
+                        <div class="timeline-item">
+                            <h3>Phase 1: System Adaptation (4 weeks)</h3>
+                            <ul>
+                                <li>Adapt existing codebase for production deployment</li>
+                                <li>Build agency web portal for data submission</li>
+                                <li>Integrate AI report generation with your infrastructure</li>
+                                <li>Validate compatibility with CompuTech Direct systems</li>
+                            </ul>
+                        </div>
+
+                        <div class="timeline-item">
+                            <h3>Phase 2: Pilot Testing (4 weeks)</h3>
+                            <ul>
+                                <li>Deploy with 2-3 representative agency campaigns</li>
+                                <li>Refine automated processes based on real-world usage</li>
+                                <li>Optimize AI report formats for agency needs</li>
+                                <li>Establish performance benchmarks and quality metrics</li>
+                            </ul>
+                        </div>
+
+                        <div class="timeline-item">
+                            <h3>Phase 3: Market Launch (Ongoing)</h3>
+                            <ul>
+                                <li>Scale to multiple agency partnerships</li>
+                                <li>Launch premium model types and advanced features</li>
+                                <li>Implement automated monitoring and optimization</li>
+                                <li>Establish competitive market positioning</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Resource Requirements</h2>
+                    <div class="grid">
+                        <div>
+                            <h3>Development Investment</h3>
+                            <ul>
+                                <li><strong>Core System:</strong> 2-3 weeks adaptation work</li>
+                                <li><strong>Web Interface:</strong> 2-3 weeks for agency portal</li>
+                                <li><strong>AI Integration:</strong> 1-2 weeks for automated reporting</li>
+                                <li><strong>Testing & QA:</strong> 1-2 weeks validation and refinement</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>CompuTech Direct Requirements</h3>
+                            <ul>
+                                <li><strong>Technical Integration:</strong> Standard API connections</li>
+                                <li><strong>Algorithm Implementation:</strong> Coding scoring rules (routine engineering)</li>
+                                <li><strong>Infrastructure:</strong> System hosting and data processing</li>
+                                <li><strong>Support:</strong> Agency onboarding and training</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Risk Mitigation</h2>
+                    <h3>Technical Risks</h3>
+                    <ul>
+                        <li><strong>Proven Foundation:</strong> Core system already validated with enterprise client success</li>
+                        <li><strong>Quality Gates:</strong> Automated validation prevents poor datasets from degrading results</li>
+                        <li><strong>Performance Monitoring:</strong> Built-in tracking ensures consistent model performance</li>
+                        <li><strong>Fallback Options:</strong> Manual override capabilities for exceptional cases</li>
+                    </ul>
+
+                    <h3>Business Risks</h3>
+                    <ul>
+                        <li><strong>Clear Boundaries:</strong> Defined scope prevents feature creep and maintains profitability</li>
+                        <li><strong>Pilot Validation:</strong> Test with representative clients before full deployment</li>
+                        <li><strong>Scalable Architecture:</strong> System handles growth without proportional cost increases</li>
+                        <li><strong>Market Positioning:</strong> AI-powered differentiation creates competitive advantages</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section id="results" class="section">
+            <div class="container">
+                <div class="card">
+                    <h2>Validated Process Results</h2>
+                    <p>These results demonstrate the system's analytical capabilities from actual enterprise client engagement:</p>
+
+                    <div class="metrics">
+                        <div class="metric">
+                            <div class="metric-value">147</div>
+                            <div class="metric-label">Variables Analyzed</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">90,424</div>
+                            <div class="metric-label">Records Processed</div>
+                        </div>
+                        <div class="metric">
+                            <div class="metric-value">87%</div>
+                            <div class="metric-label">Performance with Top 15 Variables</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Data Optimization Insights</h2>
+                    <p>The system's ability to identify the most cost-effective data purchases:</p>
+
+                    <div class="grid">
+                        <div>
+                            <h3>Cost Efficiency Discovery</h3>
+                            <ul>
+                                <li><strong>Top 3 variables:</strong> 61.5% of maximum performance</li>
+                                <li><strong>Top 5 variables:</strong> 64.6% of maximum performance</li>
+                                <li><strong>Top 15 variables:</strong> 87% of maximum performance</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>Data Purchase Optimization</h3>
+                            <ul>
+                                <li><strong>7 data sources</strong> provide 87% of model performance</li>
+                                <li><strong>Highest value:</strong> BUBBLES demographic data (0.316 predictive power)</li>
+                                <li><strong>Premium variables</strong> clearly identified for priority purchase</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Business Impact Projections</h2>
+                    
+                    <h3>Operational Benefits</h3>
+                    <div class="grid">
+                        <div>
+                            <h4>For CompuTech Direct</h4>
+                            <ul>
+                                <li><strong>Market Expansion:</strong> Serve SMB clients profitably through automation</li>
+                                <li><strong>Premium Positioning:</strong> AI-powered analytics command higher service fees</li>
+                                <li><strong>Agency Growth:</strong> Attract new partnerships with technology differentiation</li>
+                                <li><strong>Operational Scale:</strong> Process more campaigns without proportional staffing</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h4>For Partner Agencies</h4>
+                            <ul>
+                                <li><strong>Client Expansion:</strong> Serve previously unprofitable smaller clients</li>
+                                <li><strong>Service Efficiency:</strong> Eliminate complex manual segmentation processes</li>
+                                <li><strong>Professional Deliverables:</strong> Executive reports justify consulting fees</li>
+                                <li><strong>Competitive Positioning:</strong> Technology-driven service differentiation</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <h3>Expected ROI Timeline</h3>
+                    <ul>
+                        <li><strong>Month 1-2:</strong> Development investment and pilot testing</li>
+                        <li><strong>Month 3-4:</strong> First revenue from pilot agency engagements</li>
+                        <li><strong>Month 6:</strong> Investment recovery through premium service fees</li>
+                        <li><strong>Month 12:</strong> Significant revenue growth from market expansion</li>
+                    </ul>
+                </div>
+
+                <div class="cta">
+                    <h2>Partnership Discussion</h2>
+                    <p>Ready to explore how this proven technology can transform CompuTech Direct's market position and unlock new revenue opportunities?</p>
+                    <button class="btn" style="font-size: 1.1rem; padding: 1rem 2rem;">Schedule Strategic Discussion</button>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        function showSection(sectionId) {
+            // Hide all sections
+            const sections = document.querySelectorAll('.section');
+            sections.forEach(section => section.classList.remove('active'));
+            
+            // Show selected section
+            document.getElementById(sectionId).classList.add('active');
+            
+            // Update navigation
+            const navItems = document.querySelectorAll('.nav-item');
+            navItems.forEach(item => item.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        // Add smooth scrolling to top when switching sections
+        document.querySelectorAll('.nav-item').forEach(item => {
+            item.addEventListener('click', () => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+        });
+    </script>
+</body>
+</html>

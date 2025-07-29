@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automated Campaign Analytics - Transform Your SMB Profitability</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f8fafc;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Navigation */
+        nav {
+            background: #fff;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .nav-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 0;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #2563eb;
+        }
+
+        .nav-menu {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-item {
+            cursor: pointer;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            transition: background-color 0.3s;
+        }
+
+        .nav-item:hover {
+            background-color: #f1f5f9;
+        }
+
+        .nav-item.active {
+            background-color: #2563eb;
+            color: white;
+        }
+
+        /* Content Sections */
+        .content {
+            margin-top: 80px;
+            min-height: calc(100vh - 80px);
+        }
+
+        .section {
+            display: none;
+            padding: 3rem 0;
+        }
+
+        .section.active {
+            display: block;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 4rem 0;
+            background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%);
+            color: white;
+            margin-bottom: 3rem;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            opacity: 0.9;
+            max-width: 700px;
+            margin: 0 auto 2rem;
+        }
+
+        .hero-stats {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            margin-top: 2rem;
+        }
+
+        .hero-stat {
+            text-align: center;
+        }
+
+        .hero-stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            display: block;
+        }
+
+        .hero-stat-label {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+
+        .card h2 {
+            color: #1e293b;
+            margin-bottom: 1rem;
+            font-size: 1.8rem;
+        }
+
+        .card h3 {
+            color: #475569;
+            margin: 1.5rem 0 1rem;
+            font-size: 1.3rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .problem-solution {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .problem {
+            background: #fef2f2;
+            border-left: 4px solid #dc2626;
+            padding: 1.5rem;
+            border-radius: 8px;
+        }
+
+        .solution {
+            background: #f0fdf4;
+            border-left: 4px solid #16a34a;
+            padding: 1.5rem;
+            border-radius: 8px;
+        }
+
+        .workflow {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .workflow-step {
+            text-align: center;
+            padding: 1.5rem;
+            background: #f8fafc;
+            border-radius: 8px;
+            position: relative;
+        }
+
+        .workflow-step::after {
+            content: '→';
+            position: absolute;
+            right: -1.5rem;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 1.5rem;
+            color: #2563eb;
+        }
+
+        .workflow-step:last-child::after {
+            display: none;
+        }
+
+        .workflow-number {
+            background: #2563eb;
+            color: white;
+            width: 2rem;
+            height: 2rem;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 1rem;
+            font-weight: bold;
+        }
+
+        .metrics {
+            display: flex;
+            justify-content: space-around;
+            background: #f0f9ff;
+            padding: 2rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+        }
+
+        .metric {
+            text-align: center;
+        }
+
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #2563eb;
+        }
+
+        .metric-label {
+            color: #64748b;
+            font-size: 0.9rem;
+        }
+
+        .mockup {
+            background: #f8fafc;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .mockup-header {
+            background: #2563eb;
+            color: white;
+            padding: 1rem;
+            border-radius: 6px 6px 0 0;
+            margin: -1.5rem -1.5rem 1rem;
+            font-weight: 600;
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+            color: #374151;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            font-size: 1rem;
+        }
+
+        .highlight {
+            background: #fef3c7;
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+        }
+
+        .cta {
+            background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+            color: white;
+            text-align: center;
+            padding: 3rem;
+            border-radius: 12px;
+            margin: 3rem 0;
+        }
+
+        .cta h2 {
+            margin-bottom: 1rem;
+        }
+
+        .cta p {
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            opacity: 0.9;
+        }
+
+        .btn {
+            background: #2563eb;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background-color 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .btn:hover {
+            background: #1d4ed8;
+        }
+
+        .btn-white {
+            background: white;
+            color: #2563eb;
+        }
+
+        .btn-white:hover {
+            background: #f8fafc;
+            color: #1d4ed8;
+        }
+
+        .btn-secondary {
+            background: #10b981;
+        }
+
+        .btn-secondary:hover {
+            background: #059669;
+        }
+
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+        }
+
+        .comparison-table th,
+        .comparison-table td {
+            text-align: left;
+            padding: 1rem;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .comparison-table th {
+            background: #f8fafc;
+            font-weight: 600;
+        }
+
+        .comparison-table .old {
+            color: #dc2626;
+        }
+
+        .comparison-table .new {
+            color: #16a34a;
+            font-weight: 500;
+        }
+
+        @media (max-width: 768px) {
+            .nav-menu {
+                gap: 1rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .hero-stats {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .problem-solution {
+                grid-template-columns: 1fr;
+            }
+
+            .workflow {
+                grid-template-columns: 1fr;
+            }
+
+            .workflow-step::after {
+                content: '↓';
+                right: 50%;
+                top: 100%;
+                transform: translateX(50%);
+            }
+
+            .metrics {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="container">
+            <div class="nav-container">
+                <div class="logo">CampaignIQ</div>
+                <ul class="nav-menu">
+                    <li class="nav-item active" onclick="showSection('problem')">The Challenge</li>
+                    <li class="nav-item" onclick="showSection('solution')">The Solution</li>
+                    <li class="nav-item" onclick="showSection('experience')">What You Get</li>
+                    <li class="nav-item" onclick="showSection('results')">Results & ROI</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="content">
+        <!-- Problem Section -->
+        <section id="problem" class="section active">
+            <div class="hero">
+                <div class="container">
+                    <h1>Scale Your Segmentation Expertise</h1>
+                    <p>Your team's detailed segmentation approach works great - but it doesn't scale. Manual analysis limits how many clients you can serve profitably and makes training new staff nearly impossible.</p>
+                    
+                    <div class="hero-stats">
+                        <div class="hero-stat">
+                            <span class="hero-stat-value">80%</span>
+                            <span class="hero-stat-label">Less Manual Work</span>
+                        </div>
+                        <div class="hero-stat">
+                            <span class="hero-stat-value">2-3x</span>
+                            <span class="hero-stat-label">Higher Fees</span>
+                        </div>
+                        <div class="hero-stat">
+                            <span class="hero-stat-value">3 Days</span>
+                            <span class="hero-stat-label">Turnaround Time</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="card">
+                    <h2>The Scalability Challenge</h2>
+                    
+                    <div class="problem-solution">
+                        <div class="problem">
+                            <h3>Current Limitations</h3>
+                            <ul>
+                                <li><strong>Spreadsheet Complexity:</strong> Analysis becomes unwieldy beyond 5-6 variables</li>
+                                <li><strong>Staff Dependency:</strong> Requires experienced analysts who understand your methodology</li>
+                                <li><strong>Training Bottleneck:</strong> New hires need months to master complex segmentation</li>
+                                <li><strong>Time Intensive:</strong> Detailed analysis limits client capacity</li>
+                                <li><strong>Consistency Challenges:</strong> Quality varies based on analyst workload and expertise</li>
+                            </ul>
+                        </div>
+                        
+                        <div class="solution">
+                            <h3>Enhanced Capabilities</h3>
+                            <ul>
+                                <li><strong>Unlimited Variables:</strong> Analyze 50+ variables with same effort as 5</li>
+                                <li><strong>Automated Processing:</strong> Your methodology, systematized and scalable</li>
+                                <li><strong>Instant Training:</strong> New staff productive immediately</li>
+                                <li><strong>2-3 Day Turnaround:</strong> Serve more clients profitably</li>
+                                <li><strong>Consistent Quality:</strong> Same rigorous analysis every time</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Enhanced vs. Manual Analysis</h2>
+                    
+                    <table class="comparison-table">
+                        <thead>
+                            <tr>
+                                <th>Analysis Capability</th>
+                                <th>Manual Spreadsheet Approach</th>
+                                <th>Automated Statistical Enhancement</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Variable Capacity</strong></td>
+                                <td class="old">5-6 variables before complexity overwhelms</td>
+                                <td class="new">50+ variables analyzed simultaneously</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Staff Requirements</strong></td>
+                                <td class="old">Experienced analyst with months of training</td>
+                                <td class="new">Anyone can upload data and get results</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Analysis Transparency</strong></td>
+                                <td class="old">Manual micro-segment performance tracking</td>
+                                <td class="new">AI-generated performance summaries with full statistical detail</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Methodology Consistency</strong></td>
+                                <td class="old">Varies by analyst and workload</td>
+                                <td class="new">Same rigorous approach every campaign</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Client Deliverables</strong></td>
+                                <td class="old">Technical spreadsheets requiring explanation</td>
+                                <td class="new">Executive-ready reports with clear recommendations</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="card">
+                    <h2>The Growth Opportunity</h2>
+                    <p>Your detailed segmentation approach gives great results - but <strong>it doesn't scale</strong>. Manual processes create bottlenecks that limit growth and make staff training nearly impossible.</p>
+                    
+                    <div class="grid">
+                        <div>
+                            <h3>Scale Your Expertise</h3>
+                            <ul>
+                                <li>Handle more campaigns without hiring specialist analysts</li>
+                                <li>Serve smaller clients profitably with automated processes</li>
+                                <li>New hires productive immediately instead of months of training</li>
+                                <li>Consistent quality regardless of staff workload</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>Competitive Positioning</h3>
+                            <ul>
+                                <li>Offer Fortune 500-level analytics at SMB prices</li>
+                                <li>Professional deliverables that justify premium fees</li>
+                                <li>Technology differentiation vs. spreadsheet-based competitors</li>
+                                <li>Capability to analyze 10x more variables than manual methods</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Solution Section -->
+        <section id="solution" class="section">
+            <div class="container">
+                <div class="card">
+                    <h2>How It Works - Simple 3-Step Process</h2>
+                    
+                    <div class="workflow">
+                        <div class="workflow-step">
+                            <div class="workflow-number">1</div>
+                            <h3>Upload Client Data</h3>
+                            <p>Drag and drop CSV file through secure portal. AI automatically maps data fields and validates quality.</p>
+                        </div>
+                        <div class="workflow-step">
+                            <div class="workflow-number">2</div>
+                            <h3>Automated Analysis</h3>
+                            <p>Statistical modeling identifies optimal customer segments in 2-3 business days. No manual work required.</p>
+                        </div>
+                        <div class="workflow-step">
+                            <div class="workflow-number">3</div>
+                            <h3>Receive Results</h3>
+                            <p>Get executive reports plus implementable targeting algorithms ready for immediate campaign use.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Enhanced Capability, Full Transparency</h2>
+                    <p>This isn't a "black box" - you get <strong>more visibility</strong> into campaign performance than manual analysis provides, plus capabilities your team couldn't build in-house.</p>
+                    
+                    <div class="grid">
+                        <div>
+                            <h3>Complete Statistical Transparency</h3>
+                            <ul>
+                                <li><strong>Variable Importance:</strong> See exactly which factors drive response</li>
+                                <li><strong>Segment Performance:</strong> AI-generated summaries of micro-segment results</li>
+                                <li><strong>Statistical Confidence:</strong> Know how reliable your targeting predictions are</li>
+                                <li><strong>Model Diagnostics:</strong> Full access to all analytical outputs</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>What You Couldn't Build In-House</h3>
+                            <ul>
+                                <li><strong>Statistical Modeling:</strong> Logistic regression with 50+ variables</li>
+                                <li><strong>Feature Engineering:</strong> Automated variable selection and optimization</li>
+                                <li><strong>Cross-Validation:</strong> Built-in performance testing and validation</li>
+                                <li><strong>AI Reporting:</strong> Natural language insights from complex statistics</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Zero Technical Complexity</h2>
+                    <p>You don't need to understand statistics or hire data scientists. The system handles all technical complexity while you focus on client relationships and strategy.</p>
+                    
+                    <div class="grid">
+                        <div>
+                            <h3>What You Do</h3>
+                            <ul>
+                                <li>Upload client data (CSV format)</li>
+                                <li>Specify campaign objectives</li>
+                                <li>Review and present results to client</li>
+                                <li>Implement recommended targeting</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>What The System Does</h3>
+                            <ul>
+                                <li>Statistical modeling and analysis</li>
+                                <li>Performance optimization calculations</li>
+                                <li>Executive report generation</li>
+                                <li>Quality assurance and validation</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experience Section -->
+        <section id="experience" class="section">
+            <div class="container">
+                <!-- 
+                <div class="card">
+                    <h2>Sample Executive Report</h2>
+                    <p>This is what your clients receive - professional insights that justify premium consulting fees:</p>
+
+                    <div class="report-sample">
+[EXECUTIVE REPORT CONTENT TO BE FINALIZED]
+                    </div>
+                </div>
+                -->
+
+                <div class="card">
+                    <h2>Simple User Experience</h2>
+                    <p>See how easy it is to get from client data to professional deliverables:</p>
+
+                    <div class="mockup">
+                        <div class="mockup-header">Campaign Optimization Portal - Step 1: Data Upload</div>
+                        
+                        <div class="form-group">
+                            <label>Client Campaign Name</label>
+                            <input type="text" class="form-input" placeholder="Spring 2025 Home Decor Catalog" readonly>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Upload Client Data (CSV Format)</label>
+                            <input type="file" class="form-input" disabled>
+                            <small style="color: #6b7280;">Sample file: customer_data_spring2025.csv (47,293 records)</small>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Campaign Objective</label>
+                            <select class="form-input" disabled>
+                                <option>Response Optimization (recommended for most campaigns)</option>
+                                <option>Purchase Conversion (premium feature)</option>
+                                <option>High-Value Customer Targeting (premium feature)</option>
+                            </select>
+                        </div>
+
+                        <button class="btn">Next: Map Data Fields</button>
+                    </div>
+
+                    <div class="mockup">
+                        <div class="mockup-header">Step 2: Easy Field Mapping</div>
+                        
+                        <p style="margin-bottom: 1rem; color: #6b7280;">Intuitive UI for mapping and uploading data. AI assist for ease of use (optional):</p>
+                        
+                        <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1rem; margin-bottom: 1rem; font-size: 0.9rem;">
+                            <div><strong>Your Field</strong></div>
+                            <div><strong>Standard Field</strong></div>
+                            <div><strong>Confidence</strong></div>
+                            
+                            <div>Customer_ID</div>
+                            <div>INDIVIDUALID</div>
+                            <div style="color: #10b981;">✓ 100%</div>
+                            
+                            <div>Last_Purchase_Date</div>
+                            <div>RECENCY</div>
+                            <div style="color: #10b981;">✓ 95%</div>
+                            
+                            <div>Home_Owner</div>
+                            <div>HOMEOWNER</div>
+                            <div style="color: #10b981;">✓ 90%</div>
+                            
+                            <div>Response_Flag</div>
+                            <div>TARGET</div>
+                            <div style="color: #10b981;">✓ 100%</div>
+                        </div>
+
+                        <button class="btn btn-secondary">Submit for Analysis</button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Complete Deliverable Package</h2>
+                    
+                    <div class="grid">
+                        <div>
+                            <h3>For Your Client</h3>
+                            <ul>
+                                <li><strong>Executive Summary:</strong> Strategic insights and recommendations</li>
+                                <li><strong>Budget Allocation Guide:</strong> Data-driven investment priorities</li>
+                                <li><strong>Performance Projections:</strong> Expected results with statistical confidence</li>
+                                <li><strong>Market Intelligence:</strong> Customer segment analysis and insights</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>For Implementation</h3>
+                            <ul>
+                                <li><strong>Targeting Specifications:</strong> Precise selection criteria</li>
+                                <li><strong>Scoring Algorithms:</strong> Implementable customer scoring rules</li>
+                                <li><strong>Quality Metrics:</strong> Performance monitoring guidelines</li>
+                                <li><strong>Technical Documentation:</strong> Implementation support materials</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Service Requirements</h2>
+                    
+                    <h3>Data Requirements (Simple)</h3>
+                    <ul>
+                        <li><strong>Format:</strong> Standard CSV file</li>
+                        <li><strong>Minimum Size:</strong> 10,000 customer records</li>
+                        <li><strong>Required Fields:</strong> Customer ID, demographic data, response history</li>
+                        <li><strong>Processing Time:</strong> 2-3 business days guaranteed</li>
+                    </ul>
+
+                    <h3>What's Included</h3>
+                    <ul>
+                        <li><strong>Statistical Analysis:</strong> Full logistic regression modeling</li>
+                        <li><strong>Executive Reporting:</strong> AI-generated business intelligence</li>
+                        <li><strong>Implementation Support:</strong> Technical specifications for execution</li>
+                        <li><strong>Quality Assurance:</strong> Automated validation and performance monitoring</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section id="results" class="section">
+            <div class="container">
+                <div class="card">
+                    <h2>Expected Business Impact</h2>
+                    
+                    <div class="grid">
+                        <div>
+                            <h3>Operational Benefits</h3>
+                            <ul>
+                                <li><strong>80% Time Savings:</strong> Eliminate manual segmentation work</li>
+                                <li><strong>Consistent Quality:</strong> Enterprise-grade analysis every campaign</li>
+                                <li><strong>Scalable Growth:</strong> Handle 3x more clients with same resources</li>
+                                <li><strong>Staff Efficiency:</strong> Redeploy analysts to higher-value work</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h3>Revenue Growth</h3>
+                            <ul>
+                                <li><strong>Premium Pricing:</strong> 2-3x fees for AI-powered optimization</li>
+                                <li><strong>Market Expansion:</strong> Serve previously unprofitable SMB clients</li>
+                                <li><strong>Client Retention:</strong> Professional deliverables strengthen relationships</li>
+                                <li><strong>Competitive Edge:</strong> Technology differentiation vs. manual competitors</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h2>Investment & ROI</h2>
+                    
+                    <h3>Service Investment</h3>
+                    <ul>
+                        <li><strong>Per-Campaign Pricing:</strong> Fixed fee based on dataset size</li>
+                        <li><strong>Volume Discounts:</strong> Reduced rates for regular usage</li>
+                        <li><strong>No Setup Costs:</strong> Immediate access through existing partnership</li>
+                        <li><strong>Transparent Pricing:</strong> Predictable costs for budget planning</li>
+                    </ul>
+
+                    <h3>Expected ROI Timeline</h3>
+                    <ul>
+                        <li><strong>Immediate:</strong> Start serving small clients profitably</li>
+                        <li><strong>Month 1:</strong> Reduce analysis time by 80% across all campaigns</li>
+                        <li><strong>Month 3:</strong> Premium pricing justified by professional deliverables</li>
+                        <li><strong>Month 6:</strong> Market expansion enables significant revenue growth</li>
+                    </ul>
+                </div>
+
+                <div class="cta">
+                    <h2>Ready to Transform Your SMB Profitability?</h2>
+                    <p>Stop losing money on small clients. Start delivering AI-powered campaign optimization that justifies premium fees while eliminating manual analysis work.</p>
+                    <a href="#" class="btn btn-white" style="font-size: 1.1rem; padding: 1rem 2rem; margin-right: 1rem;">Schedule Demo</a>
+                    <a href="#" class="btn" style="font-size: 1.1rem; padding: 1rem 2rem; background: rgba(255,255,255,0.2);">Get Pricing</a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        function showSection(sectionId) {
+            // Hide all sections
+            const sections = document.querySelectorAll('.section');
+            sections.forEach(section => section.classList.remove('active'));
+            
+            // Show selected section
+            document.getElementById(sectionId).classList.add('active');
+            
+            // Update navigation
+            const navItems = document.querySelectorAll('.nav-item');
+            navItems.forEach(item => item.classList.remove('active'));
+            event.target.classList.add('active');
+        }
+
+        // Add smooth scrolling to top when switching sections
+        document.querySelectorAll('.nav-item').forEach(item => {
+            item.addEventListener('click', () => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+        });
+    </script>
+</body>
+</html>
